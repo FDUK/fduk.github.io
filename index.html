@@ -1,0 +1,113 @@
+---
+layout: home
+description: ""
+---
+
+<section>
+    <div class="container">
+        <div class="row widerGutter">
+            <div class="col-md-6">
+                <h2>Frederick Douglass</h2>
+                
+                <p>Frederick Douglass was a formerly enslaved abolitionist, civil rights activist, feminist and advocate of social justice. He travelled to Britain in 1845 for 19 months, lecturing against slavery in the United States.</p> 
+
+                <p>To an American audience, Douglass is perhaps the most famous fugitive from slavery, but in Britain he is less well known, despite the fact he achieved great celebrity in the mid nineteenth century.</p> 
+
+                <p>His lectures in Britain were fascinating works of oratory and they provide extraordinary insight into Douglass' life, as well as Victorian society in the 1840s and beyond. The controversies Douglass created and became embroiled in illustrate his power as a commanding and influential speaker. Douglass returned to the States in 1847 a free man: British abolitionists had purchased his freedom.</p>
+
+            </div>
+             <div class="col-md-6">
+                <img src="/img/Frederick_Douglass.jpg" alt="Frederick Douglass as a younger man"/>
+                <span class="caption text-muted">Frederick Douglass as a younger man (source)</span>
+            </div>
+        </div>  
+    </div> 
+</section>
+
+
+
+<section>
+    <div class="container">
+        <div class="row widerGutter">
+            <div class="col-md-6">
+                <h2>Frederick Douglass in Britain</h2>
+
+                <!-- remove inline style -->
+                <div style="position: relative">
+                    <a href="/FrederickDouglassMap/" class="thumb">
+                        <img src="/img/test-map.jpg" />
+                        <h4>View map <i class="fa fa-chevron-right" aria-hidden="true"></i></h4>
+                    </a>
+                </div>
+
+            </div>
+
+             <div class="col-md-6">
+                <h2>Other abolitionists</h2>
+
+                <div style="position: relative">
+                    <a href="/abolitionistsMap/" class="thumb">
+                        <img src="/img/test-map.jpg" />
+                        <h4>View map <i class="fa fa-chevron-right" aria-hidden="true"></i></h4>
+                    </a>
+                </div>
+
+            </div>
+        </div>  
+    </div> 
+</section>
+
+
+
+<section>
+    <div class="container">
+        <div class="row widerGutter">
+            <div class="col-md-6">
+                <h3 style="padding-top: 4em">Frederick Dougless' Journey</h3>
+                <ul class="sidenav">
+                    {% comment %}
+                      Generates nav of pages with `layout: journey` in the front-matter (ie JUST journey pages)
+                      Plus excludes pages without title
+                      Plus sorts on sortTitle (ie exclude the)
+                      see http://www.leveluplunch.com/blog/2014/04/03/sort-pages-by-title-filter-array-by-layout-jekyllrb/
+                    {% endcomment %}
+
+                    {% assign pages = (site.pages | where: "layout" , "journey" | sort: "sortTitle") %}
+                    {% for page in pages %}
+                        {% if page.title %}
+                            
+                    <li>
+                        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                    </li>
+                            
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+
+            </div>
+
+             <div class="col-md-6">
+                <h3 style="padding-top: 4em">Other abolitionists</h3>
+                <ul class="sidenav">
+                    {% comment %}
+                      Generates nav of pages with `layout: abolitionist` in the front-matter (ie JUST abolitionist pages)
+                      Plus excludes pages without title
+                      Plus sorts on sortTitle (ie surname)
+                      see http://www.leveluplunch.com/blog/2014/04/03/sort-pages-by-title-filter-array-by-layout-jekyllrb/
+                    {% endcomment %}
+
+                    {% assign pages = (site.pages | where: "layout" , "abolitionist" | sort: "sortTitle") %}
+                    {% for page in pages %}
+                        {% if page.title %}
+                            
+                    <li>
+                        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                    </li>
+                            
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>  
+    </div> 
+</section>

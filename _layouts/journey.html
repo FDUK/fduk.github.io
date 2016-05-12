@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<!-- Page Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <div class="container">
+        <div class="row">
+            <!-- <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1"> -->
+            <div class="col-md-12"> 
+                <div class="site-heading">
+                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                    <!--
+                    <hr class="small">
+                    <span class="subheading">{{ page.description }}</span>
+                -->
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Main Content -->
+<div class="container">
+	<div class="row widerGutter">
+
+        <!-- SIDE -->
+        <div class="col-lg-3 col-lg-offset-1 col-md-3">
+
+            <h3 style="padding-top: 4em">Journey</h3>
+            <ul class="sidenav">
+                {% comment %}
+                  Generates nav of pages with `layout: journey` in the front-matter (ie JUST abolitionist pages)
+                  Plus excludes pages without title
+                  Plus sorts on sortTitle (ie surname)
+                  see http://www.leveluplunch.com/blog/2014/04/03/sort-pages-by-title-filter-array-by-layout-jekyllrb/
+                {% endcomment %}
+
+                {% assign pages = (site.pages | where: "layout" , "journey" | sort: "sortTitle") %}
+                {% for page in pages %}
+                    {% if page.title %}
+                        
+                <li>
+                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                </li>
+                        
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
+        </div>
+
+        <!-- CONTENT -->
+		<div class="col-lg-8 col-md-9">
+            {{ content }}
+		</div>
+	</div>
+</div>
+
+<hr>

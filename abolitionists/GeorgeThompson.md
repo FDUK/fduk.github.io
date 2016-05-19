@@ -5,7 +5,7 @@ sortTitle: "Thompson George"
 profileImage: "GeorgeThompson-square.jpg"
 ---
 
-English MP, staunch abolitionist and devoted friend to William Lloyd Garrison, George Thompson was well-known to antislavery activists on both sides of the Atlantic. He was a powerful orator, and fought for abolition throughout this personal and professional career, often risking his life in the process.
+English MP, staunch abolitionist and devoted friend to William Lloyd Garrison, George Thompson was well-known to antislavery activists on both sides of the Atlantic. He was a powerful orator, and fought for abolition throughout this personal and professional career, often risking his life in the process. 
 
 > [Thompson] made so powerful an impression that he swept away all symptoms of opposition.
 > <footer><cite>William Lloyd Garrison to Helen Garrison, Sept. 17 1846, London</cite></footer>

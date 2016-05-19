@@ -9,6 +9,9 @@ After a tour of Scotland, Douglass arrived back in England. Douglass relied exte
 >We understand Frederick Douglass the fugitive American slave is expected to deliver lectures on American slavery in Leeds, the week after next, Mr Douglass is a noble specimen of physical intellectual manhood, and we have no doubt his lectures will excite the same interest in Leeds which they have done in Belfast, Liverpool, Edinburgh and other places. 
 > <footer><cite>Leeds Mercury, Saturday 12 December 1846</cite></footer>
 
+![Picture of Leeds](/img/Leeds.jpg)
+<span class="caption text-muted">Leeds (British Library Flickr Page)</span>
+
 Douglass attracted crowds wherever he spoke. He was a successful orator, using logic, mockery, irony, and passion to win over his audience. He was a powerful, charismatic individual, whose oratory skills were “of unequal depth and volume” according to one witness. 
 
 He carried with him several tools of slavery to expose its cruelty, such as manacles, chains and whips to shock the audience. Douglass frequently attacked the symbols of American freedom – the eagle, the sign of ‘liberty’ on every cent and dollar, and the Declaration of Independence against Britain. He, among other abolitionists and African American activists, exposed the cracks of this limited freedom. His success in Britain was partly because of his experience as a slave – he could describe the cruelty firsthand.

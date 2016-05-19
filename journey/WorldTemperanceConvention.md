@@ -9,7 +9,7 @@ In 1846, the World Temperance Convention was held in Covent Garden Theatre, Lond
 Frederick Douglass strongly believed in temperance, lecturing about its importance throughout his life. He spoke to temperance societies and women’s groups in particular, and believed alcohol endangered the black man’s survival. While in Britain, Douglass occasionally spoke about temperance, and he attended the 1846 World Convention. He was invited to speak on the subject, but not all were content with his speech. Reverend Samuel Cox of Brooklyn, New York (right) started a public exchange with Douglass after the meeting, denouncing his conduct and accusing him of being paid by abolitionists to disrupt the convention. Cox, an antislavery supporter himself, argued that Douglass turned the meeting into a debate about slavery.
 
 ![Picture of Covent Garden Theatre 1827-28](/img/Covent_Garden_Theatre_1827-28.jpg)
-<span class="caption text-muted">Covent Garden Theatre 1827-28 (source)</span>
+<span class="caption text-muted">Covent Garden Theatre 1827-28 (Wikipedia)</span>
 
 > The moral scene was superb and glorious – when Frederick Douglass, the coloured abolitionist agitator came to the platform…[he] was perfectly indiscriminate in his severities, he talked of the American delegates, and to them, as if he had been our schoolmaster, and we his docile and devoted pupils and launched his revengeful missiles against our country. 
 > <footer><cite>Samuel Cox, August 8 1846</cite></footer>

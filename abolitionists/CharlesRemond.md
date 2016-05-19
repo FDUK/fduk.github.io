@@ -12,6 +12,9 @@ Charles L. Remond’s visit to Britain in the 1830s set the precedent for other 
 
 Born free in 1810, Remond was the sister of Sarah Parker Remond. In his 20s, he began speaking against slavery for William Lloyd Garrison’s organisation, the Massachusetts Anti-Slavery Society and both men travelled to London for the World’s Antislavery Convention in 1840.
 
+![Picture of Charles Remond](/img/Charles_Lenox_Remond_3.jpg)
+<span class="caption text-muted">Charles Remond (Wikipedia)</span>
+
 Remond lectured on slavery in both America and in Britain, attracting much interest and support in both countries. During the Civil War, Remond urged fellow black men to serve in the United States Colored Troops for the Union Army.
 
 He died in Boston in 1873.

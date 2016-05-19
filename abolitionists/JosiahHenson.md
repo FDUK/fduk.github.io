@@ -2,6 +2,7 @@
 layout: abolitionist
 title: "Josiah Henson"
 sortTitle: "Henson Josiah"
+profileImage: "Josiah_Henson.jpg"
 ---
 
 From enduring the cruelties of a Maryland plantation to meeting the Queen at Windsor Palace, Josiah Henson possessed deep determination, perseverance and a desire to resist racism and oppression.
@@ -12,7 +13,7 @@ From enduring the cruelties of a Maryland plantation to meeting the Queen at Win
 
 Josiah Henson (1789-1883) was born enslaved in Maryland. He was often severely punished, and witnessed extreme acts of violence – his father was brutally whipped over one hundred times and his ear was nailed to a whipping post.
 
-![Picture of Josiah Henson](/img/Josiah_Henson.jpg)
+![Picture of Josiah Henson](/img/Josiah_Henson_bw.jpg)
 <span class="caption text-muted">Josiah Henson (source)</span>
 
 Henson saved money from odd jobs he performed whilst being loaned to plantations, and attempted to buy his freedom. His master set a price at $450, but when Henson presented the money, his master refused and increased the price more than twofold ($1350). Henson decided to escape to Canada succeeding in 1830, where he established a school for labourers and wrote an autobiography of his life.

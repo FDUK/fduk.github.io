@@ -13,7 +13,7 @@ In a letter to William Lloyd Garrison in September 1845, he wrote:
 
 The pro-slavery supporters demanded he should return to his berth, and many decried he should be sent back to slavery. Some even threatened to throw him into the ocean, but: 
 
-“…a noble-spirited Irish gentleman assured the man who proposed to throw me overboard that two could play at that game, and that, in the end, be thrown overboard himself. The clamor went on, waxing hotter and hotter, til it was quite impossible for me to proceed…”
+“…a noble-spirited Irish gentleman assured the man who proposed to throw me overboard that two could play at that game, and that, in the end, be thrown overboard himself. The clamor went on, waxing hotter and hotter, til it was quite impossible for me to proceed…” 
 
 Douglass described the experience in more detail in a letter to Thurlow Weed, a fellow abolitionist, in December 1845:
 

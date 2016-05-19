@@ -2,7 +2,7 @@
 layout: abolitionist
 title: "Moses Roper"
 sortTitle: "Roper Moses"
-profileImage: 
+profileImage: "Moses_Roper.jpg"
 ---
 
 
@@ -12,6 +12,9 @@ Roper’s Narrative was one of the first to visually depict the horrors of slave
 > <footer><cite>The Essex Standard, and General Advertiser for the Eastern Counties, Friday February 1 1839.</cite></footer>
 
 Roper was born enslaved in North Carolina around 1815. As with thousands of other enslaved individuals, his father was also his white master and as a result Roper had a fair complexion. He was severely punished for his numerous escape attempts (around 16). He was whipped one hundred times in one sitting, and in another instance, was chained to a female enslaved individual for several months. Whilst enslaved he also heard of and witnessed brutal violence: a neighbouring plantation master forced some enslaved men and women into barrels, nailed them shut so the nails protruded in the inside, and rolled them down the hill.
+
+![Picture of Moses Roper](/img/Moses_Roper.jpg)
+<span class="caption text-muted">Moses Roper (Wikipedia)</span>
 
 Remarkably, Roper escaped from Florida (where he had been sold to another master and travelled to New York. Eventually, he visited Britain and attracted large crowds in London and towns in the North.
 

@@ -15,8 +15,5 @@ On one occasion – to Douglass’ delight – he shared a speaking platform wit
 
 As a result of this popularity, hundreds came to hear Douglass speak, and he published a new version of his Narrative highlighting the strength of Irish support. Douglass found that, unlike parts of America, few areas were closed to him in Ireland – he dined with upper class gentlemen intrigued to hear his story, and travelled across the country without restriction. He even dined with the Lord Mayor of Dublin. The beauty of Ireland impressed Douglass, and he spoke frequently of the kindness he received from friends, but he also wrote of the horror he felt when he witnessed the dire poverty of the Irish people. [Sweeney, 2007), pp.7-28]
 
-![Picture of Frederick Douglass mural in Belfast](/img/FrederickDouglassMuralBelfast.jpg)
-<span class="caption text-muted">Frederick Douglass mural, Solidarity Wall, Belfast (source)</span>
-
 Some Irishmen, however, were not impressed with Douglass’ celebrity – on several occasions in Belfast, graffiti covered the advertisements of his speeches, demanding he be sent back to America. This was scarcely written about in Douglass’ writing, for he wanted to create a strong contrast to the United States. The United Kingdom was a land of freedom, the United States was not. [Sweeney, 2007), pp.33-37]
 

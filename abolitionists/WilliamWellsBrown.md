@@ -13,6 +13,7 @@ Prolific author, orator and civil rights activist, William Wells Brown was a fam
 Brown was born enslaved in Kentucky in 1814. He worked as a house servant, but resolved to escape after he witnessed the brutal treatment of fellow enslaved individuals. His first attempt failed, and he was caught by his master and severely punished. In 1834, he successfully escaped to Ohio, and was cared for by a Quaker named Wells Brown. William decided to name himself after him.
 
 ![Picture of William Wells Brown](/img/William_Wells_Brown.jpg)
+<span class="caption text-muted">William Wells Brown (source)</span>
 
 For the next few years, he helped fugitive slaves escape to Canada, a British colony where the enslaved could be safe. Brown became part of the national network of the ‘Underground Railroad’ offering help and assistance to fugitives along the way. He was a brilliant speaker, and he was invited to lecture at the American Anti-Slavery Society with William Lloyd Garrison. Brown travelled to Britain and remained there for several years, travelling thousands of miles and giving hundreds of lectures. It was here British friends purchased his freedom, the same family to purchase the freedom of Frederick Douglass’.
 

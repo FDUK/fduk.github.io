@@ -13,7 +13,7 @@ Religious fanatic. Martyr. Terrorist. Just some of the epithets used to describe
 
 Born in Connecticut in 1800, Brown was raised by a strict religious family. Over the years he tried several times to set up his own business (from farming to real estate) but his inability to sustain one profession created heavy debts. One thing that remained consistent however was his hatred of American slavery. Brown was – unusually for the time – a supporter of complete equality between white and black people, and he condemned slavery as a sin against nature.
 
-![Picture of John Brown](/img/JohnBrown.jpg)
+![Picture of John Brown](/img/JohnBrown.png)
 <span class="caption text-muted">John Brown (source)</span>
 
 In 1855, Brown moved to Kansas and pushed his way to the heart of the pro-slavery and antislavery struggles in the territory. Whilst the Federal Government debated whether Kansas and Nebraska would become slave states or free, Brown styled himself as “Captain” and became the leader of an antislavery faction. Claiming to have God’s support, one night at Pottawottamie Creek, Brown murdered five proslavery settlers. This was the start of Brown’s violent campaign against slavery in the South. From the late 1850s, he wanted to inspire the slaves to revolt. 

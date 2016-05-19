@@ -16,7 +16,7 @@ William Lloyd Garrison (1805-1879) was born in Massachusetts. He was the editor 
 Garrison’s radicalism made him deeply unpopular. In Georgia, slaveholders put a $5,000 price for his arrest, but Garrison was determined to fight for enslaved individuals. As with other white abolitionists however, Garrison was not exempt from the paternalistic and racist attitude that black people (Douglass included) could not be independent.
 
 ![Picture of William Lloyd Garrison](/img/WilliamLloydGarrison.jpg)
-<span class="caption text-muted">William Lloyd Garrison (source)</span>
+<span class="caption text-muted">William Lloyd Garrison (source)</span> 
 
 In 1833, he organised the Anti-Slavery Society, as well as promoting women’s rights and suffrage and temperance. Some abolitionists believed him too radical, particularly after his attacks on the American church and his belief that slavery should be ended immediately. Frederick Douglass’s speeches and letters were frequently published in Garrison’s The Liberator to highlight his experiences in England, and to create a transatlantic network of anti-slavery. 
 

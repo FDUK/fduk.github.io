@@ -2,6 +2,7 @@
 layout: abolitionist
 title: "William Wells Brown"
 sortTitle: "Brown William Wells"
+profileImage: "William_Wells_Brown.jpg"
 ---
 
 Prolific author, orator and civil rights activist, William Wells Brown was a famous abolitionist and is known for being one of the first (if not the first) African Americans to publish a novel.

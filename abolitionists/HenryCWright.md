@@ -23,8 +23,5 @@ After the Civil War, Wright continued to lecture on abolition and the rights of 
 > You have betrayed Christ, sold your savior, bartered him who is God over all blessed for ever, for £3,000…to justify yourselves in this confederacy with manstealers, you say you have entered into it for their good, and that you are induced to persevere in it for the purpose of showing them their guilt, and of bringing them to repentance…this is not the way you treat other thieves.
 > <footer><cite>George Thompson to Henry Clarke Wright, ‘The Free Church and Her Accusers’, Glasgow, 1846, pp.1-12.</cite></footer>
 
-![Picture of Wright, Garrison, Thompson, Wendell Phillips](/img/Garrison_Thompson_Phillips_ca1850_bySouthworth_and_Hawes_Beinecke2588592456.jpg)
-<span class="caption text-muted">Henry C. Wright (Wikipedia)</span>
-
 
 

@@ -2,7 +2,7 @@
 layout: abolitionist
 title: "Charles Remond"
 sortTitle: "Remond Charles"
-profileImage: 
+profileImage: "CharlesRemond.jpg"
 ---
 
 Charles L. Remond’s visit to Britain in the 1830s set the precedent for other visiting African Americans throughout the century. He won great support in Ireland and used his powerful oratory to convince Britons of the brutality of American slavery.

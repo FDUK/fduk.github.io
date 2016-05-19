@@ -2,7 +2,6 @@
 layout: abolitionist
 title: "Sarah Remond"
 sortTitle: "Remond Sarah"
-profileImage:
 ---
 
 A powerful orator and fierce warrior for black civil rights, Sarah Parker Remond lectured against slavery in both America and Britain. At a time when women were not expected to speak in public – let alone black women – she defied stereotypes and urged her audiences to campaign for abolition.
@@ -13,6 +12,9 @@ A powerful orator and fierce warrior for black civil rights, Sarah Parker Remond
 Born free in 1815, Remond was the sister of fellow abolitionist Charles Lenox Remond. The family were friends with William Lloyd Garrison and Wendell Phillips, and her father was a life-long member of the Massachusetts Anti-Slavery Society.
 
 A century before Rosa Parks, Remond refused to move to a segregated seat in a local Salem theatre. She was physically assaulted and pushed down the stairs; but successfully sued the company for damages.
+
+![Picture of Sarah Remond](/img/Sarah_Parker_Remond.jpg)
+<span class="caption text-muted">Sarah P. Remond (Wikipedia)</span>
 
 Remond was a well-known speaker and travelled to Liverpool in 1858 to campaign against American slavery. Her lecturing tour was incredibly popular in England, and hundreds of people came to hear her speak. Remond described the sexual abuse black women face in slavery, a taboo subject on the Victorian stage, and urged Britain to denounce the Confederacy when the Civil War began.
 

@@ -2,7 +2,7 @@
 layout: abolitionist
 title: "Moses Roper"
 sortTitle: "Roper Moses"
-profileImage: "Moses_Roper.jpg"
+profileImage: "Moses_Ropersquare.jpg"
 ---
 
 

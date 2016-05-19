@@ -21,7 +21,7 @@ Shall I, like a coward, not join in the fight?
 Bring from the onslaught when battle is raging,  
 Scared by the enemy’s tyrannous might?
 
-Throughout the month of April, even stretching to May and June, the papers were filled with the "CASE OF FREDERICK DOUGLASS!" So fierce was the public response that the man who had refused Douglass a ticket wrote a public letter to The Times, justifying his conduct. The situation reached such a height that Samuel Cunard himself, the owner of the shipping line, issued a public apology. This was huge: a businessman, in charge of a transatlantic company, publicly apologizing to an African American and a former slave. Douglass used the incident as propaganda - just like his arrival, Douglass left Britain in a whirl of controversy.
+Throughout the month of April - even stretching to May and June - the papers were filled with the "CASE OF FREDERICK DOUGLASS!" So fierce was the public response that the man who had refused Douglass a ticket wrote a public letter to The Times, justifying his conduct. The situation reached such a height that Samuel Cunard himself, the owner of the shipping line, issued a public apology. This was huge: a businessman, in charge of a transatlantic company, publicly apologizing to an African American and a former slave. Douglass used the incident as propaganda - just like his arrival, Douglass left Britain in a whirl of controversy.
 
 The [passenger list for the Cambria in 1847 is online](http://www.immigrantships.net/v3/1800v3/cambria18470421.html) – Frederick Douglass is number 48, and he is listed as a “lecturer”
 (thanks to Jeff Green for pointing this out to me).

@@ -13,7 +13,7 @@ Radical abolitionist, feminist and staunch supporter of William Lloyd Garrison, 
 
 Wright (1797-1870) grew up in New York, and was trained as a minister in the mid-1820s. He was a firm believer in antislavery, and his radical views often upset many of his associates, including the American Anti-Slavery Society who excluded him in 1837. Wright wanted an immediate end to slavery, but was against violent means (though at times he saw how it may be necessary for the enslaved to use violence against the system).
 
-![Picture of Henry C. Wright](/img/HenryCWright.png)
+![Picture of Henry C. Wright](/img/Henry_Clarke_Wright_daguerreotype_BPL_1847.jpg)
 <span class="caption text-muted">Henry C. Wright (Wikipedia)</span>
 
 Wright spent some time in Britain in the 1840s, and accompanied Frederick Douglass to antislavery meetings. It was Wright who initially began the campaign against the Free Church of Scotland, denouncing their involvement with slavery and urging them to “SEND BACK THE MONEY!” Douglass’ celebrity and oratorical power however made this into a national controversy in 1846. Douglass was often wary of travelling with Wright, as the latter had a tendency to be radical and uncompromising in his views.

@@ -7,7 +7,7 @@ profileImage: "CharlesRemond.jpg"
 
 Charles L. Remond’s visit to Britain in the 1830s set the precedent for other visiting African Americans throughout the century. He won great support in Ireland and used his powerful oratory to convince Britons of the brutality of American slavery.
 
->He said he had no other apology to offer for his attendance there than the single fact that he stood upon that soil upon which the slave had but to tread and he became free – that he breathed, for the first time, that atmosphere which the bondsman had only to inhale and his fetters dropped from his limbs.
+>He said he had no other apology to offer for his attendance kkkk there than the single fact that he stood upon that soil upon which the slave had but to tread and he became free – that he breathed, for the first time, that atmosphere which the bondsman had only to inhale and his fetters dropped from his limbs.
 > <footer><cite>Freeman’s Journal and Daily Commercial Advertiser, Saturday 27 June 1840</cite></footer>
 
 Born free in 1810, Remond was the sister of Sarah Parker Remond. In his 20s, he began speaking against slavery for William Lloyd Garrison’s organisation, the Massachusetts Anti-Slavery Society and both men travelled to London for the World’s Antislavery Convention in 1840.

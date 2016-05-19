@@ -15,7 +15,7 @@ Born in Maryland in 1820, Harriet 'Minty' Ross worked as a house servant during 
 In 1844, she married John Tubman, who refused to accompany her when she decided to flee slavery, afraid the venture was too dangerous. Harriet decided to leave him, and reached Philadelphia and worked there for a short time, until she travelled back to Maryland to free her sister and her sister’s two children.
 
 ![Picture of Harriet Tubman](/img/Harriet_Tubman.jpg)
-<span class="caption text-muted">Harriet Tubman (source)</span>
+<span class="caption text-muted">Harriet Tubman (Wikipedia)</span>
 
 She returned to the South again to help her brother, and tried to convince her husband to come to the North, but unfortunately, he had remarried. This began her career as a “conductor” on the Underground Railroad, a network of houses and people who were friendly to the abolitionist cause, who would hide runaway slaves and aid them in their escape to the North or Canada. Tubman would rescue slaves from a plantation and head to these houses in turn.
 

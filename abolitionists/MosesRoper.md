@@ -5,7 +5,6 @@ sortTitle: "Roper Moses"
 profileImage: "Moses_Ropersquare.jpg"
 ---
 
-
 Roper’s Narrative was one of the first to visually depict the horrors of slavery. Throughout this lecturing tours in the British Isles, countless Britons accused him of exaggerating the violence enslaved individuals faced, to which Roper responded: I’ll tell you my story.
 
 >The statement give by Roper was really harrowing to the mind. The sufferings he endured when under the wretched system of slavery, were intolerable great. His object in stirring up British benevolence is to enable him to purchase the emancipation of his mother and sister who are now in bondage in that boasted land of freedom, America.

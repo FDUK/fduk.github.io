@@ -24,6 +24,6 @@ In 1833, he organised the Anti-Slavery Society, as well as promoting women’s r
 > <footer><cite>The Liberator, January 1831</cite></footer>
 
 ![Picture of Garrison, Thompson, Phillips](/img/Garrison_Thompson_Phillips_ca1850_bySouthworth_and_Hawes_Beinecke2588592456.jpg)
-<span class="caption text-muted">William Lloyd Garrison (Wikipedia)</span>
+<span class="caption text-muted">Garrison, Thompson, Phillips (Wikipedia)</span>
 
 [^1]: Biography of William Lloyd Garrison, visited 8 January 2012. http://www.spartacus.schoolnet.co.uk/USASgarrison.htm

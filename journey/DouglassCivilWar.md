@@ -9,7 +9,7 @@ When the American Civil War began in 1861, few would have believed it would last
 Douglass was also a fierce advocate argued for the enlistment of African American soldiers and their equal treatment (including pay) with white men. He visited the White House and discussed such matters with President Lincoln. In Britain, newspapers reported almost daily on the battles and political developments, and Douglass's speeches were printed almost verbatim across the country. 
 
 ![Picture of Lincoln's 2nd Inaugural](/img/Lincoln2nd.jpg)
-<span class="caption text-muted">President Lincoln's 2nd Inaugural - see if you can spot Douglass! (Hint: he's near the wall)(Wikipedia)</span>
+<span class="caption text-muted">President Lincoln's 2nd Inaugural - see if you can spot Douglass! (Hint: he's near the wall) (Wikipedia)</span>
 
 For example, in 1862, Douglass wrote "THE SLAVE'S APPEAL TO GREAT BRITAIN" which was distributed through the leading national and regional newspapers. It was a powerful address, designed to invoke the British patriotism - Britain had abolished slavery in the Empire and she had a duty to stand by her decision and help destroy the traffic the world over:
 

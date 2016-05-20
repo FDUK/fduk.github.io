@@ -11,8 +11,10 @@ This generous act however did not please all abolitionists. For example, Henry C
 >That certificate of your freedom, that ‘Bill of Sale’, of your body and soul, from that villain, Auld, who dared to claim you as a chattel, and to set a price for you as such…you will sink in your own estimation if you accept that detestable certificate of your freedom; that blasphemous forgery, that accursed Bill of Sale of your body and soul…I would see you free – you are free, you always were free, and the man is a villain who claims you as a slave, and should be treated as such.
 > <footer><cite>Henry C. Wright, letter to Frederick Douglass, December 12, 1846</cite></footer>
 
-It was not just Henry Wright that objected to the ‘purchase’. In a letter to Maria Weston Chapman, British abolitionist Catherine Paton argued that:
-British abolitionist, Mary Welsh, concurred: “Some of us have been very much grieved at Emma Richardson getting that money collected to purchase Frederick Douglass’s [freedom]. We feel it a compromise of principles in thus recognising the right the slaveholder had to sell him and many of us who are the warmest friends the cause has, both here and in Glasgow acknowledge no part in it, from real principle, it has grieved us exceedingly. However, we are now collecting a little for Frederick himself into which we can heartily enter…”[Mary Welsh to Maria Chapman, 1846, Edinburgh, Boston Public Library Anti-Slavery Collection, 1-6, http://archive.org/details/lettertomydearmr00wels6]   
+![Picture of Henry C. Wright](/img/HCW.jpg)
+<span class="caption text-muted">Henry C. Wright (Wikipedia)</span>
+
+It was not just Henry Wright that objected to the ‘purchase’. British abolitionist, Mary Welsh, concurred: “Some of us have been very much grieved at Emma Richardson getting that money collected to purchase Frederick Douglass’s [freedom]. We feel it a compromise of principles in thus recognising the right the slaveholder had to sell him and many of us who are the warmest friends the cause has, both here and in Glasgow acknowledge no part in it, from real principle, it has grieved us exceedingly. However, we are now collecting a little for Frederick himself into which we can heartily enter…”[Mary Welsh to Maria Chapman, 1846, Edinburgh, Boston Public Library Anti-Slavery Collection, 1-6, http://archive.org/details/lettertomydearmr00wels6]   
 
 Douglass replied to his critics:
 
@@ -34,6 +36,9 @@ On his return to the United States, fuelled by the independence and support he h
 
 >It is neither a reflection on the fidelity, nor a disparagement of the ability of our friends and fellow-laborers, to assert what "common sense affirms and only folly denies," that the man who has suffered the wrong is the man to demand redress,—that the man STRUCK is the man to CRY OUT—and that he who has endured the cruel pangs of Slavery is the man to advocate Liberty. It is evident we must be our own representatives and advocates, not exclusively, but peculiarly—not distinct from, but in connection with our white friends. In the grand struggle for liberty and equality now waging, it is meet, right and essential that there should arise in our ranks authors and editors, as well as orators, for it is in these capacities that the most permanent good can be rendered to our cause.
 > <footer><cite><a href="http://www.yale.edu/glc/archive/1102.htm">Douglass, Frederick, 'Our Paper and its Prospects', The North Star, 3 December 1847</a></cite></footer>
+
+![Picture of The North Star](/img/NorthStar.jpg)
+<span class="caption text-muted">The North Star Newspaper (Wikipedia)</span>
 
 These objections were made very clear by the Garrisonian abolitionists:
 

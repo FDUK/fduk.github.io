@@ -8,12 +8,18 @@ sortTitle: 120
 
 These were the last words uttered by the radical white abolitionist John Brown. Uncompromising, ruthless and relentless in his divine mission to destroy American slavery, Brown had attempted to inspire a slave insurrection at Harper’s Ferry, Virginia in November 1859. Brown had invited Douglass to join him, but the latter refused – warning Brown his plan was doomed to fail. Douglass was right, and Brown was captured and eventually executed. This assault sent the South reeling, and many states tightened laws and called for stronger punishments towards abolitionists. It was soon discovered that Brown and Douglass had met, and for his own safety, Douglass fled to Canada, and then to Britain, a safe haven once again from unwanted – and perhaps violent – attention.
 
+![Picture of John Brown's Execution](/img/John_Brown execution.jpg)
+<span class="caption text-muted">John Brown's Execution (Wikipedia)</span>
+
 Douglass arrived in the winter of 1859, and immediately visited old abolitionist friends, who organised lectures for him, as they had done in 1845. This time, Douglass did not have much success in British society. Was this because the British public were tired of American slavery? Or had society become more inherently racist? Or was it simply because Douglass failed to create controversy as he had done on his previous visit? Arguably, all of these factors had a part o play, and as a result of this, Douglass remained in the industrial north of England and Scotland, where he had been popular during his previous visit.
 
 While Douglass’s ideology had shifted, his message to the British public was fairly similar, if more urgent. He demanded that the British people use their shared morals, language and identity with Americans to persuade them to destroy American slavery. He was not in Britain to encourage a rebellion, or ask for money or weapons to aid for war. The Leeds Mercury stated:
 
 >Mr Douglass proceeded to say that there was a new and strange doctrine in England, he observed since he was here some years ago, he alluded to the doctrine of “non-intervention” as applied to American slavery… All could see that there were times, seasons, conditions and circumstances in which non-intervention was both right and expedient. But he contended that American slavery was entirely without the limits of this doctrine. That vile system of blood was an outrage upon all the great principles of justice, liberty, and humanity, principles which belonged alike to all men of whatever country, colour or clime… in all reason they in England had a right to the expression of an opinion on this subject, and he did not ask them with him to take up arms and go to the Southern states to rescue slaves by force, he did not ask for materials to buy implements of war. All he asked of British men and women was that they would lend him their moral influence and aid for the abolition of slavery.
 > <footer><cite>10 December 1859, p.7</cite></footer>
+
+![Picture of Douglass in the 1860s](/img/Douglass1860s.jpg)
+<span class="caption text-muted">Douglass in the 1860s (Wikipedia)</span>
 
 Douglass also defended John Brown:
 
@@ -27,6 +33,9 @@ Douglass returned to the United States in Spring 1860, after the death of his da
 Years after the Civil War, Frederick Douglass was not forgotten in the British press. Newspapers reported on his political appointments, such as his position as Minister to Haiti, and other Northern newspapers in Scotland and Manchester published anecdotes, stories and even jokes made by Douglass, often just two or three lines long. In most cases, he was described as the "famed coloured orator" or the "negro anti-slavery advocate" and in other papers there is no description at all - for some, this man did not need an introduction. 
 
 After Douglass' second marriage to Helen Pitts, the couple decided to travel around Europe between 1886-7. Douglass had not visited Britain since before the Civil War, and it was a chance to meet with the families and friends he had corresponded with for many years. 
+
+![Picture of Douglass, Helen Pitts and Helen's sister (standing)](/img/DouglassPittsSister.jpg)
+<span class="caption text-muted">Douglass, Helen Pitts and Helen's sister (standing) (Wikipedia)</span>
 
 Although he did speak at some social reform meetings, Douglass did not visit Britain to lecture or gather support as he had done in 1845 and 1859. When he did lecture, he spoke of the problems still facing African Americans: although the Civil War had brought abolition, black men and women had not won true freedom.
 

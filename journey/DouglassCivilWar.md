@@ -4,7 +4,7 @@ title: 'The Civil War'
 sortTitle: 130
 ---
 
-When the American Civil War began in 1861, few would have believed it would last four bloody and divisive years. By this time, Frederick Douglass was one of the most famous abolitionists, but the conflict thrust him into the spotlight. In a war that was caused by slavery, Douglass became a representative of the millions of enslaved individuals still in bondage, and his fiery speeches demanded that slavery should be abolished. 
+When the American Civil War began in 1861, few would have believed it would last nearly five bloody and divisive years. By this time, Frederick Douglass was one of the most famous abolitionists, but the conflict thrust him into the spotlight. In a war that was caused by slavery, Douglass became a representative of the millions of enslaved individuals still in bondage, and his fiery speeches demanded that slavery should be abolished. 
 
 Douglass was also a fierce advocate argued for the enlistment of African American soldiers and their equal treatment (including pay) with white men. He visited the White House and discussed such matters with President Lincoln. In Britain, newspapers reported almost daily on the battles and political developments, and Douglass's speeches were printed almost verbatim across the country. 
 

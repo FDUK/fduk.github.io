@@ -6,6 +6,9 @@ sortTitle: 50
 
 A national campaign against slavery was already underway before Douglass arrived in Scotland. In 1843, an independent sect broke away from the established Church of Scotland to form the Free Church, led by Doctor Thomas Chalmers.
 
+![Picture of Creating the Free Church of Scotland](/img/FreeChurch.jpg)
+<span class="caption text-muted">Disruption and creation of the Free Church, 1843 (Wikipedia)</span>
+
 To raise money for their new organisation, missionaries were sent to the United States, and slaveholders proved particularly interested in the cause. Their donations of £3,000 angered abolitionists and they denounced the Free Church for supporting slavery. When Douglass arrived, his oratorical skill set this campaign alight:
 
 > Scotland is a blaze of anti-slavery agitation – the Free Church and Slavery are the all-engrossing topics…The Free Church is in a terrible stew. Its leaders thought to get the slaveholders’ money and bring it home, and escape censure. They had no idea that they would be followed and exposed. Its members are leaving it, like rats escaping from a sinking ship. There is a strong determination to have the slave money sent back, and the Union broken up. In this feeling all religious denominations participate. Let slavery be hemmed in on every side by the moral and religious sentiments of mankind, and its death is certain.
@@ -13,13 +16,19 @@ To raise money for their new organisation, missionaries were sent to the United 
 
 Douglass spoke at four meetings in Dundee in January 1846, and the first three were so crowded that tickets had to be issued for his last speech. He promised Christians he was not against religion, but argued that both slavery and Christianity were incompatible. He demanded that the entire world hear his cry against slavery, and the Free Church should be shamed into returning the money [Frederick Douglass, “Free Church of Scotland and American Slavery”, Dundee, Scotland, 30 January 1846.]
 
-In August, he summarised the conduct of the Free Church:
+![Picture of Thomas Chalmers](/img/ThomasChalmers.jpg)
+<span class="caption text-muted">Thomas Chalmers, one of the leaders of the Free Church (Wikipedia)</span>
+
+In August, Douglass summarised the conduct of the Free Church:
 
 >When the slaves of America heard of a free church, we had reason to believe that the day of our redemption drew near…they accepted the slave-holders’ invitation, took their money; paralysed their own Christian feelings, turned a deaf ear to the groan of the slave as they went on their way through the South – were dumb on the question of slavery – were invited by the slave-owners to their pulpits – dined at their tables, in their pews –heard them preach to their slave congregations – took the blood money, which was offered them, and brought it to Scotland, to pay the Free Church ministers. I charge them with having gone into a land of man-stealers – among men whom they knew to be man-stealers – they struck for the sake of money…tell them to send back to America that blood stained money!
 > <footer><cite>Frederick Douglass, “A Call for the British Nation to Testify Against Slavery” in Exeter, England, August 28 1846.</cite></footer>
 
 Douglass was not the only abolitionist to speak against the Free Church. Henry C. Wright and George Thompson lectured in Edinburgh in the spring of 1846, encouraging support for the campaign. When the Free Church responded that only a “small portion [of the church] comes in contact with the system of slavery”, Wright strongly rebuked them:
 “Oh, that three thousand pounds! That accursed gold! That admission fee to the Free Church! That reward of treachery to God and humanity! For three thousand pounds the Free Church leaders sold their saviour to the man-stealers! Betrayed him into the hands of his deadly enemies! May they repent their sin, humble themselves before insulted heaven, and the deeply injured slave, annul their compact with thieves and SEND BACK THAT MONEY!” (Henry C. Wright, The Free Church of Scotland and American Slavery, Speeches from Music Hall in Edinburgh, Scotland, May and June 1846.)
+
+![Picture of Henry C. Wright](/img/GeorgeThompson.jpg)
+<span class="caption text-muted">Henry C. Wright (Wikipedia)</span>
 
 ### The Stamp of Slavery Is On Them All
 

@@ -22,4 +22,4 @@ Douglass refuted the accusations made by Cox, attesting to the thousands of witn
 More than anything, Douglass’s experience in England alone testifies that slavery remained a controversial issue. It divided the Evangelical Alliance, and compromises had to be made before the meeting could continue. Slavery was disruptive, even in Britain, and visiting Americans at the Temperance Convention or the Alliance could not escape it. These experiences also show that support for antislavery was not united; indeed, those that campaigned for the end of slavery had many ideas over the nature of abolition.
 
 ![Picture of Samuel H. Cox](/img/SHCox.jpg)
-<span class="caption text-muted">Samuel H. Cox (source)</span>
+<span class="caption text-muted">Samuel H. Cox (Wikipedia)</span>

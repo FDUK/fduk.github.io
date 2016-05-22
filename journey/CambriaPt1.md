@@ -9,7 +9,7 @@ In August 1845, Frederick Douglass set sail for Liverpool, England on a ship cal
 In a letter to William Lloyd Garrison in September 1845, he wrote:
 
 >…From the moment we first lost sight of the American shore, till we landed at Liverpool, our gallant steamship was the theatre of an almost constant discussion of the subject of slavery commencing cool but growing hotter every moment as it advanced…the truth was being told and having its legitimate effect on the ears of those who heard it…the slave-holders, convinced that reason, morality, common honesty, humanity and Christianity, well all against them, and that argument was no longer any means of defence…[so] they actually got up a mob – a real, American, republican, democratic, Christian mob and that too, on the deck of a British steamer…
-> <footer><cite>Douglass, Frederick, letter to William Lloyd Garrison, September 1 1845</cite></footer>
+<footer><cite>Douglass, Frederick, letter to William Lloyd Garrison, September 1 1845</cite></footer>
 
 ![Picture of Garrison](/img/WilliamLloydGarrison.jpg)
 <span class="caption text-muted">William Lloyd Garrison (Wikipedia)</span>

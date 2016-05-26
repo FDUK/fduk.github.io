@@ -5,6 +5,7 @@ sortTitle: 120
 ---
 
 >I, John Brown, am now quite convinced that the crimes of this guilty land can only be washed away with blood.
+{: .big}
 
 These were the last words uttered by the radical white abolitionist John Brown. Uncompromising, ruthless and relentless in his divine mission to destroy American slavery, Brown had attempted to inspire a slave insurrection at Harper’s Ferry, Virginia in November 1859. Brown had invited Douglass to join him, but the latter refused – warning Brown his plan was doomed to fail. Douglass was right, and Brown was captured and eventually executed. This assault sent the South reeling, and many states tightened laws and called for stronger punishments towards abolitionists. It was soon discovered that Brown and Douglass had met, and for his own safety, Douglass fled to Canada, and then to Britain, a safe haven once again from unwanted – and perhaps violent – attention.
 

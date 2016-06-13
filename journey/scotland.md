@@ -27,7 +27,6 @@ In August, Douglass summarised the conduct of the Free Church:
 Douglass was not the only abolitionist to speak against the Free Church. Henry C. Wright and George Thompson lectured in Edinburgh in the spring of 1846, encouraging support for the campaign. When the Free Church responded that only a “small portion [of the church] comes in contact with the system of slavery”, Wright strongly rebuked them:
 “Oh, that three thousand pounds! That accursed gold! That admission fee to the Free Church! That reward of treachery to God and humanity! For three thousand pounds the Free Church leaders sold their saviour to the man-stealers! Betrayed him into the hands of his deadly enemies! May they repent their sin, humble themselves before insulted heaven, and the deeply injured slave, annul their compact with thieves and SEND BACK THAT MONEY!” (Henry C. Wright, The Free Church of Scotland and American Slavery, Speeches from Music Hall in Edinburgh, Scotland, May and June 1846.)
 
-![Picture of Henry C. Wright](/img/HCW.jpg)
 <span class="caption text-muted">Henry C. Wright (Wikipedia)</span>
 
 ### The Stamp of Slavery Is On Them All

@@ -11,7 +11,7 @@ In a letter to William Lloyd Garrison in September 1845, he wrote:
 >…From the moment we first lost sight of the American shore, till we landed at Liverpool, our gallant steamship was the theatre of an almost constant discussion of the subject of slavery commencing cool but growing hotter every moment as it advanced…the truth was being told and having its legitimate effect on the ears of those who heard it…the slave-holders, convinced that reason, morality, common honesty, humanity and Christianity, well all against them, and that argument was no longer any means of defence…[so] they actually got up a mob – a real, American, republican, democratic, Christian mob and that too, on the deck of a British steamer…
 > <footer><cite>Douglass, Frederick, letter to William Lloyd Garrison, September 1 1845</cite></footer>
 
-The pro-slavery supporters demanded he should return to his berth, and many decried he should be sent back to slavery. Some even threatened to throw him into the ocean, but: 
+The pro-slavery supporters demanded he should return to his berth, and several decried he should be sent back to slavery. Some even threatened to throw him into the ocean, but: 
 
 “…a noble-spirited Irish gentleman assured the man who proposed to throw me overboard that two could play at that game, and that, in the end, be thrown overboard himself. The clamor went on, waxing hotter and hotter, til it was quite impossible for me to proceed…” 
 

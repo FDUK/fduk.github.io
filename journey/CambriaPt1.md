@@ -4,7 +4,7 @@ title: "Cambria Pt 1"
 sortTitle: 20
 ---
 
-In August 1845, Frederick Douglass set sail for Liverpool, England on a ship called the Cambria. Before his trip had even begun, he was met with pro-slavery defendants, who argued against his passage. 
+In August 1845, Frederick Douglass set sail for Liverpool, England on a ship called the Cambria. Before his trip had even begun, he was met with pro-slavery defendants who argued against his passage. 
 
 In a letter to William Lloyd Garrison in September 1845, he wrote:
 

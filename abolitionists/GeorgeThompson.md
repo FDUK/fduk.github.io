@@ -14,7 +14,7 @@ English MP, staunch abolitionist and devoted friend to William Lloyd Garrison, G
 Born in 1804, Thompson grew up in a household that directly profited from the slave trade. His father worked on ships that transported enslaved Africans to the Caribbean and the Americas, and these stories convinced him slavery had to be abolished. He campaigned for the end of slavery and apprenticeship in the British Empire, finally ending in 1838 and was an important member in the first World Antislavery Convention in 1840. Thompson was elected as an MP in 1847 for Tower Hamlets, and supported the causes of free trade, pacifism and antislavery.
 
 ![Picture of George Thompson](/img/GeorgeThompson.jpg)
-<span class="caption text-muted">George Thompson (source)</span>
+<span class="caption text-muted">George Thompson (Wikipedia)</span>
 
 Thompson travelled to the United States to support the end of slavery in America, and became friendly with William Lloyd Garrison and Frederick Douglass during the latter’s tour of Britain in the 1840s. Thompson travelled around Britain campaigning against the Free Church of Scotland, declaring with Douglass “SEND BACK THE MONEY!”
 

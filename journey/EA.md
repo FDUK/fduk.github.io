@@ -9,6 +9,9 @@ In 1846, Evangelist ministers from the United States and Britain convened in Lon
 >I do believe the Evangelical Alliance was hoodwinked, that they were misled; I do not think they really understood the matter...It was these reverend doctors [Americans] who led astray the British ministers in the Evangelical Alliance, on this question of slavery; they dared not go home to America as connected with the Alliance, if anything had been registered against slavery by that Alliance; they knew who were their masters, and that they must be uncompromising…
 > <footer><cite>Douglass, “Slavery in the Pulpit of the Evangelical Alliance”: An Address Delivered in London, England, September 14 1846</cite></footer>
 
+![Picture of Douglass](/img/Douglasslate1840s.png)
+<span class="caption text-muted">Frederick Douglass (Wikipedia)</span>
+
 Some men, like the Reverend J.H Hinton denounced the idea slaveholders should be invited, for the religious community could not afford “to prop and bolster up the system of American slavery.” He rebuked those who thought it pointless to debate slavery, stating, “the Alliance is divided already.” The Reverend Doctor Patton - an American who was outraged at this conversation - declared that the “the price of a slave in Louisiana is always regulated by the price of a pound of cotton at Liverpool.” In other words, slavery was too complicated to make these distinctions, particularly because British ports were dependent on slave-grown cotton.
 
 Eventually, the decision was left to a committee and brushed under the carpet.  

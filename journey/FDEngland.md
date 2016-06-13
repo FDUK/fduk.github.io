@@ -21,6 +21,9 @@ Douglass lectured in Leeds, Newcastle, Exeter, Taunton, Birmingham, and Manchest
 >Of all nations on the face of the globe, America stood forth self-convicted of being the most hypocritical; for where was there a nation on the earth that made such a boast of liberty as she? On every coin, from the cent to the dollar, was stamped “liberty”, on every star-spangled banner was the liberty-cap; and on the return of each anniversary of her independence, the war of every cannon and the sound of every “church-going bell” greeted a nation proud of its freedom…
 > <footer><cite>Douglass, “American Slavery is America’s Disgrace”, Sheffield, England 25 March 1847</cite></footer>
 
+![Picture of Newcastle](/img/map of newcastle.jpg)
+<span class="caption text-muted">Map of Newcastle (British Library Flickr Page)</span>
+
 Douglass also attempted to reignite the abolitionist cause:
 
 “I am rejoiced to know that [slavery] is attracting attention extensively at this moment in Great Britain; and of all of the nations of the Earth England should be foremost in advancing the great cause of emancipation…but the spirit which dashed down the fetters of slavery in the West Indies, and proclaimed freedom to 800,000 slaves, has since lain dormant and inactive, and the anti-slavery spirit has scarcely a tangible existence in one town of twenty in all England. This should not be so, and it is the object of the Anti-Slavery League, recently formed in London, to impart new life and energy to give a new object and impetus to the abolitionists, and to induce a new and more powerful activity of spirit than they now know.  (Frederick Douglass, “England Should Lead the Cause of Emancipation”, Leeds, England, December 23 1846)

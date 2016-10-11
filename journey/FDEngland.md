@@ -21,7 +21,7 @@ Douglass lectured in Leeds, Newcastle, Exeter, Taunton, Birmingham, and Manchest
 >Of all nations on the face of the globe, America stood forth self-convicted of being the most hypocritical; for where was there a nation on the earth that made such a boast of liberty as she? On every coin, from the cent to the dollar, was stamped “liberty”, on every star-spangled banner was the liberty-cap; and on the return of each anniversary of her independence, the war of every cannon and the sound of every “church-going bell” greeted a nation proud of its freedom…
 > <footer><cite>Douglass, “American Slavery is America’s Disgrace”, Sheffield, England 25 March 1847</cite></footer>
 
-![Picture of Newcastle](/img/map of newcastle.jpg)
+![Picture of Newcastle](/img/mapofnewcastlenew.jpg)
 <span class="caption text-muted">Map of Newcastle (British Library Flickr Page)</span>
 
 Douglass also attempted to reignite the abolitionist cause:

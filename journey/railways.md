@@ -24,7 +24,7 @@ From Eric Hobsbawm, Industry and Empire: The Birth of the Industrial Revolution.
 
 By 1845, nearly two and a half thousand miles of railway were constructed in Britain. Douglass and William Lloyd Garrison certainly took advantage of this boom, and we can see patterns emerging on Douglass’ locations map. When we consider the railway lines (for example, the line from Bristol to Taunton and Exeter) it is almost certain Douglass took this route by train.
 
-![Picture of Victorian Railways](/img/railway.jpg)
+![Picture of Victorian Railways](/img/railwaynew.jpg)
 <span class="caption text-muted">Victorian Railways (British Library Flickr Page)</span>
 
 

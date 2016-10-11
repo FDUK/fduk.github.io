@@ -33,7 +33,7 @@ In the same year, an International Slavery Convention was held in London. Repres
 * The American and Foreign Anti-Slavery Society, organised by Arthur and Lewis Tappan, preferred a more gradual approach to abolition, and were distinctly opposed to the Garrisonians.
 * Like their American counterparts, the British and Foreign Anti-Slavery Society, founded in 1839 by Joseph Sturge (below), focused on gradual abolition, lobbying Parliament and gathering support for petitions. [Turley, David, The Culture of English Anti-Slavery, (London, 1991), pp.6-103]
 
-![Picture of 1840 Antislavery Convention](/img/AntislaveryConvention.jpg)
+![Picture of 1840 Antislavery Convention](/img/AntislaveryConventionnew.jpg)
 <span class="caption text-muted">Antislavery Convention, 1840 (Wikipedia)</span>
 
 This was at the height of Douglass’s tour of Britain, and the tensions between the societies were pervasive. Douglass refused to be confined by their disagreement, and spoke at societies favouring immediate and gradual abolition, believing that antislavery was a common cause that all should unite for.However, these divisions between the different societies and the religious convictions of its members often prevented a satisfactory union against slavery. [Stange, Douglas Charles, British Unitarians Against American Slavery 1833-65, (London, 1984), pp.60-1] 

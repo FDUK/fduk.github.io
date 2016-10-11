@@ -37,7 +37,7 @@ On his return to the United States, fuelled by the independence and support he h
 >It is neither a reflection on the fidelity, nor a disparagement of the ability of our friends and fellow-laborers, to assert what "common sense affirms and only folly denies," that the man who has suffered the wrong is the man to demand redress,—that the man STRUCK is the man to CRY OUT—and that he who has endured the cruel pangs of Slavery is the man to advocate Liberty. It is evident we must be our own representatives and advocates, not exclusively, but peculiarly—not distinct from, but in connection with our white friends. In the grand struggle for liberty and equality now waging, it is meet, right and essential that there should arise in our ranks authors and editors, as well as orators, for it is in these capacities that the most permanent good can be rendered to our cause.
 > <footer><cite><a href="http://www.yale.edu/glc/archive/1102.htm">Douglass, Frederick, 'Our Paper and its Prospects', The North Star, 3 December 1847</a></cite></footer>
 
-![Picture of The North Star](/img/NorthStar.jpg)
+![Picture of The North Star](/img/NorthStarnew.jpg)
 <span class="caption text-muted">The North Star Newspaper (Wikipedia)</span>
 
 These objections were made very clear by the Garrisonian abolitionists:

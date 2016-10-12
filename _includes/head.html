@@ -30,8 +30,20 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+{% if page.custom_css %}
+    <!-- custom css -->
+  {% for stylesheet in page.custom_css %}
+    <link rel="stylesheet" href="{{ stylesheet | prepend: site.baseurl }}" media="screen" type="text/css">
+  {% endfor %}
+{% endif %}
+
+    <!-- my css -->
     <style>
     /* temp overides - move to CSS file & grunt .... */
+
+    /* map - fullheight and width */
+    html, body, .fullheight, #map       {height: 100%;}
+    .container-fluid        {padding-left: 0px; padding-right: 0px}
 
     /* center images plus restrict height (or some portrait ones too big) */
     .img-responsive         {margin: 0 auto; max-height: 600px;}

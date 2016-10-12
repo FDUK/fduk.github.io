@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About"
+innav: yes
 ---
 
 Born enslaved, Douglass became the most famous African American in the transatlantic world and worked as an abolitionist, civil rights activist, feminist, writer, orator, and advocate of social justice throughout his life. 

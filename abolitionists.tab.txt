@@ -16,7 +16,7 @@ Aberdeen	57.149717	-2.094278	William Wells Brown	WellsBrown	 Wed 12 Feb 1851		Ev
 Aberdeen	57.149717	-2.094278	William Wells Brown	WellsBrown	 Thurs 13 Feb 1851		Evening lecture on slavery and Fugitive Slave Law.	cloud
 Ashley	53.354477	-2.339083	Moses Roper	Roper	 Fri 8 Feb 1861		Evening lecture on slavery.	yellow
 Aylesbury	51.815606	-0.8084	William Wells Brown	WellsBrown	 Fri 14 Sept 1849		"Shire Hall, Buckhamshire. Lecture about Peace Congress in Paris."	cloud
-Bangor	54.654197	-5.673065	Thomas Johnson		 2 June 1894			white
+Bangor	53.226625	-4.127418	Thomas Johnson		 2 June 1894			white
 Barton-under-Needwood	52.764672	-1.723208	Alexander Crummell	Crummell	 Sun 20 May 1849			red dust
 Bath	51.375801	-2.359904	William & Ellen Craft	Craft	 Mon 26 May 1851		"Assembly Rooms, 8pm lecture on slavery."	light blue
 Bath	51.375801	-2.359904	William & Ellen Craft	Craft	 Tues 27 May 1851		Assembly Rooms? 2pm lecture on slavery.	light blue
@@ -75,16 +75,16 @@ Darlington	54.52361	-1.559458	Moses Roper	Roper	 Late March 1840		"Meeting House
 Dewsbury	53.689833	-1.629695	Henry 'Box' Brown	BoxBrown	 Thurs 27 June 1851		"Large Room behind the Centenary Chapel, Dewsbury. Huddersfield."	red
 Dewsbury	53.689833	-1.629695	Henry 'Box' Brown	BoxBrown	 Fri 28 June 1851		"Large room behind the Centenary Chapel, Dewsbury, Huddersfield. Evening."	red
 Doncaster	53.52282	-1.128462	Moses Roper	Roper	 Fri 4 October 1839		"New Concert Room, Evening."	yellow
-Dublin	52.280594	1.171618	Charles Remond		 Early June 1840		"Exeter Hall, Meeting of the British and Foreign Antislavery Society"	light purple
-Dublin	52.280594	1.171618	Charles Remond		 Last 2 weeks July 1841		"Friends Meeting House, evening lecture on slavery."	light purple
-Dublin	52.280594	1.171618	Charles Remond		 last two weeks July 1841		"Friends Meeting House, evening lecture on slavery."	light purple
-Dublin	52.280594	1.171618	Charles Remond		 First week August 1841		"Friends Meeting House, evening lecture on slavery."	light purple
-Dublin	52.280594	1.171618	Charles Remond		 First week of August 1841		"Friends Meeting House, evening lecture on slavery."	light purple
-Dublin	52.280594	1.171618	Charles Remond		 Frist week August 1841		"Friends' Meeting House, evening lecture on slavery."	light purple
-Dublin	52.280594	1.171618	Charles Remond		 First week August 1841		"Friend's Meeting House, evening lecture on slavery."	light purple
-Dublin	52.280594	1.171618	Henry Highland Garnet		 Fri 7 Feb 1851		"Slavery and the Fugitive Slave Law. Lecture at the Rotundo, 7pm."	orange
-Dublin	52.280594	1.171618	Joseph Carter		 Mon 17 August 1846		"Union Chapel, Lower Abbey-Street. Evening lecture on slavery."	mold
-Dublin	52.280594	1.171618	Sarah Remond		 3rd week of August 1861		"Lecture on American slavery, evening. Meeting of the National Association for the Promotion of Social Science."	red
+Dublin	53.341049	-6.264937	Charles Remond		 Early June 1840		"Exeter Hall, Meeting of the British and Foreign Antislavery Society"	light purple
+Dublin	53.341049	-6.264937	Charles Remond		 Last 2 weeks July 1841		"Friends Meeting House, evening lecture on slavery."	light purple
+Dublin	53.341049	-6.264937	Charles Remond		 last two weeks July 1841		"Friends Meeting House, evening lecture on slavery."	light purple
+Dublin	53.341049	-6.264937	Charles Remond		 First week August 1841		"Friends Meeting House, evening lecture on slavery."	light purple
+Dublin	53.341049	-6.264937	Charles Remond		 First week of August 1841		"Friends Meeting House, evening lecture on slavery."	light purple
+Dublin	53.341049	-6.264937	Charles Remond		 Frist week August 1841		"Friends' Meeting House, evening lecture on slavery."	light purple
+Dublin	53.341049	-6.264937	Charles Remond		 First week August 1841		"Friend's Meeting House, evening lecture on slavery."	light purple
+Dublin	53.341049	-6.264937	Henry Highland Garnet		 Fri 7 Feb 1851		"Slavery and the Fugitive Slave Law. Lecture at the Rotundo, 7pm."	orange
+Dublin	53.341049	-6.264937	Joseph Carter		 Mon 17 August 1846		"Union Chapel, Lower Abbey-Street. Evening lecture on slavery."	mold
+Dublin	53.341049	-6.264937	Sarah Remond		 3rd week of August 1861		"Lecture on American slavery, evening. Meeting of the National Association for the Promotion of Social Science."	red
 Dumfries	55.070859	-3.60512	Moses Roper	Roper	 Mon 6 July 1846		"Secession Church, evening."	yellow
 Dundee	56.462018	-2.970721	Josiah Henson	Henson	 Wed 7 March 1877		"Kinnaird Hall, evening lecture."	blue
 Dundee	56.462018	-2.970721	Josiah Henson	Henson	 Thurs 8 March 1877		Young Men's Christian Association Hall. 3pm.	blue

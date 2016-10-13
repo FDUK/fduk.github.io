@@ -3,6 +3,17 @@
 /* move controls down as new nav bar */
 .leaflet-top                    {top: 60px;}
 
+/* colours for controls - match FA icon colours */
+.red        {color: #D53E2A}
+.darkred    {color: #A13336}
+.orange     {color: #F49630}
+.green      {color: #72AF26}
+.darkgreen  {color: #718224}
+.blue       {color: #38A9DC}
+.purple     {color: #D152B8}
+.cadetblue  {color: #436877}
+.gray       {color: #575757}
+
 /* popups */
 .leaflet-popup-content-wrapper  {border-radius: 4px;}
 .leaflet-popup-content-wrapper, .leaflet-popup-tip {box-shadow: 0 3px 10px rgba(0, 0, 0, 0.4);}

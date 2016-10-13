@@ -5,14 +5,15 @@
 
 /* colours for controls - match FA icon colours */
 .red        {color: #D53E2A}
-.darkred    {color: #A13336}
-.orange     {color: #F49630}
-.green      {color: #72AF26}
-.darkgreen  {color: #718224}
+.darkblue   {color: #0066A2}
 .blue       {color: #38A9DC}
+.lightblue  {color: #8ADAFF}
+.darkgreen  {color: #718224}
+.green      {color: #72AF26}
+.lightgreen {color: #BBF970}
 .purple     {color: #D152B8}
-.cadetblue  {color: #436877}
-.gray       {color: #575757}
+.pink       {color: #FF91EA}
+.lightgray  {color: #A3A3A3}
 
 /* popups */
 .leaflet-popup-content-wrapper  {border-radius: 4px;}

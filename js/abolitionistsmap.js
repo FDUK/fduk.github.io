@@ -32,17 +32,17 @@
 
     // map categories (people) to FA icon colours
     var colours = {
-      "BoxBrown":'red',
-      "WellsBrown":'darkred',
-      "Roper":'orange',
-      "Wells":'green',
-      "Crummell":'darkgreen',
-      "Henson":'blue',
+      "BoxBrown":'darkblue',
+      "WellsBrown":'blue',
+      "Roper":'lightblue',
+      "Wells":'darkgreen',
+      "Crummell":'green',
+      "Henson":'lightgreen',
       "Martin":'purple',
-      "Craft":'cadetblue',
-      "Other":'gray',
-      "":'gray'
-    }  
+      "Craft":'pink',
+      "Other":'lightgray',
+      "":'lightgray'
+    } 
 
 
     // read data from CSV and add to map
@@ -143,15 +143,15 @@
 
       // maybe colours["BoxBrown"] etc so cant get out of step??
       var overlays = {
-      "<i class='fa fa-circle red'></i> Henry 'Box' Brown": BoxBrown,
-      "<i class='fa fa-circle darkred'></i> William Wells Brown": WellsBrown,
-      "<i class='fa fa-circle orange'></i> Moses Roper": Roper,
-      "<i class='fa fa-circle green'></i> Ida B. Wells": Wells,
-      "<i class='fa fa-circle darkgreen'></i> Alexander Crummell": Crummell,
-      "<i class='fa fa-circle blue'></i> Josiah Henson": Henson, 
+      "<i class='fa fa-circle darkblue'></i> Henry 'Box' Brown": BoxBrown,
+      "<i class='fa fa-circle blue'></i> William Wells Brown": WellsBrown,
+      "<i class='fa fa-circle lightblue'></i> Moses Roper": Roper,
+      "<i class='fa fa-circle darkgreen'></i> Ida B. Wells": Wells,
+      "<i class='fa fa-circle green'></i> Alexander Crummell": Crummell,
+      "<i class='fa fa-circle lightgreen'></i> Josiah Henson": Henson, 
       "<i class='fa fa-circle purple'></i> Rev Sella Martin": Martin,
-      "<i class='fa fa-circle cadetblue'></i> William & Ellen Craft": Craft,
-      "<i class='fa fa-circle gray'></i> Other": Other
+      "<i class='fa fa-circle pink'></i> William Ellen Craft": Craft,
+      "<i class='fa fa-circle lightgray'></i> Other": Other
       };
       L.control.layers(baseMaps, overlays, {collapsed: false}).addTo(map);
 

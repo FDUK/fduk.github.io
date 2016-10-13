@@ -1,0 +1,337 @@
+City	lat	lng	person	category	date	Street	Description	Color
+Aberdeen	57.149717	-2.094278	Ida B. Wells	Wells	 Mon 24 April 1893		"Evening lecture, 8pm, on 'lynch law.' Ballroom of the Music Hall."	teal
+Aberdeen	57.149717	-2.094278	Moses Roper	Roper	 Tues 7 July 1846		"Bon-Accord Hall, evening."	yellow
+Aberdeen	57.149717	-2.094278	Moses Roper	Roper	 Thurs 9 July 1846		Evening lecture on slavery.	yellow
+Aberdeen	57.149717	-2.094278	William & Ellen Craft	Craft	 Tues 11 Feb 1851		Evening lecture on slavery and Fugitive Slave Law.	light blue
+Aberdeen	57.149717	-2.094278	William & Ellen Craft	Craft	 Wed 12 Feb 1851		"Mechanics Hall, evening 7.30pm, lecture on slavery and Fugitive Slave Law."	light blue
+Aberdeen	57.149717	-2.094278	William & Ellen Craft	Craft	 Thurs 13 Feb 1851		"Blackfriars St Chapel, evening 7.30pm, lecture on slavery and Fugitive Slave Law."	light blue
+Aberdeen	57.149717	-2.094278	William Craft	Craft	 Mon 10 Feb 1851		"Mechanics Hall, evening lecture on slavery and Fugitive Slave Law."	light blue
+Aberdeen	57.149717	-2.094278	William Wells Brown	WellsBrown	 Mon 10 Feb 1851		"Mechanics Hall, evening lecture on slavery and Fugitive Slave Law."	cloud
+Aberdeen	57.149717	-2.094278	William Wells Brown	WellsBrown	 Tues 11 Feb 1851		Evening lecture on slavery and Fugitive Slave Law.	cloud
+Aberdeen	57.149717	-2.094278	William Wells Brown	WellsBrown	 Wed 12 Feb 1851		Evening lecture on slavery and Fugitive Slave Law.	cloud
+Aberdeen	57.149717	-2.094278	William Wells Brown	WellsBrown	 Thurs 13 Feb 1851		"Blackfriars St Chapel, evening lecture"	cloud
+Aberdeen	57.149717	-2.094278	William Wells Brown	WellsBrown	 Mon 10 Feb 1851		"Mechanics Hall, evening lecture on slavery and Fugitive Slave Law."	cloud
+Aberdeen	57.149717	-2.094278	William Wells Brown	WellsBrown	 Tues 11 Feb 1851		Evening lecture on slavery and the Fugitive Slave Law.	cloud
+Aberdeen	57.149717	-2.094278	William Wells Brown	WellsBrown	 Wed 12 Feb 1851		Evening lecture on slavery and Fugitive Slave Law.	cloud
+Aberdeen	57.149717	-2.094278	William Wells Brown	WellsBrown	 Thurs 13 Feb 1851		Evening lecture on slavery and Fugitive Slave Law.	cloud
+Ashley	53.354477	-2.339083	Moses Roper	Roper	 Fri 8 Feb 1861		Evening lecture on slavery.	yellow
+Aylesbury	51.815606	-0.8084	William Wells Brown	WellsBrown	 Fri 14 Sept 1849		"Shire Hall, Buckhamshire. Lecture about Peace Congress in Paris."	cloud
+Bangor	54.654197	-5.673065	Thomas Johnson		 2 June 1894			white
+Barton-under-Needwood	52.764672	-1.723208	Alexander Crummell	Crummell	 Sun 20 May 1849			red dust
+Bath	51.375801	-2.359904	William & Ellen Craft	Craft	 Mon 26 May 1851		"Assembly Rooms, 8pm lecture on slavery."	light blue
+Bath	51.375801	-2.359904	William & Ellen Craft	Craft	 Tues 27 May 1851		Assembly Rooms? 2pm lecture on slavery.	light blue
+Bath	51.375801	-2.359904	William & Ellen Craft	Craft	 Tues 27? May 1851		"Assembly Rooms, 8pm lecture on slavery."	light blue
+Bath	51.375801	-2.359904	William Wells Brown	WellsBrown	 Mon 26 May 1851		"Assembly Rooms, evening lecture at 8pm."	cloud
+Bath	51.375801	-2.359904	William Wells Brown	WellsBrown	 Tues 27 May 1851		"Assembly Rooms, Bath. 2pm lecture on slavery."	cloud
+Bath	51.375801	-2.359904	William Wells Brown	WellsBrown	 Tues 27 May 1851		"Assembly Rooms, Bath. 8pm lecture on slavery."	cloud
+Belfast	54.597285	-5.93012	Charles Remond		 13 Oct 1841		"Assembly Room, Commercial Buildings, evening lecture on slavery."	light purple
+Belfast	54.597285	-5.93012	Charles Remond		 15 Oct 1841		"Alfred Street, evening lecture on slavery."	light purple
+Belfast	54.597285	-5.93012	Henry Highland Garnet		 Tues 21 Jan 1851		"Slavery and Fugitive Slave Law. Presbyterian Church, Donegall Street. 7pm. Public meeting of the Belfast Antislavery Society."	orange
+Beverley	53.841963	-0.435093	Moses Roper	Roper	 Tues 13 Dec 1842		Town Hall.	yellow
+Birmingham	52.486243	-1.890401	Alexander Crummell	Crummell	1849			red dust
+Birmingham	52.486243	-1.890401	Rev Sella Martin	Martin	 Tues 13 June 1865		"Breakfast meeting, Nock's Royal Hotel, Temple Row."	green
+Birmingham	52.486243	-1.890401	Rev Sella Martin	Martin	 Thurs 15 June 1865		"Palace Hotel, breakfast meeting. Palace Hotel."	green
+Blackburn	53.748575	-2.487529	Alexander Crummell	Crummell	 Sun 23 Sept 1849		"St John's Church, Blackburn, Preston."	red dust
+Blackburn	53.748575	-2.487529	Henry 'Box' Brown	BoxBrown	 Mon 31 March 1851		"Lecture Hall of Burnley Church, evening."	red
+Blackburn	53.748575	-2.487529	Henry 'Box' Brown	BoxBrown	 Tues 1 April 1851		"Lecture Hall of Burnley Church, evening."	red
+Blackburn	53.748575	-2.487529	Henry 'Box' Brown	BoxBrown	 First 2 weeks of April 1851		"Lecture Hall of Burnley Church, evening lecture."	red
+Bolton	53.576865	-2.428219	Henry 'Box' Brown	BoxBrown	 Spring 1852			red
+Bradford	53.795984	-1.759398	Moses Roper	Roper	 Tues 3 March 1840		"Temperance Hall, evening. Exhibited whips and chains."	yellow
+Bradford	53.795984	-1.759398	Moses Roper	Roper	 Thurs 5 March 1840		Evening lecture on slavery. Exhibited whips and chains.	yellow
+Bradford	53.795984	-1.759398	Moses Roper	Roper	 Thurs 4 March 1847		"Baptist Chapel, Bradford."	yellow
+Bradford	53.795984	-1.759398	Rev Sella Martin	Martin	 Thurs 29 Nov 1866		"Evening lecture, George's Hall, on the 'labouring classes in the South.'"	green
+Bridgwater	51.127889	-3.003632	Moses Roper	Roper	 Fri 25 Jan 1839		"Friend's Meeting House, lecture on slavery."	yellow
+Bristol	51.454513	-2.58791	Henry 'Box' Brown	BoxBrown	 Mon 16 April 1855		"Broadmead Rooms, evening."	red
+Bristol	51.454513	-2.58791	Henry 'Box' Brown	BoxBrown	 Tues 17 April 1855		"Broadmead Rooms, evening."	red
+Bristol	51.454513	-2.58791	Henry 'Box' Brown	BoxBrown	 Wed 18 April 1855		"Broadmead Rooms, evening."	red
+Bristol	51.454513	-2.58791	Henry 'Box' Brown	BoxBrown	 Mon 23 April 1855		"Broadmead Rooms, evening."	red
+Bristol	51.454513	-2.58791	Henry 'Box' Brown	BoxBrown	 Tues 24 April 1855		"Broadmead Rooms, evening."	red
+Bristol	51.454513	-2.58791	Ida B. Wells	Wells	 Tues 10 April 1894	Victoria Street	"Counterslip Chapel, Victoria Street. Evening lecture on lynch law, 7.30pm."	teal
+Bristol	51.454513	-2.58791	Ida B. Wells	Wells	 Tues 10 April 1894		"Redland Hall, afternoon lecture on lynch law. Meeting of the West Bristol Women's Liberal Association."	teal
+Bristol	51.454513	-2.58791	Ida B. Wells	Wells	 Wed 11 April 1894		"Bedland Park Church, Whiteladies Road, evening lecture at 8pm."	teal
+Bristol	51.454513	-2.58791	Ida B. Wells	Wells	 Thurs 12 April 1894		"YMCA Hall, St James' Square, evening lecture at 8pm on lynch law."	teal
+Bristol	51.454513	-2.58791	Ida B. Wells	Wells	 Fri 13? April 1894		"Cotham, Wesleyan Chapel, Bedland Road. Evening lecture at 7.30pm."	teal
+Bristol	51.454513	-2.58791	Ida B. Wells	Wells	 Tues 17 April 1894		"Russell Town, evening lecture on lynch law."	teal
+Bristol	51.454513	-2.58791	Ida B. Wells	Wells	 Sun 10 June 1894		"Old King Street Baptist Chapel, evening service on lynch law."	teal
+Bristol	51.454513	-2.58791	J. Pennington		 Mon 14 Oct 1850		"Broadmead Rooms, evening lecture on slavery."	sky
+Bristol	51.454513	-2.58791	Rev. William Troy		 Thurs 13 Sept 1860		"Old King Street, Baptist Schoolroom. Evening."	light yellow
+Bristol	51.454513	-2.58791	Samuel Ward		 Wed 9 August 1854		"Gideon Chapel, Newfoundland Street. Evening lecture on slavery. Crowded audience."	burgundy
+Bristol	51.454513	-2.58791	William & Ellen Craft	Craft	 Wed 9 April 1851		"Public Room, Broadmead. Evening lecture on slavery."	light blue
+Bristol	51.454513	-2.58791	William & Ellen Craft	Craft	 Wed 9 Sept 1857		"Possibly Bristol, Victoria Rooms, evening."	light blue
+Bristol	51.454513	-2.58791	William Wells Brown	WellsBrown	 Tues 16 April 1850		"Broadmead Rooms, evening lecture on slavery."	cloud
+Bristol	51.454513	-2.58791	William Wells Brown	WellsBrown	 Tues 16 April 1850		"Broadmead Rooms, evening lecture on slavery."	cloud
+Bristol	51.454513	-2.58791	William Wells Brown	WellsBrown	 Wed 9 April 1851		"Public Room, Broadmead. Evening lecture on slavery."	cloud
+Burnley	53.789288	-2.240503	Henry 'Box' Brown	BoxBrown	 End of June 1861		"Evening, displaying panorama."	red
+Burton-on-Trent	52.814028	-1.637136	Alexander Crummell	Crummell	1849		"Christ Church, preaching."	red dust
+Burton-on-Trent	52.814028	-1.637136	Alexander Crummell	Crummell	 Wed 16 May 1849		"Trinity Church, evening."	red dust
+Burton-on-Trent	52.814028	-1.637136	Alexander Crummell	Crummell	 Thurs 17 May 1849		"Christ Church, evening lecture."	red dust
+Burton-on-Trent	52.814028	-1.637136	Alexander Crummell	Crummell	 Fri 18 May 1849		"Parish Church, evening."	red dust
+Bury	53.59335	-2.296605	Samuel Ward		 Wed 12 July 1854		Evening lecture on slavery. Mayor as chair.	burgundy
+Caernarfon	53.139551	-4.273911	Moses Roper	Roper	 Fri 29 Oct 1841		Possibly in Caernarfon. Slavery.	yellow
+Carlisle	54.892473	-2.932931	Henry Highland Garnet		 Late Nov 1850		Evening lecture on slavery and tobacco.	orange
+Chelmsford	51.735587	0.46855	Moses Roper	Roper	 End of August 1840		"New Independent Chapel, Evening."	yellow
+Cheveley	52.222596	0.462666	Moses Roper	Roper	 Wed 6 Feb 1861		Grammar School. Evening lecture on slavery.	yellow
+Darlington	54.52361	-1.559458	Moses Roper	Roper	 Late March 1840		"Meeting House, Darlington."	yellow
+Dewsbury	53.689833	-1.629695	Henry 'Box' Brown	BoxBrown	 Thurs 27 June 1851		"Large Room behind the Centenary Chapel, Dewsbury. Huddersfield."	red
+Dewsbury	53.689833	-1.629695	Henry 'Box' Brown	BoxBrown	 Fri 28 June 1851		"Large room behind the Centenary Chapel, Dewsbury, Huddersfield. Evening."	red
+Doncaster	53.52282	-1.128462	Moses Roper	Roper	 Fri 4 October 1839		"New Concert Room, Evening."	yellow
+Dublin	52.280594	1.171618	Charles Remond		 Early June 1840		"Exeter Hall, Meeting of the British and Foreign Antislavery Society"	light purple
+Dublin	52.280594	1.171618	Charles Remond		 Last 2 weeks July 1841		"Friends Meeting House, evening lecture on slavery."	light purple
+Dublin	52.280594	1.171618	Charles Remond		 last two weeks July 1841		"Friends Meeting House, evening lecture on slavery."	light purple
+Dublin	52.280594	1.171618	Charles Remond		 First week August 1841		"Friends Meeting House, evening lecture on slavery."	light purple
+Dublin	52.280594	1.171618	Charles Remond		 First week of August 1841		"Friends Meeting House, evening lecture on slavery."	light purple
+Dublin	52.280594	1.171618	Charles Remond		 Frist week August 1841		"Friends' Meeting House, evening lecture on slavery."	light purple
+Dublin	52.280594	1.171618	Charles Remond		 First week August 1841		"Friend's Meeting House, evening lecture on slavery."	light purple
+Dublin	52.280594	1.171618	Henry Highland Garnet		 Fri 7 Feb 1851		"Slavery and the Fugitive Slave Law. Lecture at the Rotundo, 7pm."	orange
+Dublin	52.280594	1.171618	Joseph Carter		 Mon 17 August 1846		"Union Chapel, Lower Abbey-Street. Evening lecture on slavery."	mold
+Dublin	52.280594	1.171618	Sarah Remond		 3rd week of August 1861		"Lecture on American slavery, evening. Meeting of the National Association for the Promotion of Social Science."	red
+Dumfries	55.070859	-3.60512	Moses Roper	Roper	 Mon 6 July 1846		"Secession Church, evening."	yellow
+Dundee	56.462018	-2.970721	Josiah Henson	Henson	 Wed 7 March 1877		"Kinnaird Hall, evening lecture."	blue
+Dundee	56.462018	-2.970721	Josiah Henson	Henson	 Thurs 8 March 1877		Young Men's Christian Association Hall. 3pm.	blue
+Dundee	56.462018	-2.970721	Josiah Henson	Henson	 Fri 9 March 1877		"Free St Andrew's Church, lecture on Uncle Tom."	blue
+Dundee	56.462018	-2.970721	Josiah Henson	Henson	 Sun 11 March 1877		"Rev. A.H. Reid's M. Cheyne Memorial Church, afternoon meeting."	blue
+Dundee	56.462018	-2.970721	Josiah Henson	Henson	 Sun 11 March 1877		"Rev. Mr Conway's Bell Street Church, 6.30pm."	blue
+Dundee	56.462018	-2.970721	William & Ellen Craft	Craft	 Wed 22 Jan 1851		"Bell Street Hall, evening lecture on slavery and Fugitive Slave Law."	light blue
+Dundee	56.462018	-2.970721	William Wells Brown	WellsBrown	 Wed 22 Jan 1851		"Bell Street Hall, evening lecture on slavery and Fugitive Slave Law."	cloud
+East Staffordshire District	52.838652	-1.828576	Alexander Crummell	Crummell	 Sun 20 May 1849			red dust
+Edinburgh	55.953252	-3.188267	J. Pennington		 Mon 20 Jan 1851		"Evening lecture on slavery, Music Hall. African Slave Trade Public Meeting."	sky
+Edinburgh	55.953252	-3.188267	Josiah Henson	Henson	 Tues 6 March 1877		"United Presbyterian Church, London Road, evening lecture about Uncle Tom and Queen's visit."	blue
+Edinburgh	55.953252	-3.188267	Moses Roper	Roper	 Early July 1846		Possibly Edinburgh. Rev. Mr Pringle's Church. Evening.	yellow
+Edinburgh	55.953252	-3.188267	Rev Sella Martin	Martin	 Mon 2 July 1866		"Free Church Assembly, evening lecture on 'Freedmen of America.'"	green
+Edinburgh	55.953252	-3.188267	Sarah Remond		 Fri 5 Oct 1860		"Brighton Street Chapel, evening lecture on slavery. Meeting of Ladies Emancipation Society. Crowded meeting. William Lloyd Garrison there."	red
+Edinburgh	55.953252	-3.188267	Sarah Remond		 Fri 28 Dec 1860		"Brighton Street Chapel, Lothian Street. Evening lecture on slavery, 8pm."	red
+Edinburgh	55.953252	-3.188267	William Craft	Craft	 Thurs 2 Jan 1851		"Brighton St Chapel, evening lecture on slavery."	light blue
+Edinburgh	55.953252	-3.188267	William Craft	Craft	 Fri 3 Jan 1851		"Brighton St Chapel, evening lecture on slavery."	light blue
+Edinburgh	55.953252	-3.188267	William Craft	Craft	 Mon 6 Jan 1851		"Brighton St Chapel, evening lecture on slavery."	light blue
+Edinburgh	55.953252	-3.188267	William Wells Brown	WellsBrown	 Thurs 2 Jan 1851		"Brighton St Chapel, evening lecture on slavery."	cloud
+Edinburgh	55.953252	-3.188267	William Wells Brown	WellsBrown	 Fri 3 Jan 1851		"Brighton St Chapel, evening lecture on slavery."	cloud
+Edinburgh	55.953252	-3.188267	William Wells Brown	WellsBrown	 Mon 6 January 1851		"Brighton St Chapel, evening lecture on slavery."	cloud
+Essex	51.734331	0.469089	Rev. R.M. Johnson		 Mon 23 Jan 1865		"Not sure exactly where. Public Hall, evening lecture on slavery."	brown
+Exeter	50.718412	-3.533899	Henry 'Box' Brown	BoxBrown	 Mid June 1855			red
+Fife	56.208208	-3.149518	Moses Roper	Roper	 Tues 20 Oct 1846		"Possibly Fife. Relief Church, evening lecture on slavery."	yellow
+Glasgow	55.864237	-4.251806	Ida B. Wells	Wells	 Tues 2 May 1893		"Evening lecture, Friend's Meeting House, 13 North Portland Street, 8pm."	teal
+Glasgow	55.864237	-4.251806	Ida B. Wells	Wells	 Wed 10 May 1893		"Free Church, Dennistown, 8pm."	teal
+Glasgow	55.864237	-4.251806	Ida B. Wells	Wells	 Thurs 11 May 1893		"Renfield Free Church Hall, Bath St, evening lecture on lynch law, 8pm."	teal
+Glasgow	55.864237	-4.251806	Ida B. Wells	Wells	 Tues 22 May 1893		"Friend's Meeting House, 13 North Portland Street, 3pm lecture on lynch law."	teal
+Glasgow	55.864237	-4.251806	Josiah Henson	Henson	 Fri 20 April 1877		"City Hall, evening lecture. Presented with Œ£750 and a gold watch."	blue
+Glasgow	55.864237	-4.251806	Rev Sella Martin	Martin	 Fri 11 Dec 1863		"City Hall, evening lecture on Civil War."	green
+Glasgow	55.864237	-4.251806	Rev Sella Martin	Martin	 Mon 14? Dec 1863		"Queen's Rooms, evening 7pm. Lecture on 'social and religious condition of slaves.'"	green
+Glasgow	55.864237	-4.251806	Sarah Remond		 Tues 8 Jan 1861	Glassford Street	"Trades Hall, lecture on slavery and the 'disunion' crisis. 8pm."	red
+Glasgow	55.864237	-4.251806	William & Ellen Craft	Craft			"Trades Hall, 7.30pm. Lecture on slavery."	light blue
+Glasgow	55.864237	-4.251806	William & Ellen Craft	Craft	 Thurs 9 Jan 1851		"Trades Hall, evening 7.30pm."	light blue
+Glasgow	55.864237	-4.251806	William Craft	Craft	 Tues 21 Jan 1851	Hutcheson Street	"Merchant's Hall, evening 7.30pm, lecture on slavery."	light blue
+Glasgow	55.864237	-4.251806	William Wells Brown	WellsBrown	 Wed 8 Jan 1851		"Trades Hall, evening 7.30pm."	cloud
+Glasgow	55.864237	-4.251806	William Wells Brown	WellsBrown	 Thurs 9 Jan 1851		"Trades Hall, evening 7.30pm lecture on slavery."	cloud
+Glasgow	55.864237	-4.251806	William Wells Brown	WellsBrown	 Tues 21 Jan 1851	Hutcheson Street	7.30pm lecture on slavery. Meeting of Glasgow Female Antislavery Society.	cloud
+Gloucester	51.864245	-2.238156	J. Pennington		 Mon 28 Oct 1850		Evening lecture on slavery.	sky
+Gomersal	53.729406	-1.682883	Moses Roper	Roper	 Mon 13 March 1843		"School Room, Independent Society. Exhibited whips and chains."	yellow
+Grimsby	53.567471	-0.080784	Rev. James Charles Salfey		 Sept 1882		"Town Hall, missionary meeting in the evening."	mold
+Huddersfield	53.645792	-1.785035	Henry 'Box' Brown	BoxBrown	 Sat 29 June 1851		"Large room behind the Centenary Chapel, Dewsbury. Huddersfield. Evening."	red
+Huddersfield	53.645792	-1.785035	Henry 'Box' Brown	BoxBrown	 Thurs 3 Nov 1853		"Musical entertainment, Philosophical Hall, evening."	red
+Huddersfield	53.645792	-1.785035	Henry 'Box' Brown	BoxBrown	 Fri 4 Nov 1853		"Philosophical Hall, musical entertainment. Evening."	red
+Huddersfield	53.645792	-1.785035	Rev. Sella Martin	Martin	 Fri 23 Nov 1866		"Possibly Huddersfield. Gymnasium Hall, evening."	green
+Hull	53.745671	-0.336741	Alexander Crummell	Crummell	 April 1853			red dust
+Hull	53.745671	-0.336741	Alexander Crummell	Crummell	 Sun 15? May 1853		"High Church, afternoon meeting."	red dust
+Hull	53.745671	-0.336741	Henry 'Box' Brown	BoxBrown	 Mon 6 Dec 1852		"Music Hall, evening."	red
+Hull	53.745671	-0.336741	Rev Sella Martin	Martin	 Wed 23? Dec 1863		"Music Hal, evening lecture on slavery and the Civil War."	green
+Hull	53.745671	-0.336741	Rev. Sella Martin	Martin	 Thurs 24 Dec 1863		"Music Hall, evening lecture on slavery and the Civil War."	green
+Hull	53.745671	-0.336741	William Craft	Craft	 Thurs 21 March 1861		Possibly Hull. Lecture Hall of Royal Institute. Evening lecture on slavery.	light blue
+Ipswich	52.056736	1.14822	Rev. Sella Martin	Martin	 Sun 12 Jan 1862		"Congregational Chapel, lecture on slavery."	green
+Ipswich	52.056736	1.14822	Rev. Sella Martin	Martin	 Mon 13 Jan 1862			green
+Isle of Wight	50.692718	-1.31671	Henry 'Box' Brown	BoxBrown	 Mon 12 May 1856		"Evening, 8-10pm"	red
+Isle of Wight	50.692718	-1.31671	Henry 'Box' Brown	BoxBrown	 Tues 13 May 1856		"Evening, 8-10pm"	red
+Isle of Wight	50.692718	-1.31671	Henry 'Box' Brown	BoxBrown	 Wed 14 May 1856		"Evening, 8-10pm"	red
+Isle of Wight	50.692718	-1.31671	Henry 'Box' Brown	BoxBrown	 Thurs 15 May 1856		"3pm, special kids performance."	red
+Isle of Wight	50.692718	-1.31671	Henry 'Box' Brown	BoxBrown	 Thurs 15 May 1856		"Evening, 8-10pm"	red
+Isle of Wight	50.692718	-1.31671	Henry 'Box' Brown	BoxBrown	 Fri 16 May 1856		Evening 8-10pm	red
+Isle of Wight	50.692718	-1.31671	Henry 'Box' Brown	BoxBrown	 Sat 17 May 1856		"Evening, 8-10pm"	red
+Isle of Wight	50.692718	-1.31671	Henry 'Box' Brown	BoxBrown	 early June 1856		"Evening, Literary and Scientific Institution."	red
+Kirkcaldy	56.116825	-3.158137	J. Pennington		 Mon 18 March 1850		Evening lecture on temperance.	sky
+Leeds	53.800755	-1.549077	Alexander Crummell	Crummell	 Mon 9 May 1853		6.30pm meeting	red dust
+Leeds	53.800755	-1.549077	Henry 'Box' Brown	BoxBrown	 Mid August 1851		"Odd Fellow's Hall, evening."	red
+Leeds	53.800755	-1.549077	Ida B. Wells	Wells	 Thurs 5 July 1894		"Belgrave Lecture Hall, evening lecture at 8pm on 'The Negro: A Man and a Brother.'"	sunflower
+Leeds	53.800755	-1.549077	J. Pennington		 Mon 31 July 1843		"Queen Street Chapel, evening lecture on slavery."	sky
+Leeds	53.800755	-1.549077	James Watkins		 Tues 3 July 1860		"Lecture Hall, evening lecture on slavery."	teal
+Leeds	53.800755	-1.549077	James Watkins		 First week July 1860		"Lecture Hall, evening lecture on slavery."	teal
+Leeds	53.800755	-1.549077	Moses Roper	Roper	 Early March 1838			yellow
+Leeds	53.800755	-1.549077	Moses Roper	Roper	 Mon 10 Feb 1840		"Music Hall, evening."	yellow
+Leeds	53.800755	-1.549077	Moses Roper	Roper	 Tues 18 Feb 1840		"Albion Street Chapel, 7pm."	yellow
+Leeds	53.800755	-1.549077	Moses Roper	Roper	 Mon 24 Feb 1840		Harrison Road Chapel. Evening.	yellow
+Leeds	53.800755	-1.549077	Prof William Allen		 First week Dec 1853		Evening lecture on the 'Social and Political Condition of the Free Coloured People of North.'	spring
+Leeds	53.800755	-1.549077	Prof William Allen		 First week of Dec 1853		Evening lecture on the 'Social and Political Condition of the Free Coloured People of North.'	spring
+Leeds	53.800755	-1.549077	Prof William Allen		 Mon 5 Dec 1853		Evening lecture on the 'Destiny of Coloured Race.'	spring
+Leeds	53.800755	-1.549077	Rev Sella Martin	Martin	 Thurs 22 Nov 1866		"Victoria Hotel, breakfast meeting of National Freedmen's Aid Union."	green
+Leeds	53.800755	-1.549077	Rev Sella Martin	Martin	 Thurs 22 Nov 1866		"Victoria Hotel, evening meeting of National Freedmen's Aid Union."	green
+Leeds	53.800755	-1.549077	Sarah Remond		 Thurs 22 Dec 1859		"Music Hall, evening lecture on slavery and John Brown. Annual meeting of Leeds Young Men's Anti-Slavery Society. With Frederick Douglass."	red
+Leeds	53.800755	-1.549077	Sarah Remond		 Mon 26 Dec 1859		"Temperance, Victoria Hall. 1,000 people there."	red
+Leeds	53.800755	-1.549077	Wiliam & Ellen Craft	Craft	 3rd week April 1851		"Woodhouse Mechanics Institute, evening."	light blue
+Leeds	53.800755	-1.549077	William & Ellen Craft	Craft	 Fri 24 Oct 1856		Evening lecture on slavery.	light blue
+Leeds	53.800755	-1.549077	William Henry Jackson		 Tues 24 March 1863		"Princess Theatre, evening lecture on slavery and President of the Confederacy, Jeff Davis."	maize
+Leicester	52.636878	-1.139759	Moses Roper	Roper	 Wed 16 May 1838		"Harvey-Lane Chapel, evening. Exhibited whips and chains. Ended at 10pm."	yellow
+Leicester	52.636878	-1.139759	Moses Roper	Roper	 Thurs 24 May 1838		"New Hall, evening lecture."	yellow
+Leicester	52.636878	-1.139759	Moses Roper	Roper	 Mid August 1842			yellow
+Leicester	52.636878	-1.139759	Rev. Sella Martin	Martin	 Tues 12 Feb 1867		"Evening lecture on 'Freedmen of America', town hall."	green
+Liverpool	53.408371	-2.991573	Henry 'Box' Brown	BoxBrown	 Tues 12 Nov 1850	Lord Nelson Street	"Concert Hall, Liverpool. Exhibiting panorama, tickets issued."	red
+Liverpool	53.408371	-2.991573	Henry 'Box' Brown	BoxBrown	 Wed 13 Nov 1850	Lord Nelson Street	Exhibiting panorama.	red
+Liverpool	53.408371	-2.991573	Henry 'Box' Brown	BoxBrown	 Fri 15 Nov 1850	Lord Nelson Street	Exhibiting panorama.	red
+Liverpool	53.408371	-2.991573	Henry 'Box' Brown	BoxBrown	 Sat 16 Nov 1850	Lord Nelson Street	Exhibiting panorama.	red
+Liverpool	53.408371	-2.991573	Henry 'Box' Brown	BoxBrown	 Fri 22 Nov 1850	Lord Nelson Street	"Exhibiting panorama, 2pm and 8pm."	red
+Liverpool	53.408371	-2.991573	Henry 'Box' Brown	BoxBrown	 Mon 25 Nov 1850	Lord Nelson Street	"Exhibiting panorama, 2pm and 8pm"	red
+Liverpool	53.408371	-2.991573	Henry 'Box' Brown	BoxBrown	 Tues 26 Nov 1850	Lord Nelson Street	"Exhibiting panorama, 2pm and 8pm."	red
+Liverpool	53.408371	-2.991573	Henry 'Box' Brown	BoxBrown	 Wed 27 Nov 1850	Lord Nelson Street	"Exhibiting panorama, 2pm and 8pm."	red
+Liverpool	53.408371	-2.991573	Henry 'Box' Brown	BoxBrown	 Thurs 28 Nov 1850	Lord Nelson Street	"Exhibiting panorama, 2pm and 8pm."	red
+Liverpool	53.408371	-2.991573	Henry 'Box' Brown	BoxBrown	 Fri 29 Nov 1850	Lord Nelson Street	"Exhibiting panorama, 2pm and 8pm."	red
+Liverpool	53.408371	-2.991573	Henry 'Box' Brown	BoxBrown	 Sept 1857		"Royal Park Theatre, evening."	red
+Liverpool	53.408371	-2.991573	Henry 'Box' Brown	BoxBrown	 Late Sept & Oct 1857		"Royal Park Theatre, evening performance of a play."	red
+Liverpool	53.408371	-2.991573	Ida B. Wells	Wells	 3rd week of March 1894		"Hope Hall, evening lecture on lynch law."	teal
+Liverpool	53.408371	-2.991573	Ida B. Wells	Wells	 Sun 18 March 1894		"Great George Street Chapel, lecture on lynch law."	teal
+Liverpool	53.408371	-2.991573	Ida B. Wells	Wells	 Sun 18 March 1894		"Great George Street Chapel, evening lecture on lynch law."	teal
+Liverpool	53.408371	-2.991573	Ida B. Wells	Wells	 Tues 20 March 1894		"Great George Street Chapel, Temperance meeting. Evening."	teal
+Liverpool	53.408371	-2.991573	Ida B. Wells	Wells	 Thurs 22 March 1894		"Hope Hall, evening lecture at 8pm on lynch law."	teal
+Liverpool	53.408371	-2.991573	Ida B. Wells	Wells	 Thurs 14 June 1894		Lecture on lynch law.	teal
+Liverpool	53.408371	-2.991573	Ida B. Wells	Wells	 Sun 9 July 1894		"Pembroke Chapel, farewell address in the evening."	teal
+Liverpool	53.408371	-2.991573	Samuel Ward		 Tues 17 Jan 1854		"Concert Hall, evening lecture on racial science."	burgundy
+Liverpool	53.408371	-2.991573	Samuel Ward		 Tues 24 Jan 1854		"Concert Hall, evening lecture."	burgundy
+London	51.507351	-0.127758	Alexander Crummell	Crummell	 Tues 18 April 1848		"Hall of Commerce, evening. Public meeting of Church Missionary Society."	red dust
+London	51.507351	-0.127758	Alexander Crummell	Crummell	 Wed 19 April 1848		"Afternoon lecture, National School House."	red dust
+London	51.507351	-0.127758	Alexander Crummell	Crummell	 Mon 21 May 1849		"Hall of Commerce, evening meeting of the British and Foreign Antislavery Meeting."	red dust
+London	51.507351	-0.127758	Alexander Crummell	Crummell	 Mon 19 May 1851	Great Queen Street	"Freemason's Tavern. British and Foreign Antislavery Society meeting, evening."	red dust
+London	51.507351	-0.127758	Alexander Crummell	Crummell	 Mon 16 May 1853		"British and Foreign Antislavery Meeting, 6.30pm."	red dust
+London	51.507351	-0.127758	Henry 'Box' Brown	BoxBrown	 Summer 1857		London Theatres - performing in a play in London	red
+London	51.507351	-0.127758	Henry Highland Garnet		 Mon 19 May 1851		"Freemason's Tavern, evening lecture on slavery. British and Foreign Antislavery Society. Josiah Henson, J. Pennington and Rev. Crummell there."	orange
+London	51.507351	-0.127758	Henry Highland Garnet		 Mon 21 July 1851		"Evening lecture on slavery and progress of abolition, Exeter Hall."	orange
+London	51.507351	-0.127758	Ida B. Wells	Wells	 Wed 9 May 1894		"Holborn Town Hall, evening lecture on temperance/lynch law at a meeting of the National British Women's Temperance Association."	sunflower
+London	51.507351	-0.127758	Ida B. Wells	Wells	 Wed 16 May 1894		"Ecclesion Square, Congregational Church, Belgrave, London. Evening lecture on lynch law."	sunflower
+London	51.507351	-0.127758	Ida B. Wells	Wells	 Tues 22 May 1894		"Exeter Hall, evening lecture on lynch law."	sunflower
+London	51.507351	-0.127758	Ida B. Wells	Wells	 Wed 23 May 1894		"Centenary Hall, 17, Bishopsgate Street. Evening lecture on 7.30pm. Annual meeting of the Aborigines' Protection Society."	sunflower
+London	51.507351	-0.127758	Ida B. Wells	Wells	 Thurs 31 May 1894		"George Row Chapel, evening lecture on lynch law."	sunflower
+London	51.507351	-0.127758	Ida B. Wells	Wells	 Mon 4 June 1894		"Ideal Club, evening 8.30pm lecture on lynch law"	sunflower
+London	51.507351	-0.127758	Ida B. Wells	Wells	 Wed 6 June 1894		"Westminster Palace Hotel, breakfast meeting on lynch law."	sunflower
+London	51.507351	-0.127758	Ida B.Wells	Wells	 Sun 27? May 1894		"Little Portland St Chapel, Great Portland St W. Evening lecture, 7pm, on 'What England Can Do For Us.'"	sunflower
+London	51.507351	-0.127758	J. Pennington		 Mon 19 May 1851		"Freemason's Tavern, evening lecture on slavery. Public soiree of British and Foreign Antislavery Society. With Josiah Henson, Henry Highland Garnet and Rev. Crummell."	sky
+London	51.507351	-0.127758	John Anderson		 Thurs 20 June 1861		Evening lecture from slavery. Collection made to help Anderson	fuscia
+London	51.507351	-0.127758	John Anderson		 Tues 2 July 1861		"Exeter Hall, evening meeting on slavery."	fuscia
+London	51.507351	-0.127758	John Anderson		 Wed 9 Oct 1861		"Temperance meeting. Shirley's Temperance Hotel, Queen's Square, Bloomsbury. Evening."	fuscia
+London	51.507351	-0.127758	Josiah Henson	Henson	 Mon 13 May 1851	Great Queen Street	"Freemason's hall, Great Queen St, Lincoln's Inn Fields, chair at 7pm. Meeting of the British and Foreign Antislavery Society. With Alexander Crummell and Henry Highland Garnet."	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 Thurs 17 July 1851		Ragged and Industrial School.	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 Mon 21 July 1851		"Meeting of the British and Foreign Antislavery Society, Exeter Hall evening lecture."	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 Mon 17 May 1852		"Crosby Hall, Bishopsgate Street, meeting of the British and Foreign Antislavery Meeting. Evening lecture."	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 ? Sept 1876		Evening lecture.	blue
+London	51.507351	-0.127758	Martin Delany		 Mon 16 July 1860		"Great Hall of King's College, Somerset House. International Statistics Conference."	grey
+London	51.507351	-0.127758	Martin Delany		 3rd Week May 1860	35 Bedford Square	Evening lecture of Niger Valley Exploring Party. Meeting of African Christian Civilisation Committee.	cloud
+London	51.507351	-0.127758	Nathanial Paul		 Sat 13 July 1833		"Lecture against the Colonization Society, Exeter Hall. Evening."	brown
+London	51.507351	-0.127758	Prof. William Allen		 Mon 1 August 1853		Evening lecture	spring
+London	51.507351	-0.127758	Rev Sella Martin	Martin	 Wed 25 Feb 1863		"Whittington Club, a soiree to honour George Thompson. Evening."	green
+London	51.507351	-0.127758	Rev Sella Martin	Martin	 Mon 23 March 1863		"Literary Institution, Nelson Street, evening lecture on emancipation."	green
+London	51.507351	-0.127758	Rev Sella Martin	Martin	 Fri 24 April 1863		"Evening lecture at St James Hall, Freed Men's Aid Society."	green
+London	51.507351	-0.127758	Rev Sella Martin	Martin	 Thurs 19 Nov 1863		"St James Hall, evening - banquet in honour of thanksgiving."	green
+London	51.507351	-0.127758	Rev Sella Martin	Martin	 Sat 8 July 1865	45 Great Ormond Street	"Working Men's College, evening lecture on 'Freedmen of America.'"	green
+London	51.507351	-0.127758	Rev Sella Martin	Martin	 July 1867		"Breakfast to William Lloyd Garrison, St James Hall."	green
+London	51.507351	-0.127758	Rev. Allen		 Tues 2 July 1861		"Exeter Hall, evening lecture on escape from slavery."	mold
+London	51.507351	-0.127758	Rev. Sella Martin	Martin	 3rd week Dec 1861		"Congregational Chapel, Markham Square, Chelsea. Evening lecture on slavery and the Civil War"	green
+London	51.507351	-0.127758	Rev. Sella Martin	Martin	 late Jan/early Feb 1863		"C.F. Adam's Residence, Portland Place."	green
+London	51.507351	-0.127758	Rev. Sella Martin	Martin	 Thurs 12 Feb 1863		"Congregational Church, evening lecture on slavery."	green
+London	51.507351	-0.127758	Rev. Sella Martin	Martin	 early May 1863		"Finsbury Chapel, evening lecture on negro emancipation."	green
+London	51.507351	-0.127758	Samuel Ward		 Tues 16 May 1853		"Exeter Hall, evening lecture of British and Foreign Antislavery Society."	burgundy
+London	51.507351	-0.127758	Samuel Ward		 Tues 21 June 1853	Great Queen Street	"Freemason's Hall, Great Queen Street, Lincoln's Inn Fields, 7.30pm."	burgundy
+London	51.507351	-0.127758	Samuel Ward		 End of Nov 1854		"London Tavern, antislavery conference."	burgundy
+London	51.507351	-0.127758	Sarah Remond		 Wed 15 June 1859		"Music Hall, Store Street, Bedford Square. Evening lecture on slavery."	red
+London	51.507351	-0.127758	William & Ellen Craft	Craft	 Fri 14? June 1851	Great Queen Street	"Freemason's Tavern, London. Evening lecture on slavery and Fugitive Slave Law."	light blue
+London	51.507351	-0.127758	William Craft	Craft	 Thurs 18 May 1855		"Crosby Hall, British and Foreign Antislavery Meeting. Evening lecture."	light blue
+London	51.507351	-0.127758	William Craft	Craft	 3rd week May 1867		"Radley's Hotel, meeting of Aborigines' Protection Society."	light blue
+London	51.507351	-0.127758	William Wells Brown	WellsBrown	 Wed 16 Oct 1850		"London Tavern, evening lecture on slavery. Soiree to George Thompson."	cloud
+London	51.507351	-0.127758	William Wells Brown	WellsBrown	 Fri 14 June 1851	Great Queen Street	Evening lecture on slavery and the Fugitive Slave Law.	cloud
+London	51.507351	-0.127758	William Wells Brown	WellsBrown	 Fri 1 August 1851	Threadneedle Street	"Hall of Commerce, London. Evening lecture on anniversary of West India emancipation."	cloud
+London	51.507351	-0.127758	William Wells Brown	WellsBrown	 Mon 1 August 1853		Evening lecture celebrating anniversary of West India emancipation.	cloud
+London Borough of Islington	51.546506	-0.105806	Ida B. Wells	Wells	 Thurs 4 May 1893		"Evening lecture, 7.30pm. Friend's Institute, London."	sunflower
+Lowestoft	52.481138	1.753449	William Wells Brown	WellsBrown	 ? May 1850		"Norfolk, evening lecture on slavery."	cloud
+Manchester	53.480759	-2.242631	Charles Remond		 26 August 1840		"Corn Exchange, evening."	light purple
+Manchester	53.480759	-2.242631	Henry 'Box' Brown	BoxBrown	 Spring 1852			red
+Manchester	53.480759	-2.242631	J. Pennington		 Wed 19 Feb 1862		"Upper Schoolroom of Dr McKerrow's Church, evening lecture on slavery."	sky
+Manchester	53.480759	-2.242631	Samuel Ward		 Tues 1 August 1854		"Athenaeum, Mosley St. Lecture on anniversary of West India emancipation."	burgundy
+Manchester	53.480759	-2.242631	William Wells Brown	WellsBrown	 Tues 1 August 1854	Mosley Street	"Athenaeum, evening lecture on anniversary of West India emancipation."	cloud
+Maryport	54.714441	-3.49494	Henry Highland Garnet		 Early Nov 1850		Evening lecture on slavery and tobacco.	orange
+Morley	53.744513	-1.598045	William Wells Brown	WellsBrown	 Tues 15 Jan 1850	Albion Street	"Stock Exchange Hall, evening lecture on slavery."	cloud
+Newcastle upon Tyne	54.978252	-1.61778	Henry 'Box' Brown	BoxBrown	 Mon 4 Oct 1852	Nelson Street	"Music Hall, evening."	red
+Newcastle upon Tyne	54.978252	-1.61778	Henry 'Box' Brown	BoxBrown	 Tues 5 Oct 1852	Nelson Street	"Music Hall, evening."	red
+Newcastle upon Tyne	54.978252	-1.61778	Henry 'Box' Brown	BoxBrown	 Wed 6 Oct 1852	Nelson Street	"Music Hall, evening."	red
+Newcastle upon Tyne	54.978252	-1.61778	Henry 'Box' Brown	BoxBrown	 Thurs 7 Oct 1852	Nelson Street	"Music Hall, evening."	red
+Newcastle upon Tyne	54.978252	-1.61778	Henry 'Box' Brown	BoxBrown	 Fri 8 Oct 1852	Nelson Street	"Music Hall, evening."	red
+Newcastle upon Tyne	54.978252	-1.61778	Moses Roper	Roper	 2nd week March 1840		"Lecture Room, Nelson Street. Evening lecture on slavery. Exhibited whips and chains"	yellow
+Newcastle upon Tyne	54.978252	-1.61778	Nathanial Paul		 Mon 18 August 1834		"St James' Chapel, Blackett Street, evening."	brown
+Newcastle upon Tyne	54.978252	-1.61778	Prof William Allen		 Mon 19 Dec 1853		"Evening lecture, St Nicholas' Reading Room."	spring
+Newcastle upon Tyne	54.978252	-1.61778	William Craft	Craft	 Thurs 27 Sept 1863		British Association.	light blue
+Newcastle upon Tyne	54.978252	-1.61778	William Craft	Craft	 Fri 28 Sept 1863		British Association.	light blue
+Newcastle upon Tyne	54.978252	-1.61778	William Wells Brown	WellsBrown	 Wed 13 Dec 1849		"Lecture Room, Nelson Street, evening lecture on slavery."	cloud
+Newcastle upon Tyne	54.978252	-1.61778	William Wells Brown	WellsBrown	 Mon 11 Nov 1850		"Lecture Room, Nelson Street. Evening lecture on slavery."	cloud
+Newport	51.584151	-2.997664	William Wells Brown	WellsBrown	 Mon 24 June 1850	Pyle Street	"Isle of Wight, Athenaeum. Evening lecture on slavery."	cloud
+Newport	51.584151	-2.997664	William Wells Brown	WellsBrown	 Tues 25 June 1850	Pyle Street	"Athenaeum, evening lecture on slavery."	cloud
+Newtownards	54.591379	-5.69317	Henry Highland Garnet		 Tues 28 Jan 1851		"Evening lecture on slavery, First Presbyterian Church. 1,500 people."	orange
+Norfolk	52.613969	0.886402	William Wells Brown	WellsBrown	 ? May 1850		"St Andrews Hall, evening lecture on slavery."	cloud
+Norwich	52.630886	1.297355	Alexander Crummell	Crummell	 Tues 23 April 1850		"St Peter's Church, morning lecture."	red dust
+Norwich	52.630886	1.297355	Alexander Crummell	Crummell	 Tues 23 April 1850		"St Clement's Church, evening."	red dust
+Nottingham	52.954783	-1.158109	Henry 'Box' Brown	BoxBrown	 Mon 15 May 1854		"Exchange Rooms, evening."	red
+Nottingham	52.954783	-1.158109	Henry 'Box' Brown	BoxBrown	 Until 3rd week May 1854		"Exchange Rooms, evening."	red
+Nottingham	52.954783	-1.158109	Henry 'Box' Brown	BoxBrown	 June 1854		"Exchange Rooms, evening."	red
+Nottingham	52.954783	-1.158109	Josiah Henson	Henson	 Mon 11 Dec 1876		Evening lecture.	blue
+Nottingham	52.954783	-1.158109	Moses Roper	Roper	 Fri 30 October 1857		"Church School Room, Farnsfield. Evening lecture on slavery."	yellow
+Otley	53.905825	-1.691786	Moses Roper	Roper	 Mon 15 March 1847		"Free School, Otley, Leeds. Evening lecture on slavery."	yellow
+Padiham	53.802132	-2.315723	Henry 'Box' Brown	BoxBrown	 Fri 28 March 1851		"Assembly Hall, Padiham. Evening."	red
+Padiham	53.802132	-2.315723	Henry 'Box' Brown	BoxBrown	 Sat 29 March 1851		"Assembly Hall, evening."	red
+Penrhos	53.300496	-4.600263	Thomas Johnson		 18 June 1894		"Welsh Baptist Chapel, evening lecture on Baptist Missionary work in support of Congo Institute"	white
+Poole	50.71505	-1.987248	Moses Roper	Roper	 3rd week July 1839		Independent Meeting House.	yellow
+Poole	50.71505	-1.987248	Moses Roper	Roper	 2nd week of July 1839		"Probably Poole. Above Bar Chapel, evening."	yellow
+Portsmouth	50.819768	-1.087977	Josiah Henson	Henson	 Mid Sept 1876		"Lecture Hall, Soldier's Institute. Evening lecture."	blue
+Portsmouth	50.819768	-1.087977	Josiah Henson	Henson	 Mid Sept 1876		"Lecture Hall, Soldier's Institute. Evening lecture."	blue
+Preston	53.763201	-2.70309	Alexander Crummell	Crummell	 Mon 10 Sept 1849		"Corn Exchange, evening lecture."	red dust
+Preston	53.763201	-2.70309	Alexander Crummell	Crummell	 Sun 23 Sept 1849		"St Mark's Church, Witton."	red dust
+Preston	53.763201	-2.70309	Henry 'Box' Brown	BoxBrown	 Mon 28 Feb 1853	Lune Street	"Exchange Rooms, Preston. 8pm"	red
+Preston	53.763201	-2.70309	Henry 'Box' Brown	BoxBrown	 Tues 1 March 1853	Lune Street	"Exchange Rooms, 8pm."	red
+Preston	53.763201	-2.70309	Henry 'Box' Brown	BoxBrown	 Wed 2 March 1853	Lune Street	"Exchange Rooms, 8pm."	red
+Preston	53.763201	-2.70309	Henry 'Box' Brown	BoxBrown	 Thurs 3 March 1853	Lune Street	"Exchange rooms, 8pm."	red
+Preston	53.763201	-2.70309	Henry 'Box' Brown	BoxBrown	 Fri 4 March 1853	Lune Street	"Exchange Rooms, 8pm."	red
+Preston	53.763201	-2.70309	Henry 'Box' Brown	BoxBrown	 Sat 5 March 1853	Lune Street	"Exchange Rooms, 8pm."	red
+Preston	53.763201	-2.70309	Henry 'Box' Brown	BoxBrown	 2nd Week March 1853	Lune Street	"Exchange Rooms, evening."	red
+Preston	53.763201	-2.70309	Rev Sella Martin	Martin	 Wed 2 Sept 1863		"Corn Exchange, evening lecture on slavery."	green
+Preston	53.763201	-2.70309	Sarah Remond		 Tues 9 Oct 1860		"Theatre, Avenham. Evening lecture on slavery, at 8pm. Mayor as chairman."	red
+Rochdale	53.609714	-2.1561	Henry 'Box' Brown	BoxBrown	 Tues 18 Oct 1853		"Evening, musical entertainment. Public Hall, Baillie St."	red
+Rotherham	53.432604	-1.363501	James Watkins		 Mon 24 July 1854		"Mechanics Hall, evening lecture on slavery."	teal
+Sheffield	53.381129	-1.470085	Henry 'Box' Brown	BoxBrown	 Sat 28 May 1853		Evening.	red
+Sheffield	53.381129	-1.470085	Henry 'Box' Brown	BoxBrown	 Sun 29 May 1853			red
+Sheffield	53.381129	-1.470085	Henry 'Box' Brown	BoxBrown	 Mon 30 May 1853			red
+Sheffield	53.381129	-1.470085	Henry 'Box' Brown	BoxBrown	 Tues 31 May 1853			red
+Sheffield	53.381129	-1.470085	Henry 'Box' Brown	BoxBrown	 Wed 1 June 1853			red
+Sheffield	53.381129	-1.470085	Henry 'Box' Brown	BoxBrown	 First week June 1853			red
+Sheffield	53.381129	-1.470085	James Watkins		 Tues 18 July 1854		"Mount Zion Chapel, evening lecture on slavery."	teal
+Sheffield	53.381129	-1.470085	James Watkins		 Wed 19 July 1854		"Mount Tabor Chapel, Wellington St."	teal
+Sheffield	53.381129	-1.470085	James Watkins		 Tues 25 July 1854		"Queen Street Chapel, evening lecture on slavery."	teal
+Sheffield	53.381129	-1.470085	James Watkins		 Thurs 27 July 1854		"Townhead Street Chapel, evening lecture on slavery."	teal
+Sheffield	53.381129	-1.470085	Josiah Henson	Henson	 Sun 28 Jan 1877		"Albert Hall, 2.30pm. Tickets had to be issued to cope with demand."	blue
+Sheffield	53.381129	-1.470085	Josiah Henson	Henson	 Mon 29 Jan 1877		"Albert Hall, 12pm."	blue
+Sheffield	53.381129	-1.470085	Josiah Henson	Henson	 Mon 29 Jan 1877		7.30pm lecture.	blue
+Sheffield	53.381129	-1.470085	Josiah Henson	Henson	 Tues 30 Jan 1877		Rev. C.H. Spurgeon's Tabernacle.	blue
+Sheffield	53.381129	-1.470085	Moses Roper	Roper	 Wed 18 April 1838		"Howard Street Chapel. Lecture on slavery, evening. Exhibited a ""negro flapper."""	yellow
+Sheffield	53.381129	-1.470085	Moses Roper	Roper	 Mon 7 May 1838		Morning lecture on slavery. Mount Zion Chapel. 200 copies of Narrative sold.	yellow
+Sheffield	53.381129	-1.470085	Rev Sella Martin	Martin	 Wed 11 Oct 1865		Read a paper at the Social Science Congress	green
+Sheffield	53.381129	-1.470085	Rev. R.M. Johnson		 Mon 20 June 1870		"Petre Street Chapel, Ellesmere Road, evening lecture on slavery and the Underground Railroad."	brown
+Sheffield	53.381129	-1.470085	Rev. Sella Martin	Martin	 Mon 13 July 1863		"Temperance Hall, Townhead St. Evening lecture on Civil War."	green
+Sheffield	53.381129	-1.470085	Samuel Ward		 First week of August 1854		Meeting of Colonial Missionary Society.	burgundy
+Sheffield	53.381129	-1.470085	Turner Williams		 Mon 11 July 1853		"Evening lecture. Mechanics Institution, Surrey Street. Mayor as chair."	black
+Sheffield	53.381129	-1.470085	Turner Williams		 Wed 13 July 1853		"Evening lecture on slavery, Mechanics Institution, Surrey Street."	black
+Shipley	53.835927	-1.776978	William Henry Jackson		 Mon 23 March 1863		"Dining Hall, evening lecture about slavery and treatment of black men in the Northern states."	maize
+Skipton	53.96285	-2.016279	Henry 'Box' Brown	BoxBrown	 3rd week of April 1851		Wesleyan School Room.	red
+Skipton	53.96285	-2.016279	Moses Roper	Roper	 Mon 8 March 1847		British and Foreign School Room. Evening lecture on slavery.	yellow
+Southwark	51.502781	-0.087738	William Wells Brown	WellsBrown	 Thurs 11 Oct 1849		"Borough Road Chapel, Southwark, London. Meeting to welcome Brown to UK."	cloud
+Stowmarket	52.188902	0.997712	Alexander Crummell	Crummell	 Sun 24 Oct 1852		"Parish Church, daytime sermon."	red dust
+Stowmarket	52.188902	0.997712	Alexander Crummell	Crummell	 Sun 24 Oct 1852		"Parish Church, evening."	red dust
+Sudbury	52.041047	0.726706	William & Ellen Craft	Craft	 Mon 22? Feb 1855		"Possibly Sudbury, Essex. Evening lecture on slavery."	light blue
+Wakefield	53.683298	-1.505924	Sarah Remond		 Thurs 12 Jan 1860		"Corn Exchange Buildings, evening lecture on slavery. 1,500 people there. Formed a committee for antislavery."	red
+Whitby	54.486335	-0.613347	Moses Roper	Roper	 Early April 1840		"Meeting House, evening."	yellow
+Wickhambrook	52.163459	0.557122	Moses Roper	Roper	 Mon 4 March 1861		Evening lecture on slavery.	yellow
+Windsor	51.481728	-0.613576	Josiah Henson	Henson	 Sat 3 March 1877		Afternoon tea and met Queen Victoria.	blue
+Wolverhampton	52.586973	-2.12882	Henry 'Box' Brown	BoxBrown	 March 1852			red
+Woodditton	52.196066	0.423488	Moses Roper	Roper	 Thurs 7 February 1861		Evening lecture on slavery	yellow
+York	53.959965	-1.087298	Samuel Ward		 Sun 22 August 1854		"Salem Chapel, evening lecture on slavery."	burgundy
+York	53.959965	-1.087298	Samuel Ward		 Tues 24 Oct 1854		"Festival Concert Room, evening lecture on slavery."	burgundy
+York	53.959965	-1.087298	William & Ellen Craft	Craft	 Mon 24 March 1851	Goodramgate	"Evening lecture on slavery, Lecture Hall."	light blue
+York	53.959965	-1.087298	William Wells Brown	WellsBrown	 Mon 24 March 1851	Goodramgate	"Lecture hall, evening lecture on slavery."	cloud

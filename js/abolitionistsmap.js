@@ -1,4 +1,4 @@
-// init FD map with marker clusterer
+// init abolitionists map with marker clusterer
 
     // tiles 
     var StamenTonerLite = L.tileLayer('http://{s}.tile.stamen.com/toner-lite/{z}/{x}/{y}.png', {
@@ -31,15 +31,27 @@
 
 
 
-// add intro box with title: Frederick Douglass Speaking Locations
+// add intro box with title: Black Abolitionist Speaking Locations
 
 
 
-
+    // map categories (people) FA icon colours darkpuple
+    var colours = {
+      "BoxBrown":'red',
+      "WellsBrown":'darkred',
+      "Roper":'orange',
+      "Wells":'green',
+      "Crummell":'darkgreen',
+      "Henson":'blue',
+      "Martin":'purple',
+      "Craft":'cadetblue',
+      "Other":'gray',
+      "":'gray'
+    }  
 
 
     // read data from CSV and add to map
-    $.get('/fddata3.tab.txt', function(csvContents)
+    $.get('/abolitionists.tab.txt', function(csvContents)
     // NB attribute names always lowercase eg Title -> feature.properties.title
     {
       var i = 1;
@@ -56,9 +68,9 @@
           // nicer way to template this??
           var popup = '<div class="popup-content">';
           //popup += i;
-          popup += "<h2>" + feature.properties.title + "</h2>";
-          popup += '<div class="city">' + feature.properties.city + '</div>';
-          popup += "<p>" + feature.properties.notes + "</p>";
+          popup += "<h2>" + feature.properties.person + "</h2>";
+          popup += '<div class="city">' + feature.properties.city + '</div> <div class="date">' + feature.properties.date + "</div>";
+          popup += "<p>" + feature.properties.description + "</p>";
           popup += "</div>";
           layer.bindPopup(popup);
           i ++;
@@ -66,8 +78,8 @@
           layer.addTo(markersgroup);
         },
         pointToLayer: function (feature, latlng) {
-          // console.log(i + ". " + feature.properties.city + " - " + feature.properties.title);
-          return L.marker(latlng, {icon: L.AwesomeMarkers.icon({icon: 'star', prefix: 'fa', markerColor: 'red'}) })
+          //console.log(i + ". " + feature.properties.city + " - " + feature.properties.person);
+          return L.marker(latlng, {icon: L.AwesomeMarkers.icon({icon: 'circle-o', prefix: 'fa', markerColor: colours[feature.properties.category]}) })
         }
       });
       map.addLayer(markersgroup);

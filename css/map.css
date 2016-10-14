@@ -3,6 +3,15 @@
 /* move controls down as new nav bar */
 .leaflet-top                    {top: 60px;}
 
+/* sidebar */
+.leaflet-sidebar            {padding-top: 60px;}
+.leaflet-sidebar .close     {top: 65px; right: 5px; z-index: 1000 }
+#sidebar h2                 {font-size: 24px;}
+#sidebar p                  {margin: 0 0 14px; font-size: 1.3em;}
+#sidebar .btn               {padding-left: 30px; padding-right: 30px;}
+#sidebar .center            {text-align: center; margin-top: 20px;}
+#sidebar .btn-primary       {color: #fff; font-weight: 600; text-decoration: none;}
+
 /* colours for controls - match FA icon colours */
 .red        {color: #D53E2A}
 .darkblue   {color: #0066A2}

@@ -155,5 +155,19 @@
       };
       L.control.layers(baseMaps, overlays, {collapsed: false}).addTo(map);
 
+    // add intro sidebar
+    var sidebar = L.control.sidebar('sidebar', {
+        position: 'left'
+    });
+    map.addControl(sidebar);
+    // show on startup
+    setTimeout(function () {
+      sidebar.show();
+    }, 500);
+
+    // add button to toggle sidebar
+    L.easyButton( 'fa-question', function(){
+      sidebar.toggle();
+    }).addTo(map);
 
     });

@@ -5,6 +5,8 @@ innav: yes
 ismap: yes
 custom_css: 
 - "/css/leaflet.css"
+- "/css/L.Control.Sidebar.css"
+- "/css/easy-button.css"
 - "/css/map.css"
 custom_js:
 - "/js/leaflet.js"
@@ -12,6 +14,8 @@ custom_js:
 - "/js/leaflet.awesome-markers.min.js"
 - "/js/leaflet.markercluster.js"
 - "/js/leaflet.featuregroup.subgroup.js"
+- "/js/L.Control.Sidebar.js"
+- "/js/easy-button.js"
 - "/js/abolitionistsmap.js"
 ---
 
@@ -20,3 +24,14 @@ custom_js:
 	<div id="map"></div>
 </div>
 
+<div id="sidebar">
+	<h2>Black Abolitionists Speaking Locations</h2>
+	<p>This map shows the cities where black abolitionists lectured in Britain.</p>
+	<p>Click the markers to zoom in and explore the different locations.</p>
+
+	<p>It's by no means an exhaustive list, but it gives some idea of how far these men and women travelled - literally the length and breadth of the country!</p>
+
+	<p class="center">
+		<a class="btn btn-primary" href="javascript:sidebar.hide();" role="button">OK</a>
+	</p>
+</div>

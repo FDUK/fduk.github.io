@@ -29,12 +29,20 @@
     };
     L.control.layers(baseMaps, null, {collapsed: false}).addTo(map);
 
+    // add intro sidebar
+    var sidebar = L.control.sidebar('sidebar', {
+        position: 'left'
+    });
+    map.addControl(sidebar);
+    // show on startup
+    setTimeout(function () {
+      sidebar.show();
+    }, 500);
 
-
-// add intro box with title: Frederick Douglass Speaking Locations
-
-
-
+    // add button to toggle sidebar
+    L.easyButton( 'fa-question', function(){
+      sidebar.toggle();
+    }).addTo(map);
 
 
 

@@ -5,12 +5,16 @@ ismap: yes
 innav: yes
 custom_css: 
 - "/css/leaflet.css"
+- "/css/L.Control.Sidebar.css"
+- "/css/easy-button.css"
 - "/css/map.css"
 custom_js:
 - "/js/leaflet.js"
 - "/js/leaflet.geocsv.js"
 - "/js/leaflet.awesome-markers.min.js"
 - "/js/leaflet.markercluster.js"
+- "/js/L.Control.Sidebar.js"
+- "/js/easy-button.js"
 - "/js/fdmap.js"
 ---
 
@@ -19,5 +23,16 @@ custom_js:
 	<div id="map"></div>
 </div>
 
+<div id="sidebar">
+	<h2>Frederick Douglass Speaking Locations</h2>
+	<p>This map shows the cities where Frederick Douglass lectured in Britain.</p>
+	<p>Click the markers to zoom in and explore the different locations.</p>
+
+	<p>It also shows the emerging industrialism within Britain - a railway boom was sweeping the nation in the 1840s, and the routes Douglass travelled align almost exactly with new railway lines. For example, the line from Bristol to Exeter via Taunton in the South West, and the route from Sheffield to Edinburgh. In some parts of Scotland, transport was fairly limited, and you can see Douglass hugged the coastline around Aberdeen - he was speaking so often that it was necessary to reach places easily and as quickly as possible.</p>
+
+	<p class="center">
+		<a class="btn btn-primary" href="javascript:sidebar.hide();" role="button">OK</a>
+	</p>
+</div>
 
 

@@ -1,4 +1,6 @@
+/* nav bar always white with blue links; not just when afixed */
 .navbar {background-color: rgba(255, 255, 255, 0.5); z-index: 1000;}
+.navbar-custom .nav li a:hover, .navbar-custom.is-fixed .nav li a:focus {color: #0085a1;}
 
 /* move controls down as new nav bar */
 .leaflet-top                    {top: 60px;}

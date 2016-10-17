@@ -27,7 +27,7 @@
 .lightgray  {color: #A3A3A3}
 
 /* popups */
-.leaflet-popup-content-wrapper  {border-radius: 4px;}
+.leaflet-popup-content-wrapper  {border-radius: 4px; min-width: 300px;}
 .leaflet-popup-content-wrapper, .leaflet-popup-tip {box-shadow: 0 3px 10px rgba(0, 0, 0, 0.4);}
 
 .popup-content h2     {font-size: 24px; font-weight: 300;}

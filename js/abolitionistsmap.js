@@ -170,4 +170,10 @@
       sidebar.toggle();
     }).addTo(map);
 
+    // handle close sidebar button 
+    $('#sidebarOK').click(function(){
+        sidebar.hide();
+    });
+
+
     });

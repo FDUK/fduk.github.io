@@ -70,9 +70,7 @@ Dublin	53.349805	-6.26031	"Slavery, Wed 3 Sept 1845"	"Evening, Royal Exchange. M
 Dublin	53.349805	-6.26031	"Slavery, Thurs 4 Sept 1845"	Meeting of the Hibernian Antislavery Society	Red
 Dublin	53.349805	-6.26031	"Slavery, Tues 9 Sept 1845"	"Evening, Friend's Meeting House, Eustace St. Meeting of the Hibernian Antislavery Society. Richard D. Webb and James Buffum also attended. ""Manly and eloquent address."" 10pm finish."	Red
 Dublin	53.349805	-6.26031	"Slavery, Wed 10 Sept 1845"	Meeting of the Hibernian Antislavery Society	Red
-Dublin	53.349805	-6.26031	"Slavery, Wed 17 Sept 1845"	"Evening, Music Hall, Abbey Street. James Buffum also attended.
-
-""Exhibited whips & instruments of torture."""	Red
+Dublin	53.349805	-6.26031	"Slavery, Wed 17 Sept 1845"	"Evening, Music Hall, Abbey Street. James Buffum also attended. Exhibited whips & instruments of torture."	Red
 Dublin	53.349805	-6.26031	"Temperance, Sun 21 Sept 1845"	"Royal Canal Harbour. Huge crowd, Father Spratt there to administer temperance pledge. Richard D. Webb there with Douglass."	Red
 Dublin	53.349805	-6.26031	"Slavery, Tues 23 Sept 1845"	"Evening, Music Hall, Abbey Street. Antislavery meeting, Lord Mayor as chair.The Hutchison family sang songs, Richard D. Webb and James Buffum also attended."	Red
 Dublin	53.349805	-6.26031	"Meeting with Daniel O'Connell, Mon 29 Sept 1845"	"Conciliation Hall, meeting of the Loyal Repeal Association. O'Connell present at the meeting and Douglass was asked to give some remarks."	Red
@@ -195,9 +193,7 @@ Newcastle upon Tyne	54.978252	-1.61778	"Slavery, c.first couple of weeks 1846"		
 Newcastle upon Tyne	54.978252	-1.61778	"Slavery, Mon 28 Dec 1846"	"Music Hall, evening. Meeting of the Newcastle branch of the Antislavery League. 700 people there."	Red
 Newcastle upon Tyne	54.978252	-1.61778	"Slavery, Tues 29 Dec 1846"	Music Hall	Red
 North Shields	55.010762	-1.449138	"Slavery, Sat 25 Feb 1860"	"Evening, Infant school room. Absence of 14 yrs, spoke for 2 hours in a ""fireside and conversational manner"" so children could understand."	Red
-North Shields	55.010762	-1.449138	"Slavery/Slave Trade, Wed 22 Feb 1860"	"Evening, Albion Assembly Rooms, Norfolk St. 
-
-Defended John Brown."	Red
+North Shields	55.010762	-1.449138	"Slavery/Slave Trade, Wed 22 Feb 1860"	"Evening, Albion Assembly Rooms, Norfolk St. Defended John Brown."	Red
 North Shields	55.010762	-1.449138	"Slavery, Tues 4 August 1846"	"Baptist Chapel, Howard Street. Evening."	Red
 North Shields	55.010762	-1.449138	Slavery & Evangelical Alliance	"Baptist Chapel, evening. ""Enthusiastically applauded."""	Red
 Northampton	52.240477	-0.902656	"Slavery/Farewell, Mon 29 March 1847"	"New Hall, Newland. Evening. ""Respectable"" audience, including Mayor. 11pm finish."	Red
@@ -221,9 +217,7 @@ Rochdale	53.609714	-2.1561	"Slavery, Tues 10 Nov 1846"	"Public Hall, evening. He
 Rochdale	53.609714	-2.1561	"Slavery, Wed 11 Nov 1846"	"Morning - Ladies meeting, branch of Antislavery League formed."	Red
 Royal Leamington Spa	52.284977	-1.532683	"Slavery, Tues 23 Feb 1847"	"Music Hall, Bath Street."	Red
 Royal Leamington Spa	52.285658	-1.534115	"Slavery, Tues 23 Feb 1847"	Spencer Street Chapel. 7pm	Red
-Sheffield	53.381129	-1.470085	"Slavery, Mon 19 Dec 1859"	"Temperance Hall, Townhead St. Evening. 
-
-Discusses John Brown, and pro-slavery feeling in Sheffield."	Red
+Sheffield	53.381129	-1.470085	"Slavery, Mon 19 Dec 1859"	"Temperance Hall, Townhead St. Evening. Discusses John Brown, and pro-slavery feeling in Sheffield."	Red
 Sheffield	53.381129	-1.470085	"Slavery/Farewell, Thurs 25 March 1847"	"Theatre, 7.30pm. Crowded meeting."	Red
 Sheffield	53.381129	-1.470085	"Slavery, Thurs 10 Sept 1846"		Red
 Sheffield	53.381129	-1.470085	"Slavery, Fri 11 Sept 1846"	"Friend's Meeting House. Evening. William Lloyd Garrison there, tickets 1s and Narrative on sale at the end of the meeting."	Red
@@ -242,4 +236,4 @@ Wexford	52.336608	-6.459457	"Slavery, Thurs 9 Oct 1845"		Red
 Worcester	52.193636	-2.221575	"Slavery, Tues 30 June 1846"	"Probably Worcester. Lecture Room, Natural History Society. Evening."	Red
 Worcester	52.193636	-2.221575	"Slavery, Thurs 3 Sept 1846"	"Probably Worcester. Lecture Room, Natural History Society, Foregate St. Evening. Subscription to buy Douglass' freedom."	Red
 Wrexham	53.04304	-2.992494	"Slavery, Fri 9 Oct 1846"	Town Hall.	Red
-Nottingham 52.954783	-1.158109, "Slavery, Tues 9 March 1847" Exchange Rooms.  Red 
+Nottingham	52.954783	-1.158109	"Slavery, Tues 9 March 1847"	Exchange Rooms.	Red 

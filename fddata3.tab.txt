@@ -237,4 +237,4 @@ Worcester	52.193636	-2.221575	"Slavery, Tues 30 June 1846"	"Probably Worcester. 
 Worcester	52.193636	-2.221575	"Slavery, Thurs 3 Sept 1846"	"Probably Worcester. Lecture Room, Natural History Society, Foregate St. Evening. Subscription to buy Douglass' freedom."	Red
 Wrexham	53.04304	-2.992494	"Slavery, Fri 9 Oct 1846"	Town Hall.	Red
 Nottingham	52.954783	-1.158109	"Slavery, Tues 9 March 1847"	Exchange Rooms.	Red 
-Lisburn   54.516246   -6.058011   "Slavery, 29 December 1845"  Presbyterian Church. 7pm.  Red   
+Lisburn	54.516246	-6.058011	"Slavery, 29 December 1845"	Presbyterian Church. 7pm.	Red  

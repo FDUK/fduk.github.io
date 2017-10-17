@@ -27,5 +27,5 @@ Cork	51.896892	-8.486316	“Slavery, 14 October 1845”	Lloyd’s Hotel, 8:30am	
 Cork	51.896892	-8.486316	“Slavery, 14 October 1845”	City Court House, 2pm	Red
 Cork	51.896892	-8.486316	“Slavery, 17 October 1845”	Wesleyan Chapel, Patrick Street, afternoon	Red
 Bridport	50.733577	-2.758301	"Lecture on Life and Career, Fri 15 Oct 1886"	"Evening."	Red
-St Neots	52.230084	-0.265103	“Slavery and Post-War, 5 October 1886”	Julia Griffith Crofts’ School for Girls, daytime	Red
+St Neots	52.230084	-0265103	“Slavery and Post-War, 5 October 1886”	Julia Griffith Crofts’ School for Girls, daytime	Red
 St Neots	52.230084	-0265103	“Slavery and Post-War, 12 October 1886”	Corn Exchange, daytime	Red

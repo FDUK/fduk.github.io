@@ -29,11 +29,11 @@ Cork	51.896892	-8.486316	“Slavery, 17 October 1845”	Wesleyan Chapel, Patrick
 Bridport	50.733577	-2.758301	"Lecture on Life and Career, Fri 15 Oct 1886"	"Evening."	Red
 St Neots	52.230084	-0.265103	“Slavery and Post-War, 5 October 1886”	Julia Griffith Crofts’ School for Girls, daytime	Red
 St Neots	52.230084	-0.265103	“Slavery and Post-War, 12 October 1886”	Corn Exchange, daytime	Red
-Cork	51.896892	-8.486316	"Slavery, Fri 17 Oct 1845"	"Evening, Independent Chapel."	Red
+Cork	51.896892	-8.486316	"Slavery, Fri 17 Oct 1845"	Evening, Independent Chapel.	Red
 Cork	51.896892	-8.486316	"Temperance, Mon 20 Oct 1845"	Temperance Institute, evening	Red
 Cork	51.896892	-8.486316	"Temperance, Tues 21 Oct 1845"	Evening?	Red
-Cork	51.896892	-8.486316	"Slavery, Thurs 23 Oct 1845"	"Imperial Hotel, 2pm. 6d admittance, Narrative on sale as 2s 6d."	Red
-Cork	51.896892	-8.486316	"Slavery, Mon 27 Oct 1845"	"Independent Chapel, evening."	Red
-Cork	51.896892	-8.486316	"Slavery, Tues 28 Oct 1845"	"Saint Patrick's Temperance Hall, 7.30pm. 2s tickets each. Douglass sang an ""abolition song."" 12pm finish."	Red
-Cork	51.896892	-8.486316	"Slavery, Mon 3 Nov 1845"	"Independent Chapel, George's Street. Meeting of Cork Antislavery Society. ""Crowded by a most welcome audience."" Mayor as chair. Douglass lectured about slavery, and annexation of Texas."	Red
-Cork	51.896892	-8.486316	"Slavery, Tues 4 Nov 1845"	"City Court House, 2pm. Meeting crowded an hour before lecture. Mayor as chair. Douglass a ""noble specimen of negro race."""	Red
+Cork	51.896892	-8.486316	"Slavery, Thurs 23 Oct 1845"	Imperial Hotel, 2pm. 6d admittance, Narrative on sale as 2s 6d.	Red
+Cork	51.896892	-8.486316	"Slavery, Mon 27 Oct 1845"	Independent Chapel, evening.	Red
+Cork	51.896892	-8.486316	"Slavery, Tues 28 Oct 1845"	Saint Patrick's Temperance Hall, 7.30pm. 2s tickets each. Douglass sang an ""abolition song."" 12pm finish.	Red
+Cork	51.896892	-8.486316	"Slavery, Mon 3 Nov 1845"	Independent Chapel, George's Street. Meeting of Cork Antislavery Society. ""Crowded by a most welcome audience."" Mayor as chair. Douglass lectured about slavery, and annexation of Texas.	Red
+Cork	51.896892	-8.486316	"Slavery, Tues 4 Nov 1845"	City Court House, 2pm. Meeting crowded an hour before lecture. Mayor as chair. Douglass a ""noble specimen of negro race."""	Red

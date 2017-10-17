@@ -57,3 +57,13 @@ Perth	56.394994	-3.430838	"Slavery, Fri 23 Jan 1846"	"City Hall, evening”	Red
 Perth	56.394994	-3.430838	"Slavery, Mon 26 Jan 1846"	"City Hall, evening.”	Red
 Dundee	56.462018	-2.970721	"Slavery, Tues 27 Jan 1846"	"School Wynd Chapel, evening."	Red
 Dundee	56.462018	-2.970721	"Slavery, Wed 28 Jan 1846"	"School Wynd Chapel, evening. Chapel was crowded. James Buffum also attended. Chains and manacles exhibited."	Red
+Dundee	56.462018	-2.970721	"Slavery, Thurs 29? Jan 1846"	"School Wynd Chapel, evening. Tickets issued to cope with demand."	Red
+Dundee	56.462018	-2.970721	"Slavery, Fri 30 Jan 1846"	"Bell Street Chapel, evening. Discussed Free Church. Henry Clarke Wright, James Buffum also attended. Meeting changed for a bigger venue."	Red
+Dundee	56.462018	-2.970721	Slavery & Free Church, 9 February 1846	"Tay Square Chapel, evening. Crowded meeting. Send Back the Money!"	Red
+Arbroath	56.559107	-2.591543	"Slavery, Tues 10 Feb 1846"	"Trades' Hall, evening?”	Red
+Arbroath	56.559107	-2.591543	"Slavery, Wed 11 Feb 1846"	"Abbey Church, evening.”	Red
+Arbroath	56.559107	-2.591543	"Slavery, Thurs 12 Feb 1846"	"Abbey Church, evening.”	Red
+Glasgow	55.864237	-4.251806	"Temperance, Wed 18 Feb 1846"	"City Hall, evening. Scottish Temperance League meeting."	Red
+Glasgow	55.864237	-4.251806	“Slavery, 19 February 1846”	Thistle Hall, United Secession Church, evening	Red
+Glasgow	55.864237	-4.251806	“Slavery, 20 February 1846”	Thistle Hall, United Secession Church, evening	Red
+Glasgow	55.864237	-4.251806	“Slavery, 21 February 1846”	Thistle Hall, United Secession Church, evening	Red

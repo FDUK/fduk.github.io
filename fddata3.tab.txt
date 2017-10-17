@@ -26,3 +26,4 @@ Cork	51.896892	-8.486316	“Temperance, 13 October 1845”	Global Lane, Temperan
 Cork	51.896892	-8.486316	“Slavery, 14 October 1845”	Lloyd’s Hotel, 8:30am	Red
 Cork	51.896892	-8.486316	“Slavery, 14 October 1845”	City Court House, 2pm	Red
 Cork	51.896892	-8.486316	“Slavery, 17 October 1845”	Wesleyan Chapel, Patrick Street, afternoon	Red
+ 

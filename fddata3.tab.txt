@@ -26,3 +26,6 @@ Cork	51.896892	-8.486316	“Temperance, 13 October 1845”	Global Lane, Temperan
 Cork	51.896892	-8.486316	“Slavery, 14 October 1845”	Lloyd’s Hotel, 8:30am	Red
 Cork	51.896892	-8.486316	“Slavery, 14 October 1845”	City Court House, 2pm	Red
 Cork	51.896892	-8.486316	“Slavery, 17 October 1845”	Wesleyan Chapel, Patrick Street, afternoon	Red
+St. Neots	52.230084	-0.265103	“Slavery and Post-War, 5 October 1886”	Julia Griffith Crofts’ School for Girls, daytime	Red
+St. Neots 52.230084		-0.265103	“Slavery and Post-War, 12 October 1886”	Corn Exchange, daytime	Red	
+Bridport	50.733577	-2.758301	“Slavery and Post-War, 15 October 1886”	Town Hall, evening	Red

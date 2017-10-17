@@ -47,3 +47,13 @@ Birmingham	52.486243	-1.890401	"Temperance, Tues 16 Dec 1845"	"Town Hall, evenin
 Belfast	54.597285	-5.93012	"Slavery, Tues 23 Dec 1845"	"Independent Meeting House, Donegall Street. 7.30pm. Crowded meeting. Travelled 4 months in UK, so far given 50 lectures."	Red
 Belfast	54.597285	-5.93012	"Slavery, Fri 26 Dec 1845"	"Presbyterian Meetinghouse, Donegall St., midday“	Red
 Belfast	54.597285	-5.93012	"Slavery, Thurs 1 Jan 1847"	"Methodist Meeting House, Donegall Street. Meeting of the Belfast Antislavery Society., evening. Crowded. James Buffum also attended."	Red
+Belfast	54.597285	-5.93012	"Slavery, Fri 2 Jan 1846"	"Methodist Meeting House, Donegall Street. Meeting of the Belfast Antislavery Society, crowded. James Buffum also attended."	Red
+Belfast	54.597285	-5.93012	"Public Breakfast, Tues 6 Jan 1846"	Commercial Rooms. Formed a Ladies Antislavery Association. 250 people there. Douglass received a bible from abolitionists. Until 1pm.	Red
+Glasgow	55.864237	-4.251806	"Slavery, Sat 10 Jan 1846"		Evening	Red
+Cork	51.896892	-8.486316	"Slavery, Tues 13 Jan 1846"	Breakfast to Douglass.	Red
+Glasgow	55.864237	-4.251806	"Slavery, Thurs 15 Jan 1846"	"City Hall, 7pm. Glasgow Emancipation Society."	Red
+Glasgow	55.864237	-4.251806	“Slavery, 22 January 1846”	City Hall, evening	Red
+Perth	56.394994	-3.430838	"Slavery, Fri 23 Jan 1846"	"City Hall, evening”	Red
+Perth	56.394994	-3.430838	"Slavery, Mon 26 Jan 1846"	"City Hall, evening.”	Red
+Dundee	56.462018	-2.970721	"Slavery, Tues 27 Jan 1846"	"School Wynd Chapel, evening."	Red
+Dundee	56.462018	-2.970721	"Slavery, Wed 28 Jan 1846"	"School Wynd Chapel, evening. Chapel was crowded. James Buffum also attended. Chains and manacles exhibited."	Red

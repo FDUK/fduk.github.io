@@ -19,7 +19,7 @@ Dublin	53.349805	-6.26031	“Slavery?, 29 September 1845”	Conciliation Hall, e
 Dublin	53.349805	-6.26031	“Slavery, 1 October 1845”	Music Hall, Abbey Street, evening	Red	
 Dublin	53.349805	-6.26031	“Slavery, 3 October 1845”	Music Hall, Abbey Street, evening	Red
 Wexford	52.465096	-6.623413	“Slavery, 7 October 1845”	Evening	Red
-Wexford	52.465096	-6.623413	“Slavery, 8 October 1845” Evening	Red
+Wexford	52.465096	-6.623413	“Slavery, 8 October 1845”	Evening	Red
 Waterford	52.25932	-7.11007	“Slavery, 9 October 1845”	Evening	Red
 Cork	51.896892	-8.486316	“Slavery, 12 October 1845”	Evening	Red
 Cork	51.896892	-8.486316	“Temperance, 13 October 1845”	Global Lane, Temperance Hall, evening	Red

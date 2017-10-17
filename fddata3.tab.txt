@@ -40,7 +40,7 @@ Cork	51.896892	-8.486316	"Slavery, Tues 4 Nov 1845"	City Court House, 2pm. Meeti
 Limerick	52.66802	-8.630498	"Slavery, Mon 10 Nov 1845"	"Independent Chapel, Belford Row, evening.”	Red
 Limerick	52.66802	-8.630498	"Slavery, Fri 21 Nov 1845"	Philosophical Rooms, Glentworth Street, evening	Red
 Belfast	54.597285	-5.93012	"Slavery, Fri 5 Dec 1845"	"Independent Church, Donegall Street. 7.30pm. Well attended, Mayor as chair."	Red
-Belfast	54.597285	-5.93012	"Slavery, Tues 9 Dec 1845"	Wesleyan Methodist Church	Evening	Red
+Belfast	54.597285	-5.93012	“Slavery, Tues 9 Dec 1845”	Wesleyan Methodist Church, evening	Red
 Belfast	54.597285	-5.93012	"Slavery, Thurs 11 Dec 1845"	"Belfast Antislavery Society, Rev. Samuel Hanna's Meetinghouse, evening.”	Red
 Belfast	54.597285	-5.93012	"Slavery, Fri 12 Dec 1845"	"Belfast Antislavery Society, Rev. Samuel Hanna's Meetinghouse, evening“	Red
 Birmingham	52.486243	-1.890401	"Temperance, Tues 16 Dec 1845"	"Town Hall, evening. Meeting of Birmingham Temperance Society. Joseph Sturge and John Cadbury attended."	Red

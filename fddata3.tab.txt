@@ -234,7 +234,7 @@ Wexford	52.336608	-6.459457	"Slavery, Tues 7 Oct 1845"		Red
 Wexford	52.336608	-6.459457	"Slavery, Wed 8 October 1845"		Red
 Wexford	52.336608	-6.459457	"Slavery, Thurs 9 Oct 1845"		Red
 Worcester	52.193636	-2.221575	"Slavery, Tues 30 June 1846"	"Worcester. Lecture Room, Natural History Society. Evening."	Red
-Worcester	52.193636	-2.221575	"Slavery, Thurs 3 Sept 1846"	"Probably Worcester. Lecture Room, Natural History Society, Foregate St. Evening. Subscription to buy Douglass' freedom."	Red
+Worcester	52.193636	-2.221575	"Slavery, Thurs 3 Sept 1846"	"Worcester. Lecture Room, Natural History Society, Foregate St. Evening. Subscription to buy Douglass' freedom."	Red
 Wrexham	53.04304	-2.992494	"Slavery, Fri 9 Oct 1846"	Town Hall. Evening.	Red
 Nottingham	52.954783	-1.158109	"Slavery, Tues 9 March 1847"	Exchange Rooms.	Red 
 Lisburn	54.516246	-6.058011	"Slavery, 29 December 1845"	Presbyterian Church. 7pm.	Red  

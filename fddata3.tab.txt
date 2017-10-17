@@ -26,3 +26,4 @@ Cork	51.896892	-8.486316	“Temperance, 13 October 1845”	Global Lane, Temperan
 Cork	51.896892	-8.486316	“Slavery, 14 October 1845”	Lloyd’s Hotel, 8:30am	Red
 Cork	51.896892	-8.486316	“Slavery, 14 October 1845”	City Court House, 2pm	Red
 Cork	51.896892	-8.486316	“Slavery, 17 October 1845”	Wesleyan Chapel, Patrick Street, afternoon	Red
+Sheffield	53.381129	-1.470085	"Slavery, Fri 11 Sept 1846"	"Friend's Meeting House. Evening. William Lloyd Garrison there, tickets 1s and Narrative on sale at the end of the meeting."	Red

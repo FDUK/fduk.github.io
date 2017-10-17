@@ -5,3 +5,4 @@ Worcester	52.193636	-2.221575	"Slavery, Tues 30 June 1846"	"Worcester. Lecture R
 Worcester	52.193636	-2.221575	"Slavery, Thurs 3 Sept 1846"	"Worcester. Lecture Room, Natural History Society, Foregate St. Evening."	Red
 Wrexham	53.04304	-2.992494	"Slavery, Fri 9 Oct 1846"	Town Hall. Evening.	Red
 Celbridge	53.339897	-6.538459	“Temperance, 30 August 1845”	Evening.	Red
+Aboard the Cambria	53.974667	-15.007324	“Slavery, August 1845”	Lecture on the steamship Cambria	Red

@@ -230,7 +230,7 @@ Wakefield	53.683298	-1.505924	"Slavery, with Sarah Remond. Thurs 12 Jan 1860"	"C
 Wakefield	53.683298	-1.505924	"Slavery, Fri 15 Jan 1847"	"Corn Exchange, evening. Antislavery League meeting. Henry Clarke Wright also attended, caused a ""disturbance"" when discussing the Evangelical Alliance. Finished just before 12pm."	Red
 Warrington	53.390044	-2.59695	"Slavery, Tues 9 March 1847"	"Mechanic's Lecture Hall, evening. ""Celebrated fugitive slave."""	Red
 Warrington	53.390044	-2.59695	"Slavery, Tues 17 Nov 1846"		Red
-Wexford	52.336608	-6.459457		“Slavery, Tues 7 Oct 1845”	Evening	Red
+Wexford	52.336608	-6.459457	“Slavery, Tues 7 Oct 1845”	Evening	Red
 Wexford	52.336608	-6.459457	"Slavery, Wed 8 October 1845”  Evening.		Red
 Wexford	52.336608	-6.459457	"Slavery, Thurs 9 Oct 1845”  Evening.		Red
 Worcester	52.193636	-2.221575	"Slavery, Tues 30 June 1846"	"Worcester. Lecture Room, Natural History Society. Evening."	Red

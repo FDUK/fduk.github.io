@@ -107,3 +107,13 @@ Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Fri 1 May 1846"	"Music Hal
 Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Sat 2 May 1846"	"Evening, with George Thompson, Henry Clarke Wright, and James Buffum."	Red
 Glasgow	55.864237	-4.251806	"Slavery & Free Church, Tues 5 May 1846"	"City Hall, evening. Public meeting of the Glasgow Emancipation Society. Henry Clarke Wright, George Thompson and James Buffum also attended."	Red
 Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Thurs 7 May 1846"	"Rev. Mr Gilchrist's Church, Rose Street. Evening, admission by tickets to cope with demand. James Buffum also attended."	Red
+Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Fri 8 May 1846"	"Music Hall, evening. Crowded meeting, with George Thompson. Send Back the Money!"	Red
+London	51.515137	-0.121901	“Slavery, 18 May 1846”	Freemasons’ Hall, midday	Red
+London	51.518767	-0.088874	“Peace/Anti-War, 19 May 1846”	Finsbury Chapel, Moorfields, evening	Red
+London	51.507351	-0.127758	“Suffrage, 20 May 1846”	Crown and Anchor Tavern, evening, the Strand	Red
+London	51.507351	-0.127758	“Temperance, 21 May 1846”	Exeter Hall, evening	Red
+London	51.518767	-0.088874	“Slavery, 22 May 1846”	Finsbury Chapel, Moorfields, evening	Red
+Edinburgh	55.953252	-3.188267	"Slavery, 24 May 1846"	Evening	Red
+Edinburgh	55.953252	-3.188267	"Slavery, 25 May 1846"	Music Hall, evening	Red
+Edinburgh	55.953252	-3.188267	“Slavery, and Free Church, 26 May 1846”	Music Hall, evening	Red
+Edinburgh	55.953252	-3.188267	“Slavery, and Free Church, 27 May 1846”	Music Hall, evening	Red

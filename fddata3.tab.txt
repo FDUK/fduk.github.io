@@ -101,7 +101,7 @@ Glasgow	55.864237	-4.251806	"Slavery, Thurs 23 April 1846"	"Assembly Rooms, 1pm.
 Glasgow	55.864237	-4.251806	“Slavery, Thurs 23 April 1846"	Evening	Red
 Paisley	55.847258	-4.440114	"Slavery, Fri 25 April 1846”	Evening	Red
 Paisley	55.847258	-4.440114	"Slavery, Sat 26 April 1846”	Evening	Red
-Edinburgh	55.953252	-3.188267	"Slavery, Mon 27 April 1846"	Evening		Red
+Edinburgh	55.953252	-3.188267	“Slavery, 27 April 1846”	Evening	Red
 Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Tues 28 April 1846"	"Rev Mr Gilchrist's Church, Rose Street. Evening, with George Thompson, Henry Clarke Wright, James Buffum. Church was ""crowded to excess."" Send Back the Money!"	Red
 Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Fri 1 May 1846"	"Music Hall, evening. Send Back the Money!"	Red
 Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Sat 2 May 1846"	"Evening, with George Thompson, Henry Clarke Wright, and James Buffum."	Red

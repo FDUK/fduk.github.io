@@ -97,3 +97,13 @@ Glasgow	55.864237	-4.251806	“Slavery, Wed 15 April 1846”	Evening	Red
 Glasgow	55.864237	-4.251806	“Slavery, Thurs 16 April 1846”	Evening	Red
 Paisley	55.847258	-4.440114	“Slavery, Fri 17 April 1846”	Exchange Rooms, with James Buffum, evening	Red
 Glasgow	55.864237	-4.251806	"Slavery & Free Church, Tues 21 April 1846"	"City Hall, evening. Public meeting of the Glasgow Emancipation Society. With James Buffum, George Thompson."	Red
+Glasgow	55.864237	-4.251806	"Slavery, Thurs 23 April 1846"	"Assembly Rooms, 1pm. Ladies Meeting of the Glasgow Female Antislavery Society. With George Thompson, James Buffum, and Henry Clarke Wright."	Red
+Glasgow	55.864237	-4.251806	“Slavery, Thurs 23 April 1846"	Evening	Red
+Paisley	55.847258	-4.440114	"Slavery, Fri 25 April 1846”	Evening	Red
+Paisley	55.847258	-4.440114	"Slavery, Sun 26 April 1846"	Evening		Red
+Edinburgh	55.953252	-3.188267	"Slavery, Mon 27 April 1846"	Evening		Red
+Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Tues 28 April 1846"	"Rev Mr Gilchrist's Church, Rose Street. Evening, with George Thompson, Henry Clarke Wright, James Buffum. Church was ""crowded to excess."" Send Back the Money!"	Red
+Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Fri 1 May 1846"	"Music Hall, evening. Send Back the Money!"	Red
+Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Sat 2 May 1846"	"Evening, with George Thompson, Henry Clarke Wright, and James Buffum."	Red
+Glasgow	55.864237	-4.251806	"Slavery & Free Church, Tues 5 May 1846"	"City Hall, evening. Public meeting of the Glasgow Emancipation Society. Henry Clarke Wright, George Thompson and James Buffum also attended."	Red
+Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Thurs 7 May 1846"	"Rev. Mr Gilchrist's Church, Rose Street. Evening, admission by tickets to cope with demand. James Buffum also attended."	Red

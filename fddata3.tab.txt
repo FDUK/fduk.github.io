@@ -208,3 +208,13 @@ Manchester	53.480759	-2.242631	"Slavery, 22 Dec 1846"	Evening	Red
 Leeds	53.800755	-1.549077	"Slavery, 23 December 1846”	Evening	Red
 Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 28 Dec 1846"	"Music Hall, Albion Street, evening. Meeting of the Newcastle branch of the Antislavery League. 700 people there."	Red
 Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 29 Dec 1846"	Music Hall, evening	Red
+Sunderland	54.906869	-1.383801	"Slavery, 30 Dec 1846"	Evening	Red
+Hexham	54.972665	-2.112144	"Slavery, 31 Dec 1846"	Evening	Red
+Hexham	54.972665	-2.112144	"Slavery, 1 January 1847“	Evening	Red
+Carlisle	54.892473	-2.932931	"Slavery, 2 January 1847“	Evening	Red
+Shields	54.971623	-1.415438	“Slavery, 4 January 1847”	Evening?	Red
+Darlington	54.52361	-1.559458	"Slavery, 11 Jan 1847"	"Assembly Room, evening. ""Great confusion"" and ""a scene of tumult and uproar"" after Douglass' comments about the Evangelical Alliance"	Red
+Kirkstall	53.815784	-1.601734	“Slavery, 13 January 1847”	Evening?	Red
+Leeds	53.800755	-1.549077	"Slavery, 14 Jan 1847"	"Music Hall, Albion Street. 7pm. Antislavery League, Mayor there. 6p to orchestra and reserved seats. Formed a branch of the Antislavery League at Leeds. 3 hours, 11pm finish."	Red
+Manchester	53.480759	-2.242631	"Slavery, 18 Jan 1847"	Corn Exchange, evening	Red
+Manchester	53.480759	-2.242631	"Slavery, 19 Jan 1847”	Baptist Chapel, Grosvenor Street, evening	Red

@@ -77,3 +77,13 @@ Perth	56.394994	-3.430838	“Slavery, 12 March 1846”	City Hall, 7:30pm	Red
 Dundee	56.462018	-2.970721	"Slavery & Free Church, Mon 16 March 1846"	Evening meeting. James Buffum also attended.	Red
 Paisley	55.847258	-4.440114	"Slavery, Tues 17 March 1846"	"Rev William Nisbet's Church, Abbey Close, evening. James Buffum also attended."	Red
 Paisley	55.847258	-4.440114	"Slavery, Wed 18 March 1846"	"Rev William Nisbet's Church, Abbey Close, evening. James Buffum also attended."	Red
+Paisley	55.847258	-4.440114	"Slavery, Thurs 19 March 1846"	"Rev William Nisbet's Church, Abbey Close, evening. James Buffum also attended."	Red
+Paisley	55.847258	-4.440114	"Slavery, Fri 20 March 1846"	"Rev William Nisbet's Church, Abbey Close, evening. James Buffum also attended."	Red
+Ayr	55.458564	-4.629179	"Slavery, Mon 23 March 1846"	"Relief Church, evening with James Buffum."	Red
+Ayr	55.458564	-4.629179	"Slavery, Tues 24 March 1846"	"Relief Church, evening with James Buffum."	Red
+Kilmarnock	55.614719	-4.498792	"Slavery, Wed 25 March 1846"	Evening		Red
+Paisley	55.847258	-4.440114	"Slavery, Thurs 26 March 1846"	Evening		Red
+Greenock	55.956476	-4.771983	"Slavery, Fri 27 March 1846"	Evening		Red
+Paisley	55.847258	-4.440114	"Slavery, Mon 30 March 1846"	"Secession Church, Abbey Close, evening. James Buffum also attended."	Red
+Bonhill	55.978918	-4.440114	“Slavery, 31 March 1846”	Secession Church, Abbey Close, evening	Red
+Hawick	55.42706	-2.780914	“Slavery, c.1-14 April 1846”	Evening	Red

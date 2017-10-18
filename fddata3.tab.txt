@@ -263,3 +263,16 @@ Dundee	56.462018	-2.970721	"Slavery, 13 Feb 1860"	"Corn Exchange Hall, evening -
 Glasgow	55.864237	-4.251806	"Slavery, 14 Feb 1860"	John Street United Presbyterian Church, 7pm	Red
 Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 19 Feb 1860"	"Afternoon, Lecture Room, Nelson Street. ""Crowded to the door by a respectable audience"", many of whom were unable to purchase tickets. Collection at the end to assist the Underground Railroad."	Red
 North Shields	55.010762	-1.449138	"Slavery, 21 Feb 1860"	"Evening, Albion Assembly Rooms, Norfolk St. Defended John Brown."	Red
+Hexham	54.972665	-2.112144	"Slavery, 22 February 1860“	Scotch Church, evening	Red
+Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 23 February 1860”	Lecture Room, Nelson Street, evening	Red
+Morpeth	55.16875	-1.687493	"Slavery, 24 February 1860"	"Evening. Independent Chapel, Mayor presided and a collection was made for assistance of fugitive slaves."	Red
+Cullercoats	55.031646	-1.440003	“Slavery, 25 February 1860”	Infant School Room, evening	Red
+Halifax	53.72702	-1.85754	"Slavery, 28 Feb 1860“	“New Church, Square Road, evening?”	Red
+Wortley	53.490489	-1.53777	“Slavery, 9 March 1860”	Wesleyan Free Church, Greenside, evening	Red
+Leeds	53.800755	-1.549077	"Slavery, 12 March 1860"	"Evening."	Red
+Bradford	53.795984	-1.759398	"Self-Made Men, 13 March 1860"	“Mechanics Institute, evening, meeting of the Young Men's Christian Association."	Red
+Leeds	53.800755	-1.549077	"Slavery, 16 March 1860"	Stock Exchange Hall, 8pm	Red
+Glasgow	55.864237	-4.251806	"Slavery & American Constitution, 26 March 1860"	"Evening, Queen's Rooms. Douglass discussed the differences between himself and William Lloyd Garrison"	Red
+Ayr	55.458564	-4.629179	"Slavery, Mon 23 March 1846"	“U.P. Church, Catheart Street, evening	Red
+Glasgow	55.864237	-4.251806	"Slavery, 28 March 1860"	East Campbell Street Church, evening	Red
+Glasgow	55.864237	-4.251806	"Slavery, 29 March 1860“	Evening	Red

@@ -157,3 +157,13 @@ Cullercoats	55.031646	-1.440003	“Slavery, August 1846”	Evening?	Red
 Taunton	51.015344	-3.106849	"Slavery, 1 August 1846"	Public Hall, evening	Red
 Bristol	51.454513	-2.58791	"Slavery, 2 Sept 1846"	"Public Rooms, Broadmead. Evening. Tickets to cope with demand. Crowed meeting. William Lloyd Garrison there. 11pm finish."	Red
 Birmingham	52.486243	-1.890401	"Slavery, 4 Sept 1846"	“Livery Street Chapel, evening, with William Lloyd Garrison and George Thompson."	Red
+Birmingham	52.486243	-1.890401	"Slavery, 5 Sept 1846"	Evening		Red
+Birmingham	52.486243	-1.890401	"Slavery, 6 Sept 1846"	Evening	Red
+Carlisle	54.892473	-2.932931	"Slavery, 7 Sept 1846"	"Athenaeum, Lowther Street. Evening."	Red
+North Shields	55.010762	-1.449138	“Slavery & Evangelical Alliance, 8 September 1846” “Baptist Chapel, evening. ""Enthusiastically applauded."""	Red
+Sheffield	53.381129	-1.470085	"Slavery, 10 Sept 1846"	Red
+Sheffield	53.381129	-1.470085	"Slavery, 11 Sept 1846"	"Friend's Meeting House. Evening. William Lloyd Garrison there, tickets 1s and Narrative on sale at the end of the meeting."	Red
+London	51.507351	-0.127758	"Slavery & Evangelical Alliance, 14 Sept 1846"	"Exeter Hall, 6pm. George Thompson and William Lloyd Garrison"	Red
+Sunderland	54.906869	-1.383801	"Slavery, 18 Sept 1846"	"Athenaeum Hall, evening.”	Red
+Greenock	55.956476	-4.771983	"Slavery, 22 Sept 1846"	Evening	Red
+Paisley	55.847258	-4.440114	"Slavery, 23 Sept 1846"	"Secession Church, George Street, evening“	Red

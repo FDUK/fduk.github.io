@@ -250,7 +250,7 @@ Sheffield	53.381129	-1.470085	"Slavery, 16 Jan 1860”	“Corn Exchange, evening
 Liverpool	53.408371	-2.991573	"Slavery, 19 Jan 1860"	"Hope Hall, Hope Street, 8pm.”	Red
 Perth	56.394994	-3.430838	“Slavery, c.20 January-18 February 1860”	Evening	Red
 Arbroath	56.559107	-2.591543	"Slavery, c.20 January-18 February 1860”	Evening	Red
-Kilmarnock	55.614719	-4.498792	"Slavery, c.20 January-18 February 1860“	Evening		Red
+Kilmarnock	55.614719	-4.498792	“Slavery, c.20 January-18 February 1860“	Evening	Red
 Paisley	55.847258	-4.440114	"Slavery, 26 January 1860”	Abbey Close, evening	Red
 Edinburgh	55.953252	-3.188267	"Slavery, 30 Jan 1860”	Queen Street Hall, evening	Red
 Glasgow	55.864237	-4.251806	"Slavery, 31 Jan 1860"	Evening	Red

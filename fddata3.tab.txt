@@ -218,3 +218,14 @@ Kirkstall	53.815784	-1.601734	“Slavery, 13 January 1847”	Evening?	Red
 Leeds	53.800755	-1.549077	"Slavery, 14 Jan 1847"	"Music Hall, Albion Street. 7pm. Antislavery League, Mayor there. 6p to orchestra and reserved seats. Formed a branch of the Antislavery League at Leeds. 3 hours, 11pm finish."	Red
 Manchester	53.480759	-2.242631	"Slavery, 18 Jan 1847"	Corn Exchange, evening	Red
 Manchester	53.480759	-2.242631	"Slavery, 19 Jan 1847”	Baptist Chapel, Grosvenor Street, evening	Red
+Coventry	52.406822	-1.519693	"Slavery, 21 Jan 1847"	Evening	Red
+Coventry	52.406822	-1.519693	"Slavery, 24 Jan 1847"	"Vicar Lane Chapel, evening. Douglass' speech lasted 1hr 15mins."	Red
+Coventry	52.406822	-1.519693	"Slavery, 2 Feb 1847"	St. Mary’s Hall Chapel, evening	Red
+London	51.507351	-0.127758	"Slavery, Mon 10 February 1847”	Hall of Commerce, evening	Red
+Pentonville	51.530994	-0.110682	“Slavery, 12 February 1847”	British School Room, evening	Red
+Leamington	52.285191	-1.520079	“Slavery, 23 February 1847”	Evening	Red
+Winchester	51.059771	-1.310142	“Slavery, 25 February 1847”	Independent Chapel, evening	Red
+Camberwell	51.474085	-0.093014	“Slavery, 26 February 1847”	Mansion House Chapel, evening	Red
+London	51.507351	-0.127758	“Slavery, 4 March 1847”	Finsbury Chapel, Moorfields.”	Evening	Red
+Camberwell	51.474085	-0.093014	“Slavery, 5 March 1847”	Mansion House, evening	Red
+Colchester	51.895927	0.891874	“Slavery, 6-7 March 1847”	Evening	Red

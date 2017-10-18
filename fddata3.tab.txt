@@ -167,3 +167,13 @@ London	51.507351	-0.127758	"Slavery & Evangelical Alliance, 14 Sept 1846"	"Exete
 Sunderland	54.906869	-1.383801	"Slavery, 18 Sept 1846"	"Athenaeum Hall, evening.”	Red
 Greenock	55.956476	-4.771983	"Slavery, 22 Sept 1846"	Evening	Red
 Paisley	55.847258	-4.440114	"Slavery, 23 Sept 1846"	"Secession Church, George Street, evening“	Red
+Edinburgh	55.953252	-3.188267	"Slavery & Free Church, 24 Sept 1846"	"Brighton Street Church, evening. With William Lloyd Garrison there."	Red
+Edinburgh	55.953252	-3.188267	"Slavery, 25 Sept 1846"	“Morning.”	Red
+Edinburgh	55.953252	-3.188267	"Slavery, 25 Sept 1846"	“Evening."	Red
+Dundee	56.462018	-2.970721	"Slavery & Free Church, 28 Sept 1846"	"Bell Street Hall, evening. Attacks Free Church and Evangelical Alliance. Finished at 11.15pm."	Red
+Edinburgh	55.953252	-3.188267	"Slavery, 29 Sept 1846"	Evening	Red
+Glasgow	55.864237	-4.251806	"Slavery, 30 Sept 1846"	“City Hall, evening”	Red
+Glasgow	55.864237	-4.251806	"Slavery, 1 Sept 1846"	“Morning/afternoon.”	Red
+Glasgow	55.864237	-4.251806	"Slavery, 1 Sept 1846"	“Evening.”	Red
+Glasgow	55.864237	-4.251806	"Slavery, 2 Sept 1846"	“Eagle Temperance Hall, morning/afternoon.”	Red
+Kilmarnock	55.614719	-4.498792	"Slavery, 2 Sept 1846"	Evening		Red

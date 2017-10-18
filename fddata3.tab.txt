@@ -197,3 +197,14 @@ Rochdale	53.609714	-2.1561	"Slavery, 11 Nov 1846"	“Public Hall, morning - Ladi
 Rochdale	53.609714	-2.1561	"Slavery, 11 Nov 1846"	“Public Hall, evening.”	Red
 Stockport	53.410632	-2.157533	"Slavery, 13 November 1846"	Evening	Red
 Warrington	53.390044	-2.59695	"Slavery, 17 Nov 1846"	Evening	Red
+Bacup	53.707167	-2.201259	“Slavery, 23 November 1846”	Evening	Red
+Oldham	53.54093	-2.111366	"Slavery, 25 Nov 1846"	Evening	Red
+Manchester	53.480759	-2.242631	"Slavery, 1 Dec 1846"	"Corn Exchange, Hanging Ditch. Evening, 7.30pm. Antislavery League Meeting."	Red
+Manchester	53.480759	-2.242631	"Slavery, 4 Dec 1846"	"Corn Exchange, Hanging Ditch, 7.30pm. Antislavery League meeting."	Red
+Ashton-under-Lyne	53.487682	-2.096108	"Slavery, 10 Dec 1846"	Evening	Red
+Ashton-under-Lyne	53.487682	-2.096108	"Slavery, 11 Dec 1846"	Evening	Red
+Birmingham	52.486243	-1.890401	"Slavery, Mid December 1846"	Evening	Red
+Manchester	53.480759	-2.242631	"Slavery, 22 Dec 1846"	Evening	Red
+Leeds	53.800755	-1.549077	"Slavery, 23 December 1846”	Evening	Red
+Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 28 Dec 1846"	"Music Hall, Albion Street, evening. Meeting of the Newcastle branch of the Antislavery League. 700 people there."	Red
+Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 29 Dec 1846"	Music Hall, evening	Red

@@ -71,7 +71,7 @@ Glasgow	55.864237	-4.251806	“Slavery and Free Church, 1 March 1846”	Assembly
 Dundee	56.462018	-2.970721	"Slavery & Free Church, First week of March 1846"	"Slavery and Free Church, evening lecture."	Red
 Dundee	56.462018	-2.970721	"Slavery & Free Church, First week March 1846"	Evening. Meeting held against Free Church.	Red
 Dundee	56.462018	-2.970721	"Slavery & Free Church, Sat 7 March 1846"	Evening meeting held against the Free Church	Red
-Montrose	56.706922	-2.466115	"Slavery, Mon 9 March 1846"	Rev. H. Hyslop’s Chapel, 7:30pm		Red
+Montrose	56.706922	-2.466115	“Slavery, Mon 9 March 1846”	Rev. H. Hyslop’s Chapel, 7:30pm	Red
 Dundee	56.462018	-2.970721	"Slavery & Free Church, Tues 10 March 1846"	"George's Chapel, School Wynd. Henry Clarke Wright and James Buffum also attended. Crowded meeting, evening. Tickets had to be sold to cope with demand. 1,200 people there."	Red
 Perth	56.394994	-3.430838	“Slavery, 12 March 1846”	City Hall, 7:30pm	Red
 Dundee	56.462018	-2.970721	"Slavery & Free Church, Mon 16 March 1846"	Evening meeting. James Buffum also attended.	Red

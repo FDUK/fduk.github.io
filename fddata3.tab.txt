@@ -177,3 +177,13 @@ Glasgow	55.864237	-4.251806	"Slavery, 1 Sept 1846"	“Morning/afternoon.”	Red
 Glasgow	55.864237	-4.251806	"Slavery, 1 Sept 1846"	“Evening.”	Red
 Glasgow	55.864237	-4.251806	"Slavery, 2 Sept 1846"	“Eagle Temperance Hall, morning/afternoon.”	Red
 Kilmarnock	55.614719	-4.498792	“Slavery, 2 Sept 1846"	Evening	Red
+Belfast	54.597285	-5.93012	"Slavery, 3 Oct 1846"	"Music Hall, evening. 200 people there, meeting broke up early because of controversial statements by Douglass and William Lloyd Garrison."	Red
+Belfast	54.597285	-5.93012	"Slavery, 6 Oct 1846"	"Independent Church, Donegall Street, evening."	Red
+Manchester	53.480759	-2.242631	"Slavery, 12 Oct 1846"	"Free Trade Hall, Peter Street. Evening, 7pm. Meeting to receive deputation of Antislavery League. William Lloyd Garrison, George Thompson and Henry Clarke Wright also attended. 3,000 present, and ended at 12. Confusion after Garrison insulted the Evangelical Alliance."	Red
+Rochdale	53.609714	-2.1561	"Slavery, 14 Oct 1846"	"Public Hall, evening. ""Numerously attended."""	Red
+Rochdale	53.609714	-2.1561	"Slavery, 15 Oct 1846"	"Public Hall, evening.”	Red
+Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 16 October 1846"	Evening	Red
+Liverpool	53.408371	-2.991573	"Slavery, 19 Oct 1846"	Evening, Concert Hall.	Red
+Edinburgh	55.953252	-3.188267	"Slavery, 21 Oct 1846"	"Brighton Street Church, evening. Tickets issued to cope with demand."	Red
+Kirkcaldy	56.116825	-3.158137	"Slavery, 22 Oct 1846"	Evening	Red
+Dundee	56.462018	-2.970721	"Slavery, 23 Oct 1846"	Evening.	Red

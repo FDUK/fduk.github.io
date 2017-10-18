@@ -250,3 +250,16 @@ Sheffield	53.381129	-1.470085	"Slavery, 16 Jan 1860”	“Corn Exchange, evening
 Liverpool	53.408371	-2.991573	"Slavery, 19 Jan 1860"	"Hope Hall, Hope Street, 8pm.”	Red
 Perth	56.394994	-3.430838	“Slavery, c.20 January-18 February 1860”	Evening	Red
 Arbroath	56.559107	-2.591543	"Slavery, c.20 January-18 February 1860”	Evening	Red
+Kilmarnock	55.614719	-4.498792	"Slavery, c.20 January-18 February 1860“	Evening		Red
+Paisley	55.847258	-4.440114	"Slavery, 26 January 1860”	Abbey Close, evening	Red
+Edinburgh	55.953252	-3.188267	"Slavery, 30 Jan 1860”	Queen Street Hall, evening	Red
+Glasgow	55.864237	-4.251806	"Slavery, 31 Jan 1860"	Evening	Red
+Paisley	55.847258	-4.440114	"Slavery, 3 February 1860”	Evening	Red
+Paisley	55.847258	-4.440114	"Slavery, 6 February 1860”	Evening	Red
+Falkirk	56.001878	-3.783913	“Slavery, 7 February 1860”	Free Church, 8pm	Red
+Dalkeith	55.893118	-3.066606	“Slavery, 9 February 1860”	Free Church, 8pm	Red
+Montrose	56.706922	-2.466115	"Slavery, 10 February 1860”	Evening	Red
+Dundee	56.462018	-2.970721	"Slavery, 13 Feb 1860"	"Corn Exchange Hall, evening - 7pm. Meeting of the Dundee Ladies' Antislavery Association. Denounces minstrelsy in the UK and gave a ""spirit-stirring oration."""	Red
+Glasgow	55.864237	-4.251806	"Slavery, 14 Feb 1860"	John Street United Presbyterian Church, 7pm	Red
+Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 19 Feb 1860"	"Afternoon, Lecture Room, Nelson Street. ""Crowded to the door by a respectable audience"", many of whom were unable to purchase tickets. Collection at the end to assist the Underground Railroad."	Red
+North Shields	55.010762	-1.449138	"Slavery, 21 Feb 1860"	"Evening, Albion Assembly Rooms, Norfolk St. Defended John Brown."	Red

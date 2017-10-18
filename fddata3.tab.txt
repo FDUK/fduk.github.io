@@ -176,4 +176,4 @@ Glasgow	55.864237	-4.251806	"Slavery, 30 Sept 1846"	“City Hall, evening”	Red
 Glasgow	55.864237	-4.251806	"Slavery, 1 Sept 1846"	“Morning/afternoon.”	Red
 Glasgow	55.864237	-4.251806	"Slavery, 1 Sept 1846"	“Evening.”	Red
 Glasgow	55.864237	-4.251806	"Slavery, 2 Sept 1846"	“Eagle Temperance Hall, morning/afternoon.”	Red
-Kilmarnock	55.614719	-4.498792	"Slavery, 2 Sept 1846"	Evening		Red
+Kilmarnock	55.614719	-4.498792	“Slavery, 2 Sept 1846"	Evening	Red

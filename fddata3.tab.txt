@@ -240,3 +240,13 @@ Halifax	53.72702	-1.85754	"Slavery, 29 Nov 1859"	"Mechanics Hall, probably eveni
 Halifax	53.72702	-1.85754	"Slavery, 30 Nov 1859"	"Mechanics Hall, evening.”	Red
 Halifax	53.72702	-1.85754	"Slavery, 7 Dec 1859"	"Mechanics Hall, evening.”	Red
 Halifax	53.72702	-1.85754	"Slavery, 13 Dec 1859"	"Mechanics Hall, evening.”	Red
+Sheffield	53.381129	-1.470085	"Slavery, 19 Dec 1859"	"Temperance Hall, Townhead St. Evening. Discusses John Brown, and pro-slavery feeling in Sheffield."	Red
+Leeds	53.800755	-1.549077	"Slavery & John Brown, with Sarah Remond. 22 Dec 1859"	"Music Hall, evening. Annual meeting of Leeds Young Men's Antislavery Society."	Red
+Halifax	53.72702	-1.85754	"Slavery and John Brown, 28 Dec 1859"	"Mechanics Hall, evening.”	Red
+Halifax	53.72702	-1.85754	"Slavery, 4 Jan 1860“	"Mechanics Hall, evening.”	Red
+Bradford	53.795984	-1.759398	"Slavery, 6 Jan 1860"	"Mechanics Institute, evening. Meeting of the Young Men's Christian Association and the working class. Denounces pro-slavery feeling in the UK, and defends John Brown's position but condemns his actions."	Red
+Wakefield	53.683298	-1.505924	"Slavery, with Sarah Remond. 12 Jan 1860"	"Corn Exchange Buildings, evening. 1.500 people there. Committee to be formed in Wakefield for antislavery."	Red
+Sheffield	53.381129	-1.470085	"Slavery, 16 Jan 1860”	“Corn Exchange, evening	Red
+Liverpool	53.408371	-2.991573	"Slavery, 19 Jan 1860"	"Hope Hall, Hope Street, 8pm.”	Red
+Perth	56.394994	-3.430838	“Slavery, c.20 January-18 February 1860”	Evening	Red
+Arbroath	56.559107	-2.591543	"Slavery, c.20 January-18 February 1860”	Evening	Red

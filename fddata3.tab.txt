@@ -133,7 +133,7 @@ Belfast	54.597285	-5.93012	"Slavery, Wed 8 July 1846"	"Primitive Methodist Chape
 Belfast	54.597285	-5.93012	"Slavery, 10 July 1846"	"Methodist Chapel, Donegall Place, 7pm. Tickets issued to prevent overcrowding."	Red
 Bangor	54.654197	-5.673065	“Slavery, 13 July 1846”	First Presbyterian Church, evening	Red
 Belfast	54.597285	-5.93012	“Temperance, 22 July 1846”	Independent Church, Donegall-Street, 7:30pm	Red
-Edinburgh	55.953252	-3.188267	"Slavery, 31 July 1846"	Evening		Red
-Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 2 August 1846"	Evening		Red
+Edinburgh	55.953252	-3.188267	“Slavery, 31 July 1846”	Evening	Red
+Newcastle Upon Tyne	54.978252	-1.61778	“Slavery, 2 August 1846”	Evening	Red
 Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 3 August 1846"	"Salem Methodist Church, Hood Street. Meeting of the Newcastle Antislavery Society, evening.”	Red
 North Shields	55.010762	-1.449138	"Slavery, 4 August 1846"	"Baptist Chapel, Howard Street. Evening."	Red

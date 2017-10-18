@@ -229,3 +229,14 @@ Camberwell	51.474085	-0.093014	“Slavery, 26 February 1847”	Mansion House Cha
 London	51.507351	-0.127758	“Slavery, 4 March 1847”	Finsbury Chapel, evening	Red
 Camberwell	51.474085	-0.093014	“Slavery, 5 March 1847”	Mansion House, evening	Red
 Colchester	51.895927	0.891874	“Slavery, 6-7 March 1847”	Evening	Red
+Warrington	53.390044	-2.59695	"Slavery, 9 March 1847"	"Mechanic's Lecture Hall, evening. ""Celebrated fugitive slave."""	Red
+Cumberland	51.528339	-0.236530	“Slavery, 17 March 1847”	Evening	Red
+Sheffield	53.381129	-1.470085	"Slavery/Farewell, 25 March 1847"	"Theatre, 7.30pm. Crowded meeting."	Red
+Northampton	52.240477	-0.902656	"Slavery/Farewell, 29 March 1847"	"New Hall, Newland. Evening. ""Respectable"" audience, including Mayor. 11pm finish."	Red
+London	51.507351	-0.127758	"Slavery, 30 March 1847“	“London Tavern, Strand. 6pm chair.”	Red
+Huddersfield	53.645792	-1.785035	“Slavery, 31 March 1847”	Philosophical Hall, evening	Red
+Bristol	51.454513	-2.58791	"Slavery, 1 April 1847”	“Broadmead Rooms, evening.”	Red
+Halifax	53.72702	-1.85754	"Slavery, 29 Nov 1859"	"Mechanics Hall, probably evening.”	Red
+Halifax	53.72702	-1.85754	"Slavery, 30 Nov 1859"	"Mechanics Hall, evening.”	Red
+Halifax	53.72702	-1.85754	"Slavery, 7 Dec 1859"	"Mechanics Hall, evening.”	Red
+Halifax	53.72702	-1.85754	"Slavery, 13 Dec 1859"	"Mechanics Hall, evening.”	Red

@@ -117,3 +117,13 @@ Edinburgh	55.953252	-3.188267	"Slavery, 24 May 1846"	Evening	Red
 Edinburgh	55.953252	-3.188267	"Slavery, 25 May 1846"	Music Hall, evening	Red
 Edinburgh	55.953252	-3.188267	“Slavery, and Free Church, 26 May 1846”	Music Hall, evening	Red
 Edinburgh	55.953252	-3.188267	“Slavery, and Free Church, 27 May 1846”	Music Hall, evening	Red
+Fife	56.208208	-3.149518	"Slavery & Free Church, 29 May 1846"	"Possibly Fife. Music Hall, evening. With George Thompson."	Red
+Kirkcaldy	56.116825	-3.158137	"Slavery & Free Church, 1 June 1846"	"Bethelfield Chapel, 7.30pm. 1,400 people present, with James Buffum."	Red
+Edinburgh	55.953252	-3.188267	"Slavery & Free Church, 2 June 1846"	"Music Hall, evening. James Buffum, Henry Clarke Wright, and George Thompson also there."	Red
+Edinburgh	55.953252	-3.188267	"Slavery, 3 June 1846"	"Music Hall, Edinburgh. George Thompson and Henry Clarke Wright also attended."	Red
+Edinburgh	55.953252	-3.188267	"Slavery & Free Church, 4 June 1846"	"Music Hall, evening. George Thompson and Henry Clarke Wright also there. Crowded audience, 12 finish."	Red
+Edinburgh	55.953252	-3.188267	"Slavery & Free Church, 5 June 1846"	"Music Hall, evening. James Buffum and George Thompson also there."	Red
+Edinburgh	55.953252	-3.188267	"Slavery & Free Church, 9 June 1846"	“Music Hall, evening. George Thompson, James Buffum, and Henry Clarke Wright also there."	Red
+Belfast	54.597285	-5.93012	"Slavery & Free Church, Tues 16 June 1846"	"Rev. Nelson's Church, Donegall Street. Evening, with James Buffum. Send Back the Money!"	Red
+Birmingham	52.486243	-1.890401	"Slavery, 29 June 1846"	"Ebenezer Chapel, Birmingham. Meeting of Auxiliary of British and Foreign Antislavery Society, evening.”	Red
+Manchester	53.480759	-2.242631	"Slavery, 2 July 1846"	"Town Hall, 11am. Final meeting of the National Anti-Corn Law League. Richard Cobden and John Bright there."	Red

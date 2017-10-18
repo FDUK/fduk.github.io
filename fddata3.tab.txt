@@ -147,3 +147,13 @@ Carlisle	54.892473	-2.932931	"Slavery, 21 August 1846"	"Athenaeum, Lowther Stree
 Bristol	51.454513	-2.58791	"Slavery, 24 August 1846"	“Evening.”	Red
 Bristol	51.454513	-2.58791	"Slavery, 25 August 1846"	"Blind Asylum, daytime."	Red
 Bristol	51.454513	-2.58791	"Slavery, 25 August 1846"	"Victoria Rooms, evening."	Red
+Bristol	51.454513	-2.58791	"Slavery, 26 August 1846"	"Victoria Rooms, evening. With William Lloyd Garrison."	Red
+Bristol	51.454513	-2.58791	"Slavery, 27? August 1846"	"Victoria Rooms, evening.”	Red
+Exeter	50.718412	-3.533899	"Slavery, 28 August 1846"	"Subscription Rooms, evening. 11pm finish."	Red
+Exeter	50.718412	-3.533899	"Slavery, Sat 29 August 1846"	"Subscription Rooms, evening. William Lloyd Garrison there."	Red
+Taunton	51.015344	-3.106849	"Slavery, 30 August 1846"	Evening	Red
+Bridgwater	51.127889	-3.003632	"Slavery, 31 August 1846"	"Public rooms, evening."	Red
+Cullercoats	55.031646	-1.440003	“Slavery, August 1846”	Evening?	Red
+Taunton	51.015344	-3.106849	"Slavery, 1 August 1846"	Public Hall, evening	Red
+Bristol	51.454513	-2.58791	"Slavery, 2 Sept 1846"	"Public Rooms, Broadmead. Evening. Tickets to cope with demand. Crowed meeting. William Lloyd Garrison there. 11pm finish."	Red
+Birmingham	52.486243	-1.890401	"Slavery, 4 Sept 1846"	“Livery Street Chapel, evening, with William Lloyd Garrison and George Thompson."	Red

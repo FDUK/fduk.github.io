@@ -226,6 +226,6 @@ Pentonville	51.530994	-0.110682	“Slavery, 12 February 1847”	British School R
 Leamington	52.285191	-1.520079	“Slavery, 23 February 1847”	Evening	Red
 Winchester	51.059771	-1.310142	“Slavery, 25 February 1847”	Independent Chapel, evening	Red
 Camberwell	51.474085	-0.093014	“Slavery, 26 February 1847”	Mansion House Chapel, evening	Red
-London	51.507351	-0.127758	“Slavery, 4 March 1847”	Finsbury Chapel, Moorfields.”	Evening	Red
+London	51.507351	-0.127758	“Slavery, 4 March 1847”	Finsbury Chapel, Moorfields”	Evening	Red
 Camberwell	51.474085	-0.093014	“Slavery, 5 March 1847”	Mansion House, evening	Red
 Colchester	51.895927	0.891874	“Slavery, 6-7 March 1847”	Evening	Red

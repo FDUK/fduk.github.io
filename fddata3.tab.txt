@@ -87,3 +87,13 @@ Greenock	55.956476	-4.771983	“Slavery, Fri 27 March 1846”	Evening	Red
 Paisley	55.847258	-4.440114	"Slavery, Mon 30 March 1846"	"Secession Church, Abbey Close, evening. James Buffum also attended."	Red
 Bonhill	55.978918	-4.440114	“Slavery, 31 March 1846”	Secession Church, Abbey Close, evening	Red
 Hawick	55.42706	-2.780914	“Slavery, c.1-14 April 1846”	Evening	Red
+Galashiels		55.623728	-2.814449	“Slavery, c.1-14 April 1846”	Evening	Red
+Coldstream	55.65132	-2.253399	“Slavery, c.1-14 April 1846”	Evening	Red
+Kelso	55.600029	-2.432207	"Slavery, c.1-14 April 1846"	“Evening.”	Red
+Kilmarnock	55.614719	-4.498792	"Slavery, Sat 4 April 1846"	Evening		Red
+Paisley	55.847258	-4.440114	"Slavery, Mon 6 April 1846"	"Secession Church, Abbey Close, evening. With James Buffum."	Red
+Greenock	55.956476	-4.771983	“Slavery, 10 April 1846”	West Blackhall Street Chapel, 8pm	Red
+Glasgow	55.864237	-4.251806	"Slavery, Wed 15 April 1846"	Evening		Red
+Glasgow	55.864237	-4.251806	"Slavery, Thurs 16 April 1846"	Evening		Red
+Paisley	55.847258	-4.440114	"Slavery, Fri 17 April 1846"		Exchange Rooms, with James Buffum, evening	Red
+Glasgow	55.864237	-4.251806	"Slavery & Free Church, Tues 21 April 1846"	"City Hall, evening. Public meeting of the Glasgow Emancipation Society. With James Buffum, George Thompson."	Red

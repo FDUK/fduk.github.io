@@ -187,3 +187,13 @@ Liverpool	53.408371	-2.991573	"Slavery, 19 Oct 1846"	Evening, Concert Hall.	Red
 Edinburgh	55.953252	-3.188267	"Slavery, 21 Oct 1846"	"Brighton Street Church, evening. Tickets issued to cope with demand."	Red
 Kirkcaldy	56.116825	-3.158137	"Slavery, 22 Oct 1846"	Evening	Red
 Dundee	56.462018	-2.970721	"Slavery, 23 Oct 1846"	Evening.	Red
+Perth	56.394994	-3.430838	"Slavery, 24 Oct 1846"	Morning?	Red
+Aberdeen	57.149717	-2.094278	"Slavery, 24 Oct 1846"	Evening	Red
+Liverpool	53.408371	-2.991573	"Slavery, 26 Oct 1846"	"Concert Hall, Lord Nelson Street, evening. Meeting of the Antislavery League, 2,500 people. George Thompson, William Lloyd Garrison there too. Ended 10.45pm."	Red
+Glasgow	55.864237	-4.251806	"Slavery, Free Church & Evangelical Alliance, 28 Oct 1846"	"Evening, 7.30pm. George Thompson and William Lloyd Garrison there too. 4,000 people there."	Red
+Edinburgh	55.953252	-3.188267	"Slavery, 29 Oct 1846"	Evening	Red
+Rochdale	53.609714	-2.1561	"Slavery, 10 Nov 1846"	"Public Hall, evening. Henry Clarke Wright there too for Antislavery League meeting."	Red
+Rochdale	53.609714	-2.1561	"Slavery, 11 Nov 1846"	“Public Hall, morning - Ladies meeting, branch of Antislavery League formed."	Red
+Rochdale	53.609714	-2.1561	"Slavery, 11 Nov 1846"	“Public Hall, evening.”	Red
+Stockport	53.410632	-2.157533	"Slavery, 13 November 1846"	Evening	Red
+Warrington	53.390044	-2.59695	"Slavery, 17 Nov 1846"	Evening	Red

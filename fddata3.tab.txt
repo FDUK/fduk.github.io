@@ -137,3 +137,13 @@ Edinburgh	55.953252	-3.188267	“Slavery, 31 July 1846”	Evening	Red
 Newcastle Upon Tyne	54.978252	-1.61778	“Slavery, 2 August 1846”	Evening	Red
 Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 3 August 1846"	"Salem Methodist Church, Hood Street. Meeting of the Newcastle Antislavery Society, evening.”	Red
 North Shields	55.010762	-1.449138	"Slavery, 4 August 1846"	"Baptist Chapel, Howard Street. Evening."	Red
+London	51.507351	-0.127758	“Temperance, 6 August 1846”	London Literary Institution, Aldersgate Street, evening	Red
+London	51.507351	-0.127758	"Temperance, 7 August 1846"	Covent Garden Theatre, evening	Red
+London	51.507351	-0.127758	"Slavery, Mon 10 August 1846"	Antislavery League formed. Crown and Anchor Tavern, evening.	Red
+Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 13 August 1846"	"Salem Chapel, Hood Street, evening. 1,200 there."	Red
+Carlisle	54.892473	-2.932931	"Slavery, 14 August 1846"	"Athenaeum, Lowther Street, evening”	Red
+London	51.507351	-0.127758	"Slavery, 17 August 1846"	"Crown and Anchor Tavern, Strand. 6.30pm chair. George Thompson, William Lloyd Garrison, Henry Clarke Wright and Henry Vincent there. Tickets had to be issued. Discussed Free Church."	Red
+Carlisle	54.892473	-2.932931	"Slavery, 21 August 1846"	"Athenaeum, Lowther Street, evening”	Red
+Bristol	51.454513	-2.58791	"Slavery, 24 August 1846"	“Evening.”	Red
+Bristol	51.454513	-2.58791	"Slavery, 25 August 1846"	"Blind Asylum, daytime."	Red
+Bristol	51.454513	-2.58791	"Slavery, 25 August 1846"	"Victoria Rooms, evening."	Red

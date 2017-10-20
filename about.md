@@ -6,7 +6,7 @@ innav: yes
 
 Born enslaved, Douglass became the most famous African American in the transatlantic world and worked as an abolitionist, civil rights activist, feminist, writer, orator, and advocate of social justice throughout his life. 
 
-He travelled to Britain in 1845 for nineteen months, lecturing against American slavery roughly three hundred times. To an American audience, Douglass is perhaps the most famous fugitive from slavery, but in Britain he is less well known, despite the fact he achieved great celebrity in the mid nineteenth century. His lectures in Britain were brilliant works of oratory and the controversies Douglass created and became embroiled in illustrate his power as a commanding and influential speaker.
+He travelled to Britain and Ireland in 1845 for nineteen months, lecturing against American slavery roughly three hundred times. To an American audience, Douglass is perhaps the most famous fugitive from slavery, but in Britain he is less well known, despite the fact he achieved great celebrity in the mid nineteenth century. His lectures in Britain and Ireland were brilliant works of oratory and the controversies Douglass created and became embroiled in illustrate his power as a commanding and influential speaker.
 
 Most of the content on this website relates to Frederick Douglass – his journey, the controversies he caused and a map showing the locations of his speeches. The second map shows some of the speaking locations of other black abolitionists such as Josiah Henson, William Wells Brown, William and Ellen Craft, Moses Roper and Henry ‘Box’ Brown, to name a few.
 

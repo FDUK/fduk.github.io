@@ -437,3 +437,75 @@ Edinburgh	55.953252	-3.188267	Josiah Henson	Henson	 1876 or 1877		“Literary In
 Hackney	51.551795	-0.064644	Josiah Henson	Henson	 1876 or 1877		“Hackney Road, Wesleyan Chapel.”	blue
 Huntly	57.445936	-2.787806	Ida B. Wells	Wells	 Spring 1893		“Evening.”	teal
 Kirkliston	55.956972	-3.401411	Ida B. Wells	Wells	 Spring 1893”		“Evening.”	teal
+Edinburgh	55.95352	-3.188267	Ida B. Wells	Wells	 Spring 1893		“Evening.”	teal
+Edinburgh	55.95352	-3.188267	Ida B. Wells	Wells	 Spring 1893		“Evening.”	teal
+Edinburgh	55.95352	-3.188267	Ida B. Wells	Wells	 Spring 1893		“Evening.”	teal
+Edinburgh	55.95352	-3.188267	Ida B. Wells	Wells	 Spring 1893		“Evening.”	teal
+Glasgow	55.864237	-4.251806	Ida B. Wells	Wells	 Spring 1893		“Evening.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells		1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+Bristol	51.454513	-2.58791	Ida B. Wells	Wells	 1894		“Evening.”	teal
+Bristol	51.454513	-2.58791	Ida B. Wells	Wells	 1894		“Evening.”	teal
+Bristol	51.454513	-2.58791	Ida B. Wells	Wells	 1894		“Evening.”	teal
+Liverpool	53.408371	-2.991573	Ida B. Wells	Wells	 1894		“Evening.”	teal
+Liverpool	53.408371	-2.991573	Ida B. Wells	Wells	 1894		“Evening.”	teal
+Liverpool	53.408371	-2.991573	Ida B. Wells	Wells	 1894		“Evening.”	teal
+Liverpool	53.408371	-2.991573	Ida B. Wells	Wells	 4 May 1894		“Friends’ Institute.”	teal
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 5 May 1894		“Vegetarian Restaurant, Fountain Street.”	teal
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 6 May 1894		“Central Hall, Oldham Street.”	teal
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal	
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal	
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells		1894		“Evening?”	teal	
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal	
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal	
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal	
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal	
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal	
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal	
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells		1894		“Evening?”	teal	
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal	
+Southport	53.645708	-3.010113	Ida B. Wells	Wells	 1894		“Evening?”	teal
+Newcastle	54.978252	-1.61778	Ida B. Wells	Wells	 1894		“Evening?”	teal
+Salford	53.487523	-2.290126	Ida. B. Wells	Wells	 7 May 1893		“Morning, Unitarian Church, Moss Side.”	teal
+Salford	53.487523	-2.290126	Ida. B. Wells	Wells	 7 May 1893		“Afternoon, addressed the Bible Christian School.”	teal
+Salford	53.487523	-2.290126	Ida B. Wells	Wells	 7 May 1893		“Evening, Temperance Hall.”	teal
+Ashton-Under-Lyne	53.487682	-2.096108	Ida B. Wells	Wells	 May 1893		“Evening.”	teal
+Newcastle	54.978252	-1.61778	Ida B. Wells	Wells		9 May 1893		“Friends Meeting House, afternoon.”	teal
+Newcastle	54.978252	-1.61778	Ida B. Wells	Wells	 9 May 1893		“Friends Meeting House, evening.”	teal
+Darlington	54.52361	-1.559458	Ida B. Wells	Wells	 12 May 1893		“Mechanics Hall.”	teal
+Birmingham	52.486243	-1.890401	Ida B. Wells	Wells	 17 May 1893		“Young Men’s Christian Association Assembly Hall, Needles Alley.”	teal
+Birmingham	52.486243	-1.890401	Ida B. Wells	Wells	 17 May 1893		“Central Hall, Corporation Street, evening.”	teal
+Street	51.124679	-2.742919	Ida B. Wells	Wells	 18 May 1893		“Drawing Room at Mill Field.”	teal
+Street	51.124679	-2.742919	Ida B. Wells	Wells	 19 May 1893		“Crespin Hall.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 23-28 May 1893		“YMCA/Quakers.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 23-28 May 1893		“YMCA/Quakers.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 23-28 May 1893		“YMCA/Quakers.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 23-28 May 1893		“YMCA/Quakers.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 2 June 1893		“Address to World’s Women’s CT.”	teal
+Portsmouth	50.819768	-1.087977	Ida B. Wells	Wells	 1 June 1893		“Fullers Hall, Landport.”	teal
+Sheffield	53.381129	-1.470085	Ida B. Wells	Wells	 1894		“Possibly evening.”	teal

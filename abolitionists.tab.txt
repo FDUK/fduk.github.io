@@ -513,3 +513,4 @@ London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less t
 Manchester	53.480759	-2.242631	Ida B. Wells	Wells		1894		“Evening?”	teal	
 Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal	
 Newcastle	54.978252	-1.61778	Ida B. Wells	Wells	 9 May 1893		“Friends Meeting House, afternoon.”	teal
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal

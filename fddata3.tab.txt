@@ -278,3 +278,12 @@ Glasgow	55.864237	-4.251806	"Slavery, 28 March 1860"	East Campbell Street Church
 Glasgow	55.864237	-4.251806	"Slavery, 29 March 1860“	Evening	Red
 Perth	56.394994	-3.430838	“Slavery, 24 January 1846”	Evening	Red
 Perth	56.394994	-3.430838	“Slavery, 25 January 1846”	Evening	Red
+Glasgow	55.864237	-4.251806	“Slavery, 18 February 1846”	Ladies Meeting, 1pm	Red
+Montrose	56.706922	-2.466115	“Slavery, 26 February 1846”	Evening	Red
+Montrose	56.706922	-2.466115	“Slavery, 27 February 1846”	Evening	Red
+Montrose	56.706922	-2.466115	“Slavery, 28 February 1846”	Evening	Red
+Perth	56.394994	-3.430838	“Slavery, 12 March 1846”	Ladies Meeting	Red
+Fenwick	55.663378	-4.440772	“Slavery, 5 April 1846”	Possibly earlier, Secession Meeting House	Red
+Edinburgh	55.953252	-3.188267	“Slavery, 29 April 1846”	Ladies Meeting	Red
+Leith	55.975528	-3.16651	“Slavery, 28 May 1846”	Evening	Red
+Street	51.124679	-2.742919	“Slavery, 1886-1887”	Helen Bright Clark’s house	Red

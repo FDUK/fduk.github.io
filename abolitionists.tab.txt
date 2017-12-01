@@ -434,4 +434,4 @@ Bristol	51.454513	-2.58791	Josiah Henson	Henson		1876-1877	“Wesleyan Chapel.�
 Glasgow	55.864237	-4.251806	Josiah Henson	Henson		1876-1877	“City Hall.”	blue
 Glasgow	55.864237	-4.251806	Josiah Henson	Henson		1876-1877	“Kibble Palace.”	blue
 Edinburgh	55.953252	-3.188267	Josiah Henson	Henson		1876-1877	“Literary Institute.”	blue
-Hackney	51.551795	-0.064644	Josiah Henson	Henson		 1876 or 1877	“Hackney Road, Wesleyan Chapel.”	blue
+Hackney	51.551795	-0.064644	Josiah Henson	Henson		 1876 or 1877		“Hackney Road, Wesleyan Chapel.”	blue

@@ -350,3 +350,6 @@ London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Mile End.”	blue
 London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Mayfield Terrace, Wesleyan Chapel.”	blue
 London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Mile End, second lecture.”	blue
 Wallington	51.363978	-0.151845	Josiah Henson	Henson		1876-1877	“Church.”	blue
+Southampton	50.9097	-1.404351	Josiah Henson	Henson		1876-1877	“Chapel?”	blue
+Ryde	50.729952	-1.163282	Josiah Henson	Henson		1876-1877	“Chapel?”	blue
+Portsmouth	50.819768	-1.087977	Josiah Henson	Henson		1876-1877	“HMS Victory to ship’s officers and crew.”	blue

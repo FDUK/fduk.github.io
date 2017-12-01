@@ -276,14 +276,14 @@ Glasgow	55.864237	-4.251806	"Slavery & American Constitution, 26 March 1860"	"Ev
 Ayr	55.458564	-4.629179	"Slavery, Mon 23 March 1846"	“U.P. Church, Catheart Street, evening	Red
 Glasgow	55.864237	-4.251806	"Slavery, 28 March 1860"	East Campbell Street Church, evening	Red
 Glasgow	55.864237	-4.251806	"Slavery, 29 March 1860“	Evening	Red
-Perth 56.394994 -3.430838 “Slavery, 24 January 1846"  Evening Thanks to Alasdair Pettinger for this reference Red
-Perth 56.394994 -3.430838 “Slavery, 25 January 1846”  Evening Thanks to Alasdair Pettinger for this reference Red
-Glasgow 55.864237 -4.251806 “Slavery, 18 February 1846” Ladies Meeting, 1pm Thanks to Alasdair Pettinger for this reference Red
-Montrose  56.706922 -2.466115 “Slavery, 26 February 1846” Evening Thanks to Alasdair Pettinger for this reference Red
-Montrose  56.706922 -2.466115 “Slavery, 27 February 1846” Evening Thanks to Alasdair Pettinger for this reference Red
-Montrose  56.706922 -2.466115 “Slavery, 28 February 1846” Evening Thanks to Alasdair Pettinger for this reference Red
-Perth 56.394994 -3.430838 “Slavery, 12 March 1846”  Ladies Meeting  Thanks to Alasdair Pettinger for this reference Red
-Fenwick 55.663378 -4.440772 “Slavery, 5 April 1846” Possibly earlier, Secession Meeting House  Thanks to Alasdair Pettinger for this reference Red
-Edinburgh 55.953252 -3.188267 “Slavery, 29 April 1846”  Ladies Meeting  Thanks to Alasdair Pettinger for this reference Red
-Leith 55.975528 -3.16651  “Slavery, 28 May 1846”  Evening Thanks to Alasdair Pettinger for this reference Red
-Street  51.124679 -2.742919 “Slavery, 1886-1887”  Douglass spoke at Helen Bright Clark’s house  Red
+Perth	56.394994	-3.430838	“Slavery, 24 January 1846”	Evening	Thanks to Alasdair Pettinger for this reference	Red
+Perth	56.394994	-3.430838	“Slavery, 25 January 1846”	Evening	Thanks to Alasdair Pettinger for this reference	Red
+Glasgow	55.864237	-4.251806	“Slavery, 18 February 1846”	Ladies Meeting, 1pm	Thanks to Alasdair Pettinger for this reference	Red
+Montrose	56.706922	-2.466115	“Slavery, 26 February 1846”	Evening	Thanks to Alasdair Pettinger for this reference	Red
+Montrose	56.706922	-2.466115	“Slavery, 27 February 1846”	Evening	Thanks to Alasdair Pettinger for this reference	Red
+Montrose	56.706922	-2.466115	“Slavery, 28 February 1846”	Evening	Thanks to Alasdair Pettinger for this reference	Red
+Perth	56.394994	-3.430838	“Slavery, 12 March 1846”	Ladies Meeting	Thanks to Alasdair Pettinger for this reference	Red
+Fenwick	55.663378	-4.440772	“Slavery, 5 April 1846”	Possibly earlier, Secession Meeting House	Thanks to Alasdair Pettinger for this reference	Red
+Edinburgh	55.953252	-3.188267	“Slavery, 29 April 1846”	Ladies Meeting	Thanks to Alasdair Pettinger for this reference	Red
+Leith	55.975528	-3.16651	“Slavery, 28 May 1846”	Evening	Thanks to Alasdair Pettinger for this reference	Red
+Street	51.124679	-2.742919	“Slavery, 1886-1887”	Douglass spoke at Helen Bright Clark’s house	Red

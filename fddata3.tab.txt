@@ -276,5 +276,5 @@ Glasgow	55.864237	-4.251806	"Slavery & American Constitution, 26 March 1860"	"Ev
 Ayr	55.458564	-4.629179	"Slavery, Mon 23 March 1846"	“U.P. Church, Catheart Street, evening	Red
 Glasgow	55.864237	-4.251806	"Slavery, 28 March 1860"	East Campbell Street Church, evening	Red
 Glasgow	55.864237	-4.251806	"Slavery, 29 March 1860“	Evening	Red
-Perth	56.394994	-3.430838	“Slavery, 24 January 1846”	Thanks to Alasdair Pettinger for this reference	Evening	Red
-Perth	56.394994	-3.430838	“Slavery, 25 January 1846”	Thanks to Alasdair Pettinger for this reference	Evening	Red
+Perth	56.394994	-3.430838	“Slavery, 24 January 1846”	Evening	Red
+Perth	56.394994	-3.430838	“Slavery, 25 January 1846”	Evening	Red

@@ -509,3 +509,7 @@ London	51.507351	-0.127758	Ida B. Wells	Wells	 23-28 May 1893		“YMCA/Quakers.�
 London	51.507351	-0.127758	Ida B. Wells	Wells	 2 June 1893		“Address to World’s Women’s CT.”	teal
 Portsmouth	50.819768	-1.087977	Ida B. Wells	Wells	 1 June 1893		“Fullers Hall, Landport.”	teal
 Sheffield	53.381129	-1.470085	Ida B. Wells	Wells	 1894		“Possibly evening.”	teal
+London	51.507351	-0.127758	Ida B. Wells	Wells	 1894		“I have spoken not less than thirty-five times at different gatherings…during my six weeks’ stay in London, including clubs, drawing rooms, parties, lectures.”	teal
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells		1894		“Evening?”	teal	
+Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal	
+Newcastle	54.978252	-1.61778	Ida B. Wells	Wells	 9 May 1893		“Friends Meeting House, afternoon.”	teal

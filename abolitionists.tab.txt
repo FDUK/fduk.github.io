@@ -336,102 +336,102 @@ York	53.959965	-1.087298	Samuel Ward		 Tues 24 Oct 1854		"Festival Concert Room,
 York	53.959965	-1.087298	William & Ellen Craft	Craft	 Mon 24 March 1851	Goodramgate	"Evening lecture on slavery, Lecture Hall."	light blue
 York	53.959965	-1.087298	William Wells Brown	WellsBrown	 Mon 24 March 1851	Goodramgate	"Lecture hall, evening lecture on slavery."	cloud
 Nottingham	52.954783	-1.158109	William Wells Brown	WellsBrown	March 1851	 "Exchange Hall, evening lecture on slavery."	cloud
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Victoria Park Tabernacle.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Wood Green.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		September 1876	“Wood Green, Wesleyan Chapel.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Little Wild Street Baptist Chapel, Drury Lane.”	blue
-Epsom	51.336036	-0.267382	Josiah Henson	Henson		1876-1877	“Church?”	blue
-Brixton	51.461279	-0.115615	Josiah Henson	Henson		1876-1877	“Congregational Church.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Mildmay Park.”	blue
-Stoke Newington	51.559676	-0.07937	Josiah Henson	Henson		1876-1877	“Congregational Church, Walford Road.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“New North Road Congregational Church.”	blue
-Stoke Newington	51.559676	-0.07937	Josiah Henson	Henson		1876-1877	“Milton Road, Congregational Church.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Mile End.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Mayfield Terrace, Wesleyan Chapel.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Mile End, second lecture.”	blue
-Wallington	51.363978	-0.151845	Josiah Henson	Henson		1876-1877	“Church.”	blue
-Southampton	50.9097	-1.404351	Josiah Henson	Henson		1876-1877	“Chapel?”	blue
-Ryde	50.729952	-1.163282	Josiah Henson	Henson		1876-1877	“Chapel?”	blue
-Portsmouth	50.819768	-1.087977	Josiah Henson	Henson		1876-1877	“HMS Victory to ship’s officers and crew.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Peniel Tabernacle, Haverstock Road, Baptist Chapel.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Peniel Tabernacle, Haverstock Road, Baptist Chapel, second lecture.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Victoria Park Tabernacle, 2nd lecture.”	blue
-Hackney	51.551795	-0.064644	Josiah Henson	Henson		1876-1877	“South Hackney.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Winchmore Hill Congregational Church.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		Oct 1876	“Putney Congregational Church, Oxford Road, afternoon.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		Oct 1876	“Putney Congregational Church, Oxford Road, evening.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Wesley’s Chapel, City Road.”	blue
-Bromley	51.406025	-0.013156	Josiah Henson	Henson		1876-1877	“Possibly church.”	blue
-Twickenham	51.444581	-0.335246	Josiah Henson	Henson		1876-1877	“Old Chapel Royal.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Hinde Street Chapel, Manchester Square.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Weigh House Chapel, London Bridge.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Whitfield Tabernacle, Tottenham Court Road.”	blue
-Chelsea	51.485093	-0.174936	Josiah Henson	Henson		1876-1877	“Sloane Street Chapel, Wesleyan Chapel.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“St Paul’s Churchyard, address to employees.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Victoria Park Tabernacle, another lecture here.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Barnsbury Chapel.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1851	“Barnsbury Chapel.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Barnsbury Chapel.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Brown’s Lane, Spitalfields.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“King’s Cross Wesleyan Chapel.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Queen Street, Ratcliffe.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“New Bridge Street, Church of England Young Men’s Society.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Denmark Hill Baptist Chapel.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“St John’s Wood, Abbey Road Chapel.”	blue
-Bromley	51.406025	-0.013156	Josiah Henson	Henson		1876-1877	“Second visit.”	blue
-Brixton	51.461279	-0.115615	Josiah Henson	Henson		1876-1877	“Herne Hill, Chapel belonging to the United Methodist Free Church.”	blue
-Middlesex	51.520101	-0.137959	Josiah Henson	Henson		1876-1877	“Hanwell, Middlesex.”	blue
-Canterbury	51.280233	1.078909	Josiah Henson	Henson		1876-1877	“Opened the New Primitive Methodist Chapel, afternoon.”	blue
-Canterbury	51.280233	1.078909	Josiah Henson	Henson		1876-1877	“Opened the New Primitive Methodist Chapel, evening lecture.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Tolmer Square Congregational Church.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Woodford United Methodist Free Church.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Surrey Chapel, Blackfriars.”	blue
-Chelsea	51.485093	-0.174936	Josiah Henson	Henson		1876-1877	“Sloan Terrace Wesleyan Chapel.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Putney Congregational Church, second visit.”	blue
-Lambeth	51.457148	-0.123068	Josiah Henson	Henson		1876-1877	“Upton Baptist Chapel.”	blue
-Shoreditch	51.52849	-0.084728	Josiah Henson	Henson		1876-1877	“Bedford Institute, Commercial Street.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Barnsburch Chapel, second visit.”	blue
-Folkestone	51.081397	1.169456	Josiah Henson	Henson		1876-1877	“Folkestone Town Hall.”	blue
-Ramsgate	51.335545	1.419895	Josiah Henson	Henson		1876-1877	“St James’s Hall.”	blue
-Ramsgate	51.335545	1.419895	Josiah Henson	Henson		1876-1877	“Primitive Methodist Chapel.”	blue
-Whitstable	51.361047	1.024256	Josiah Henson	Henson		1876-1877	“Congregational Church.”	blue
-Canterbury	51.280233	1.078909	Josiah Henson	Henson		1876-1877	“Wesleyan Chapel.”
-Canterbury	51.280233	1.078909	Josiah Henson	Henson		1851	“Wesleyan Chapel.”
-Tunbridge	51.195043	0.27568	Josiah Henson	Henson		1876-1877	“Congregational Church.”	blue
-Tunbridge	51.195043	0.27568	Josiah Henson	Henson		1876-1877	“Addressed meeting to villagers.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Peniel Tabernacle, third visit.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Grafton Road Iron Chapel.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“St John Wood, possibly Abbey Chapel.”	blue
-Paddington	51.515973	-0.174943	Josiah Henson	Henson		1876-1877	“Welsh Calvinistic Methodist Chapel.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Bedford Chapel, Oakley Square.”	blue
-Tunbridge	51.195043	0.27568	Josiah Henson	Henson		1876-1877	“Tunbridge Congregational Church.”	blue
-Maidstone	51.270363	0.522699	Josiah Henson	Henson		1876-1877	“Lecture.”	blue
-Whitstable	51.361047	1.024256	Josiah Henson	Henson		1876-1877	“Congregational Church, second visit.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Herne Bay, Congregational Church.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Upper Norwood, St Aubyn’s Road Congregational Church.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		December 1876	“Forest Hill.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Forest Hill Lecture Hall.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Upper Clapton Chapel.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“High Barnet.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Tulse Hill, Wesleyan Chapel.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Manchester Square, Hinde Street Wesleyan Chapel.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Upper Norwood, Wesleyan Schoolroom.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“The Tabernacle, Victoria Park.”	blue
-London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Metropolitan Tabernacle.”	blue
-Brighton	50.82253	0.137163	Josiah Henson	Henson		1876-1877	“The Great Dome Pavilion.”	blue
-Brighton	50.82253	0.137163	Josiah Henson	Henson		1876-1877	“The Great Dome Pavilion.”	blue
-Stepney	51.515985	-0.047725	Josiah Henson	Henson		1876-1877	“Edinburgh Castle venue.”	blue
-Stockwell	51.468813	-0.125439	Josiah Henson	Henson		1876-1877	“Mr C. H. Spurgeon’s Orphanage.”	blue
-Forest Hill	51.439778	-0.054642	Josiah Henson	Henson		1876-1877	“St John’s Church.”	blue
-Sydenham	51.42476	-0.059399	Josiah Henson	Henson		1876-1877	“Rev. Grey Maitland’s Church in the Grove.”	blue
-Kent	51.278708	0.521725	Josiah Henson	Henson		1 Jan 1877	“St Mary Cray, The Temple.”	blue
-Salisbury	51.068785	-1.794472	Josiah Henson	Henson		1876-1877	“Lecture.”	blue
-Hackney	51.551795	-0.064644	Josiah Henson	Henson		1876-1877	“Hackney, Richmond Road Wesleyan Chapel.”	blue
-Leicester	52.636878	-1.139759	Josiah Henson	Henson		1876-1877	“Great Temperance Hall.”	blue
-Loughborough	52.772099	-1.206166	Josiah Henson	Henson		1876-1877	“Corn Exchange.”	blue
-Bristol	51.454513	-2.58791	Josiah Henson	Henson		1876-1877	“Rev. W.J. Mayer’s Baptist Chapel.”	blue
-Bristol	51.454513	-2.58791	Josiah Henson	Henson		1876-1877	“Wesleyan Chapel.”	blue
-Glasgow	55.864237	-4.251806	Josiah Henson	Henson		1876-1877	“City Hall.”	blue
-Glasgow	55.864237	-4.251806	Josiah Henson	Henson		1876-1877	“Kibble Palace.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Victoria Park Tabernacle.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Wood Green.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Wood Green, Wesleyan Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Little Wild Street Baptist Chapel, Drury Lane.”	blue
+Epsom	51.336036	-0.267382	Josiah Henson	Henson	 1876 or 1877		“Church?”	blue
+Brixton	51.461279	-0.115615	Josiah Henson	Henson	 1876 or 1877		“Congregational Church.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Mildmay Park.”	blue
+Stoke Newington	51.559676	-0.07937	Josiah Henson	Henson	 1876 or 1877		“Congregational Church, Walford Road.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“New North Road Congregational Church.”	blue
+Stoke Newington	51.559676	-0.07937	Josiah Henson	Henson	 1876 or 1877		“Milton Road, Congregational Church.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Mile End.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Mayfield Terrace, Wesleyan Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Mile End, second lecture.”	blue
+Wallington	51.363978	-0.151845	Josiah Henson	Henson	 1876 or 1877		“Church.”	blue
+Southampton	50.9097	-1.404351	Josiah Henson	Henson	 1876 or 1877		“Chapel?”	blue
+Ryde	50.729952	-1.163282	Josiah Henson	Henson	 1876 or 1877		“Chapel?”	blue
+Portsmouth	50.819768	-1.087977	Josiah Henson	Henson	 1876 or 1877		“HMS Victory to ship’s officers and crew.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Peniel Tabernacle, Haverstock Road, Baptist Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Peniel Tabernacle, Haverstock Road, Baptist Chapel, second lecture.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Victoria Park Tabernacle, 2nd lecture.”	blue
+Hackney	51.551795	-0.064644	Josiah Henson	Henson	 1876 or 1877		“South Hackney.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Winchmore Hill Congregational Church.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Putney Congregational Church, Oxford Road, afternoon.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Putney Congregational Church, Oxford Road, evening.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Wesley’s Chapel, City Road.”	blue
+Bromley	51.406025	-0.013156	Josiah Henson	Henson	 1876 or 1877		“Possibly church.”	blue
+Twickenham	51.444581	-0.335246	Josiah Henson	Henson	 1876 or 1877		“Old Chapel Royal.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Hinde Street Chapel, Manchester Square.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Weigh House Chapel, London Bridge.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Whitfield Tabernacle, Tottenham Court Road.”	blue
+Chelsea	51.485093	-0.174936	Josiah Henson	Henson	 1876 or 1877		“Sloane Street Chapel, Wesleyan Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“St Paul’s Churchyard, address to employees.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Victoria Park Tabernacle, another lecture here.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Barnsbury Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Barnsbury Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Barnsbury Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Brown’s Lane, Spitalfields.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“King’s Cross Wesleyan Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Queen Street, Ratcliffe.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“New Bridge Street, Church of England Young Men’s Society.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Denmark Hill Baptist Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“St John’s Wood, Abbey Road Chapel.”	blue
+Bromley	51.406025	-0.013156	Josiah Henson	Henson	 1876 or 1877		“Second visit.”	blue
+Brixton	51.461279	-0.115615	Josiah Henson	Henson	 1876 or 1877		“Herne Hill, Chapel belonging to the United Methodist Free Church.”	blue
+Middlesex	51.520101	-0.137959	Josiah Henson	Henson	 1876 or 1877		“Hanwell, Middlesex.”	blue
+Canterbury	51.280233	1.078909	Josiah Henson	Henson	 1876 or 1877		“Opened the New Primitive Methodist Chapel, afternoon.”	blue
+Canterbury	51.280233	1.078909	Josiah Henson	Henson	 1876 or 1877		“Opened the New Primitive Methodist Chapel, evening lecture.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Tolmer Square Congregational Church.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Woodford United Methodist Free Church.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Surrey Chapel, Blackfriars.”	blue
+Chelsea	51.485093	-0.174936	Josiah Henson	Henson	 1876 or 1877		“Sloan Terrace Wesleyan Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Putney Congregational Church, second visit.”	blue
+Lambeth	51.457148	-0.123068	Josiah Henson	Henson	 1876 or 1877		“Upton Baptist Chapel.”	blue
+Shoreditch	51.52849	-0.084728	Josiah Henson	Henson	 1876 or 1877		“Bedford Institute, Commercial Street.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Barnsburch Chapel, second visit.”	blue
+Folkestone	51.081397	1.169456	Josiah Henson	Henson	 1876 or 1877		“Folkestone Town Hall.”	blue
+Ramsgate	51.335545	1.419895	Josiah Henson	Henson	 1876 or 1877		“St James’s Hall.”	blue
+Ramsgate	51.335545	1.419895	Josiah Henson	Henson	 1876 or 1877		“Primitive Methodist Chapel.”	blue
+Whitstable	51.361047	1.024256	Josiah Henson	Henson	 1876 or 1877		“Congregational Church.”	blue
+Canterbury	51.280233	1.078909	Josiah Henson	Henson	 1876 or 1877		“Wesleyan Chapel.”
+Canterbury	51.280233	1.078909	Josiah Henson	Henson	 1876 or 1877		“Wesleyan Chapel.”
+Tunbridge	51.195043	0.27568	Josiah Henson	Henson	 1876 or 1877		“Congregational Church.”	blue
+Tunbridge	51.195043	0.27568	Josiah Henson	Henson	 1876 or 1877		“Addressed meeting to villagers.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Peniel Tabernacle, third visit.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Grafton Road Iron Chapel.”	blue
+London	51.507351	-0.127758	JJosiah Henson	Henson	 1876 or 1877		“St John Wood, possibly Abbey Chapel.”	blue
+Paddington	51.515973	-0.174943	Josiah Henson	Henson	 1876 or 1877		“Welsh Calvinistic Methodist Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Bedford Chapel, Oakley Square.”	blue
+Tunbridge	51.195043	0.27568	Josiah Henson	Henson	 1876 or 1877		“Tunbridge Congregational Church.”	blue
+Maidstone	51.270363	0.522699	Josiah Henson	Henson	 1876 or 1877		“Lecture.”	blue
+Whitstable	51.361047	1.024256	Josiah Henson	Henson	 1876 or 1877		“Congregational Church, second visit.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Herne Bay, Congregational Church.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Upper Norwood, St Aubyn’s Road Congregational Church.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Forest Hill.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Forest Hill Lecture Hall.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Upper Clapton Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“High Barnet.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Tulse Hill, Wesleyan Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Manchester Square, Hinde Street Wesleyan Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Upper Norwood, Wesleyan Schoolroom.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“The Tabernacle, Victoria Park.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson	 1876 or 1877		“Metropolitan Tabernacle.”	blue
+Brighton	50.82253	0.137163	Josiah Henson	Henson	 1876 or 1877		“The Great Dome Pavilion.”	blue
+Brighton	50.82253	0.137163	Josiah Henson	Henson	 1876 or 1877		“The Great Dome Pavilion.”	blue
+Stepney	51.515985	-0.047725	Josiah Henson	Henson	 1876 or 1877		“Edinburgh Castle venue.”	blue
+Stockwell	51.468813	-0.125439	Josiah Henson	Henson	 1876 or 1877		“Mr C. H. Spurgeon’s Orphanage.”	blue
+Forest Hill	51.439778	-0.054642	Josiah Henson	Henson	 1876 or 1877		“St John’s Church.”	blue
+Sydenham	51.42476	-0.059399	Josiah Henson	Henson	 1876 or 1877		“Rev. Grey Maitland’s Church in the Grove.”	blue
+Kent	51.278708	0.521725	Josiah Henson	Henson	 1876 or 1877		“St Mary Cray, The Temple.”	blue
+Salisbury	51.068785	-1.794472	Josiah Henson	Henson	 1876 or 1877		“Lecture.”	blue
+Hackney	51.551795	-0.064644	Josiah Henson	Henson	 1876 or 1877		“Hackney, Richmond Road Wesleyan Chapel.”	blue
+Leicester	52.636878	-1.139759	Josiah Henson	Henson	 1876 or 1877		“Great Temperance Hall.”	blue
+Loughborough	52.772099	-1.206166	Josiah Henson	Henson	 1876 or 1877		“Corn Exchange.”	blue
+Bristol	51.454513	-2.58791	Josiah Henson	Henson	 1876 or 1877		“Rev. W.J. Mayer’s Baptist Chapel.”	blue
+Bristol	51.454513	-2.58791	Josiah Henson	Henson	 1876 or 1877		“Wesleyan Chapel.”	blue
+Glasgow	55.864237	-4.251806	Josiah Henson	Henson	 1876 or 1877		“City Hall.”	blue
+Glasgow	55.864237	-4.251806	Josiah Henson	Henson	 1876 or 1877		“Kibble Palace.”	blue
 Edinburgh	55.953252	-3.188267	Josiah Henson	Henson	 1876 or 1877		“Literary Institute.”	blue
 Hackney	51.551795	-0.064644	Josiah Henson	Henson	 1876 or 1877		“Hackney Road, Wesleyan Chapel.”	blue

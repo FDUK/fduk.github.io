@@ -386,7 +386,6 @@ Canterbury	51.280233	1.078909	Josiah Henson	Henson		1876-1877	“Opened the New 
 London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Tolmer Square Congregational Church.”	blue
 London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Woodford United Methodist Free Church.”	blue
 London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Surrey Chapel, Blackfriars.”	blue
-Hackney	51.551795	-0.064644	Josiah Henson	Henson		1876-1877	“Hackney Road, Wesleyan Chapel.”
 Chelsea	51.485093	-0.174936	Josiah Henson	Henson		1876-1877	“Sloan Terrace Wesleyan Chapel.”	blue
 London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Putney Congregational Church, second visit.”	blue
 Lambeth	51.457148	-0.123068	Josiah Henson	Henson		1876-1877	“Upton Baptist Chapel.”	blue
@@ -435,3 +434,4 @@ Bristol	51.454513	-2.58791	Josiah Henson	Henson		1876-1877	“Wesleyan Chapel.�
 Glasgow	55.864237	-4.251806	Josiah Henson	Henson		1876-1877	“City Hall.”	blue
 Glasgow	55.864237	-4.251806	Josiah Henson	Henson		1876-1877	“Kibble Palace.”	blue
 Edinburgh	55.953252	-3.188267	Josiah Henson	Henson		1876-1877	“Literary Institute.”	blue
+Hackney	51.551795	-0.064644	Josiah Henson	Henson		1876-1877	“Hackney Road, Wesleyan Chapel.”	blue

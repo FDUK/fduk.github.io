@@ -349,4 +349,4 @@ Stoke Newington	51.559676	-0.07937	Josiah Henson	Henson		1876-1877	“Milton Roa
 London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Mile End.”	blue
 London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Mayfield Terrace, Wesleyan Chapel.”	blue
 London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Mile End, second lecture.”	blue
-Wallington		51.363978	-0.151845	Josiah Henson	Henson		1876-1877	“Church.”	blue
+Wallington		51.363978	-0.151845	Josiah Henson	Henson		1876-1877	blue

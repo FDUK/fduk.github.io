@@ -336,4 +336,4 @@ York	53.959965	-1.087298	Samuel Ward		 Tues 24 Oct 1854		"Festival Concert Room,
 York	53.959965	-1.087298	William & Ellen Craft	Craft	 Mon 24 March 1851	Goodramgate	"Evening lecture on slavery, Lecture Hall."	light blue
 York	53.959965	-1.087298	William Wells Brown	WellsBrown	 Mon 24 March 1851	Goodramgate	"Lecture hall, evening lecture on slavery."	cloud
 Nottingham	52.954783	-1.158109	William Wells Brown	WellsBrown	March 1851	 "Exchange Hall, evening lecture on slavery."	cloud
-London	51.507351	-0.127758	Josiah Henson	Henson	1876-1877	“Victoria Park Tabernacle.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Victoria Park Tabernacle.”	blue

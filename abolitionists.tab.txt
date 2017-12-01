@@ -379,4 +379,4 @@ London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Queen Street, Ratc
 London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“New Bridge Street, Church of England Young Men’s Society.”	blue
 London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Denmark Hill Baptist Chapel.”	blue
 London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“St John’s Wood, Abbey Road Chapel.”	blue
-Bromley	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Second visit to Bromley.”	blue
+Bromley	51.406025	-0.013156	Josiah Henson	Henson		1876-1877	“Second visit.”	blue

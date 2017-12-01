@@ -340,3 +340,13 @@ London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Victoria Park Tabe
 London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Wood Green.”	blue
 London	51.507351	-0.127758	Josiah Henson	Henson		September 1876	“Wood Green, Wesleyan Chapel.”	blue
 London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Little Wild Street Baptist Chapel, Drury Lane.”	blue
+Epsom	51.336036	-0.267382	Josiah Henson	Henson		1876-1877	“Church?”	blue
+Brixton	51.461279	-0.115615	Josiah Henson	Henson		1876-1877	“Congregational Church.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Mildmay Park.”	blue
+Stoke Newington	51.559676	-0.07937	Josiah Henson	Henson		1876-1877	“Congregational Church, Walford Road.”	blue
+Wallington		51.363978	-0.151845	Josiah Henson	Henson		1876-1877	“Church?”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“New North Road Congregational Church.”	blue
+Stoke Newington	51.559676	-0.07937	Josiah Henson	Henson		1876-1877	“Milton Road, Congregational Church.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Mile End.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Mayfield Terrace, Wesleyan Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Mile End, second lecture.”	blue

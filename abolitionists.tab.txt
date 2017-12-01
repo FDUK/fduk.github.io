@@ -337,3 +337,6 @@ York	53.959965	-1.087298	William & Ellen Craft	Craft	 Mon 24 March 1851	Goodramg
 York	53.959965	-1.087298	William Wells Brown	WellsBrown	 Mon 24 March 1851	Goodramgate	"Lecture hall, evening lecture on slavery."	cloud
 Nottingham	52.954783	-1.158109	William Wells Brown	WellsBrown	March 1851	 "Exchange Hall, evening lecture on slavery."	cloud
 London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Victoria Park Tabernacle.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Wood Green.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson		September 1876	“Wood Green, Wesleyan Chapel.”	blue
+London	51.507351	-0.127758	Josiah Henson	Henson		1876-1877	“Little Wild Street Baptist Chapel, Drury Lane.”	blue

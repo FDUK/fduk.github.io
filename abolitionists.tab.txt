@@ -515,3 +515,13 @@ Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal
 Newcastle	54.978252	-1.61778	Ida B. Wells	Wells	 9 May 1893		“Friends Meeting House, afternoon.”	teal
 Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal
 Bedford	52.135973	-0.466655	Moses Roper	Roper	 Likely to be 1840		“Baptist Hall or Church”	yellow
+Biggleswade	52.086938	-0.26422	Moses Roper	Roper	 Late July 1840		“Baptist Church”	yellow
+Blunham	52.146776	-0.317263	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Cranfield	52.068635	-0.608741	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Dunstable	51.885644	-0.52039	Moses Roper	Roper	 Probably 1840		“Baptist Hall or Church”	yellow
+Leighton	53.119624	-2.478914	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Luton	51.878671	-0.420026	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Maulden	52.030787	-0.469599	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Ridgmount	51.20054	-1.777167	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Risely	52.254192	-0.474285	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Sharnbrook	52.225997	-0.544278	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow

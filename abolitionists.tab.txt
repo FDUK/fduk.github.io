@@ -535,3 +535,23 @@ Chesham	51.709401	-0.612333	Moses Roper	Roper	 Between 1836 and 1848		“Baptist
 Tring	51.796078	-0.655879	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
 Colnbrook	51.483718	-0.525159	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
 Cuddington	51.79351	-0.931045	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Datchett	51.484026	-0.579521	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Gold Hill	52.50717	0.257124	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Great Brickhill	51.962945	-0.68557	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Haddenham	51.77334	-0.925965	Moses Roper	Roper	 23 February 1844		“Baptist Hall or Church”	yellow
+Hanslope	52.115155	-0.828192	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Ickford	51.761372	-1.062002	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Ivinghoe	51.837421	-0.628359	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Little Kingshill	51.682392	-0.702979	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Long Crendon	51.773991	-1.001586	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Marlow	51.571944	-0.776942	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Missenden	51.702655	-0.70319	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Mursley	51.949203	-0.811454	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Olney	52.154738	-0.701378	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Beacon Hill	51.62699	-0.688794	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Princes Risborough	51.724376	-0.834518	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Quainton	51.873908	-0.915885	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Speen	51.412555	-1.363011	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Stony Stratford	52.05702	-0.849039	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Waddesdon Hill	51.834721	-0.904867	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Bottisham Lode	52.262242	0.221048	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow

@@ -514,3 +514,4 @@ Manchester	53.480759	-2.242631	Ida B. Wells	Wells		1894		“Evening?”	teal
 Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal	
 Newcastle	54.978252	-1.61778	Ida B. Wells	Wells	 9 May 1893		“Friends Meeting House, afternoon.”	teal
 Manchester	53.480759	-2.242631	Ida B. Wells	Wells	 1894		“Evening?”	teal
+Bedford	52.135973	-0.466655	Moses Roper	Roper	 Likely to be 1840		“Baptist Hall or Church”	yellow

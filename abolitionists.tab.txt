@@ -525,3 +525,13 @@ Maulden	52.030787	-0.469599	Moses Roper	Roper	 Between 1836 and 1848		“Baptist
 Ridgmount	51.20054	-1.777167	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
 Risely	52.254192	-0.474285	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
 Sharnbrook	52.225997	-0.544278	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Shefford	52.038699	-0.333947	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Steventon	51.228457	-1.220117	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Askett	51.737522	-0.820371	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Aston Clinton	51.796164	-0.727713	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Buckingham	51.999326	-0.987645	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Chenies	51.67452	-0.530292	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Chesham	51.709401	-0.612333	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Tring	51.796078	-0.655879	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Colnbrook	51.483718	-0.525159	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow
+Cuddington	51.79351	-0.931045	Moses Roper	Roper	 Between 1836 and 1848		“Baptist Hall or Church”	yellow

@@ -1372,7 +1372,6 @@ Newport	51.584151	-2.997664	Moses Roper	Roper	 Between 1836 and 1848		“Bible C
 Newbridge	51.665206	-3.144116	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
 Chale	50.604519	-1.31842	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
 Rookley	50.654528	-1.282943	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
-Littletown	54.565733	3.185563	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
 Ventnor	50.595484	-1.2061	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
 Whitwell	53.285594	-1.209239	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
 Wroxall	50.615963	-1.222199	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
@@ -1392,3 +1391,4 @@ Stoke on Trent	53.002668	-2.179404	Moses Roper	Roper	 Between 1836 and 1848		“
 Ipswich	52.056736	1.14822	Moses Roper	Roper	 First week of September 1839		“Friends or Quakers”	yellow
 Gloucester	51.864245	-2.238156	Moses Roper	Roper	 Between 1836 and 1848		“Friends or Quakers”	yellow
 Whitley	55.046389	-1.451299	Moses Roper	Roper	 Between 1836 and 1848		“Friends or Quakers”	yellow
+Shebbear	50.861709	-4.219482	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow

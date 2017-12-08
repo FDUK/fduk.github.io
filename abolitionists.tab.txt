@@ -857,3 +857,104 @@ Gravesend	51.441884	0.370759	Moses Roper	Roper	 Between 1836 and 1848		“Indepe
 Maidstone	51.270363	0.522699	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
 Cranbrook	51.095582	0.537639	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
 Canterbury	51.280233	1.078909	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Deal	51.222491	1.401661	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Dover	51.127876	1.313403	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Faversham	51.315994	0.889358	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Liverpool	53.408371	-2.991573	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Orrell	53.540987	-2.708842	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Prescot	53.428674	-2.804564	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall”	yellow
+Rainford	53.502392	-2.788381	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Southport	53.645708	-3.010113	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall”	yellow
+Warrington	53.390044	-2.59695	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Wigan	53.545065	-2.632507	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Wigan	53.545065	-2.632507	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Woodside	53.205564	-2.93807	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Lancaster	54.046575	-2.80074	Moses Roper	Roper	 Between 1836 and 1848		“Temperance Hall, evening”	yellow
+Lancaster	54.046575	-2.80074	Moses Roper	Roper	 Between 1836 and 1848		“Temperance Hall, evening”	yellow
+Milnthorpe	54.226867	-2.773161	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Kendal	54.328006	-2.74629	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall”	yellow
+Ulverston	54.195138	-3.09267	Moses Roper	Roper	 23 November 1846		“Independent Chapel, evening”	yellow
+Harpurhey	53.506442	-2.215505	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Heywood	53.592628	-2.22565	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Hyde	53.452977	-2.082786	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Horwich	53.598398	-2.554762	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Manchester	53.480759	-2.242631	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall”	yellow
+Blackburn	53.748575	-2.487529	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Clitheroe	53.871098	-2.393083	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Kibworth	52.544013	-0.998679	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Loughborough	52.772099	-1.206166	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Lincoln	53.230688	-0.540579	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Lonth	53.365962	-0.007711	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall”	yellow
+Spilsby	53.174675	0.09144	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall”	yellow
+Long Sutton	52.784978	0.120429	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Pinchbeck	52.813675	-0.158833	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Sleaford	53.000308	-0.40965	Moses Roper	Roper	 25 November 1842		“Independent Hall, evening”	yellow
+Stamford	52.651282	-0.480216	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall, evening”	yellow
+Pontypool	51.700369	-3.045268	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Burnham	51.539466	-0.656017	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Creak	51.520691	-0.135751	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Walsingham	52.895939	0.875399	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Dereham	52.681618	0.937827	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Diss	52.376491	1.108394	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Heacham	52.906725	0.488831	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Buckby	52.340825	-0.964964	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Daventry	52.257473	-1.164947	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Kilsby	52.334853	-1.18045	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Market Harborough	52.475769	-0.921517	Moses Roper	Roper	 21 May 1838		“Independent Chapel, evening”	yellow
+Byfield	52.176843	-1.241936	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Brigstock	52.458326	-0.608571	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Crick	52.347591	-1.136643	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Nottingham Castle Gate	52.951055	-1.150775	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Oswestry	52.857148	-3.056412	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Wellington	50.978564	-3.224499	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Wem	52.853637	-2.726712	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Whitchurch	52.968716	-2.682045	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Petherton	51.125868	-3.002625	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Chard	50.869792	-2.963316	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Ilminster	50.928494	-2.911062	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Bruton	51.113338	-2.452895	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Milbourne Port	50.967342	-2.46114	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Castle Cary	51.088689	-2.513101	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Newcastle	54.978252	-1.61778	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall”	yellow
+Oldbury	52.504923	-2.015907	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Smethwick	52.492401	-1.965207	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Stafford	52.806693	-2.12066	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Stone	52.907932	-2.144045	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Tean	52.950607	-1.981133	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Walsall	52.586214	-1.982919	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+West Bromwich	52.517664	-1.995159	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Lowstoft	52.481138	1.753449	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Nayland	51.972264	0.869817	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Sudbury	52.041047	0.726706	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Wickham Market	52.152667	1.363068	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Woodbridge	52.095481	1.312571	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Dorking	51.232202	-0.332378	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall, evening”	yellow
+Farnham	51.214321	-0.798802	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Godalming	51.185732	-0.612808	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall”	yellow
+Guildford	51.23622	-0.570409	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall”	yellow
+Ham	51.435601	-0.322487	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Oxtead	51.255714	-0.000003	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Billinghurst	51.022909	-0.451462	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall”	yellow
+Brighton	50.82253	-0.137163	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Petworth	50.986701	-0.610724	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Rye	50.949708	0.73726	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Wivilsfield	50.971048	-0.093765	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Worthing	50.81787	-0.372882	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Henley in Arden	52.292549	-1.779866	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Kenilworth	52.349557	-1.58073	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Leamington	52.285191	-1.520079	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Southam	52.250505	-1.389719	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall, evening”	yellow
+Stratford on Avon	52.19173	-1.708298	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall, evening”	yellow
+Tamworth	52.633584	-1.691032	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Warwick	52.282316	-1.584927	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Marlborough	51.420073	-1.727062	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall”	yellow
+Swindon	51.555774	-1.779718	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Tisbury	51.063138	-2.079703	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Westbury	51.256659	-2.185772	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Bulford	51.190413	-1.756999	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Frome	51.230751	-2.320096	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Hindon	51.093602	-2.129113	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Broadway	52.035467	-1.854492	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Dudley	52.512255	-2.081112	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Leeds	53.800755	-1.549077	Moses Roper	Roper	 Between 1836 and 1848		“Independent Hall”	yellow
+Batley	53.717028	-1.635083	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow

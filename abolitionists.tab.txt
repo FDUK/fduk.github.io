@@ -1110,7 +1110,6 @@ Newport	51.584151	-2.997664	Moses Roper	Roper	 Between 1836 and 1848		“Bible C
 Newbridge	51.665206	-3.144116	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
 Chale	50.604519	-1.31842	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
 Rookley	50.654528	-1.282943	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
-Littletown	54.565733	3.185563	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
 Ventnor	50.595484	-1.2061	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
 Whitwell	53.285594	-1.209239	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
 Wroxall	50.615963	-1.222199	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow

@@ -1101,7 +1101,7 @@ Tinney	50.767959	-4.416616	Moses Roper	Roper	 Between 1836 and 1848		“Bible Ch
 St Mary	50.74344	-4.498376	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
 Shebbear	50.861709	-4.219482	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
 Holmorthy	50.809215	-4.353993	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
-Bridgerne	51.504286	-3.576945
+Bridgerne	51.504286	-3.576945	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
 Chulmleigh	50.913966	-3.869415	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
 Winkleigh	50.855879	-3.946214	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow
 Kilhampton	50.875698	-4.484094	Moses Roper	Roper	 Between 1836 and 1848		“Bible Christians”	yellow

@@ -1160,3 +1160,104 @@ Errol	56.391946	-3.212728	Moses Roper	Roper	 Between 1836 and 1848		“United Se
 Kinclaven	56.529874	-3.372549	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
 Leslie	56.200481	-3.214391	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
 Lethendy	56.443889	-3.413153	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Leigealmond	56.450031	-3.632607	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Perth	56.394994	-3.430838	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Methven	56.417234	-3.576942	Moses Roper	Roper	 20 June 1846		“United Secession Church, evening”	yellow
+Newburgh	53.586793	-2.782119	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Perth	56.394994	-3.430838	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Earlston	55.582527	-2.673348	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Galashiels	55.623728	-2.814449	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Hawick	55.42706	-2.780914	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Jedburgh	55.477721	-2.554937	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Lilliesleaf	55.518147	-2.73933	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Melrose	55.598676	-2.72191	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Selkirk	55.550658	-2.838524	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Aberchirder	57.558592	-2.629583	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Bauff	57.665065	-2.524038	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Craigdam	57.364668	-2.256538	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Ellon	57.364597	-2.072972	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+New Deer	57.511809	-2.189595	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Peterhead	57.508123	-1.784066	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Airth	56.069301	-3.770963	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Alloa	56.114073	-3.791896	Moses Roper	Roper	 28 May 1846		“Rev Mr M’Dowall’s Relief Church”	yellow
+Aiva	53.98951	-1.4255	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Bathgate	55.9024	-3.643118	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Bucklyvie	56.116049	-4.291876	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Falkirk	56.001878	-3.783913	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Balfron	56.071822	-4.337304	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Kincardine	56.068958	-3.716692	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Linlithgow	55.971627	-3.602585	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Stirling	56.116523	-3.936903	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Tillicoultry	56.153916	-3.740211	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Creetown	54.901504	-4.379552	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Gatehouse	54.882438	-4.184215	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Glenluce	54.879954	-4.808799	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Kirkcowan	54.914444	-4.607952	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Newt Stewart	54.960299	-4.483164	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Stranraer	54.904704	-5.034028	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Whithorn	54.734836	-4.414893	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Gateside	56.26902	-3.322116	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Ceres	56.220535	-2.970137	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Colinsburgh	56.220535	-2.846279	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Dysart	56.127911	-3.122933	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Kettle	52.192459	0.265344	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Largo	56.213667	-2.939527	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Leven	56.19632	-2.996578	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Pittenweem	56.214	-2.732285	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Bathgate	55.9024	-3.643118	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Berwick on Tweed	55.770242	-2.005395	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Biggar	55.623396	-3.523964	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Blairlogie	56.149483	-3.891687	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Dalkeith	55.893118	-3.066606	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Dunfermline	56.071741	-3.452151	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Earlston	55.639736	-2.678481	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Falkirk	56.001878	-3.783913	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Leith	55.975528	-3.16651	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Balfron	56.071822	-4.337304	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Bonhill	55.978918	-4.572175	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Campsie	55.03037	-7.21591	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Coatbridge	55.867026	-3.981064	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Dumbarton	55.945287	-4.564554	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Kilmarnock	55.614719	-4.498792	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Kilsyth	55.979788	-4.056933	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Carluke	55.735435	-3.836552	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Kilbride	55.764352	-4.176999	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Lauark	55.673865	-3.782138	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Roberton	55.540529	-3.676248	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Downpatrick	54.328751	-5.715692	Moses Roper	Roper	 Between 1836 and 1848		“Rev Mr White’s Meeting House, Infirmary Street”	yellow
+Hereford	52.056398	-2.715974	Moses Roper	Roper	 18 November 1839		“Independent Chapel, Eign-brook”	yellow
+Hereford	52.056398	-2.715974	Moses Roper	Roper	 27 July 1855		“School room attached to Eignbrook Chapel”	yellow
+Farnsfield	53.103961	-1.039752	Moses Roper	Roper	 30 October 1857		“Church School Room”	yellow
+Chieveley	51.463791	-1.316561	Moses Roper	Roper	 6 February 1861		“Grammar School”	yellow
+Chieveley	51.463791	-1.316561	Moses Roper	Roper	 3rd week of January 1861		“Possibly Grammar School”	yellow
+Ashley	52.511483	-0.835046	Moses Roper	Roper	 8 February 1861		“Unknown”	yellow
+Otley	53.905825	-1.691786	Moses Roper	Roper	 15 March 1847		“Free Church”	yellow
+Skipton	53.96285	-2.016279	Moses Roper	Roper	 8 March 1847		“British and Foreign School Room”	yellow
+Bottisham	52.223476	0.25804	Moses Roper	Roper	 22 January 1861		“Unknown”	yellow
+Horningsea	52.240553	0.185751	Moses Roper	Roper	 8 January 1861		“School Room”	yellow
+Barton	52.185909	0.054103	Moses Roper	Roper	 17 August 1860		“School Room”	yellow
+Lincoln	53.230688	-0.540579	Moses Roper	Roper	 July 1858		“Numerous lectures around Lincoln”	yellow
+Brigg	53.55185	-0.491887	Moses Roper	Roper	 9 July 1858		“Town Hall”	yellow
+Denton	53.455203	-2.1146613	Moses Roper	Roper	 2 December 1857		“School Room”	yellow
+Grantham	52.912524	-0.643582	Moses Roper	Roper	 Possibly 1857		“Exchange Hall”	yellow
+Greyabbey	54.535363	-5.560063	Moses Roper	Roper	 23 April 1855		“Old Meeting House”	yellow
+Tubbermore	54.81145	-6.70676	Moses Roper	Roper	 21 October 1854		“Baptist Chapel”	yellow
+Clogher	54.4143	-7.16452	Moses Roper	Roper	 Mid October 1854		“Unknown”	yellow
+Clogher	54.4143	-7.16452	Moses Roper	Roper	 3 October 1854		“Court House”	yellow
+Holmfirth	53.571744	-1.786292	Moses Roper	Roper	 12 February 1847		“Lane School Room”	yellow
+Armagh	54.35028	-6.652792	Moses Roper	Roper	 19 August 1846		“Tabernacle”	yellow
+Montrose	56.706922	-2.466115	Moses Roper	Roper	 2 July 1846		“Secession Church, Mill Street”	yellow
+Cupar	56.320235	-3.010137	Moses Roper	Roper	 12 June 1846		“Secession Church, Burnside”	yellow
+Hythe	51.071739	1.081937	Moses Roper	Roper	 December 1843		“Unknown”	yellow
+Folkestone	51.081397	1.169456	Moses Roper	Roper	 December 1843		“Unknown”	yellow
+Kent	51.278708	0.521725	Moses Roper	Roper	 December 1843		“Unknown”	yellow
+Sussex	50.876709	-0.087914	Moses Roper	Roper	 4 December 1843		“Baptist Chapel”	yellow
+Wakefield	53.683298	-1.505924	Moses Roper	Roper	 Second Week of March 1843		“Zion Chapel”	yellow
+Louth	53.365962	-0.007711	Moses Roper	Roper	 30 November 1842		“Guildhall”	yellow
+Howden	53.745894	-0.868877	Moses Roper	Roper	 3 January 1843		“Independent Chapel”	yellow
+Plymouth	50.375457	-4.142656	Moses Roper	Roper	 First week of April 1841		“Unknown”	yellow
+Dublin	52.280594	1.171618	Moses Roper	Roper	 11 September 1838		“Union Chapel, Lower Abbey Street, midday”	yellow
+Dublin	52.280594	1.171618	Moses Roper	Roper	 13 September 1838		“Union Chapel, Lower Abbey Street, 7pm”	yellow
+Glasgow	55.864237	-4.251806	Moses Roper	Roper	 Third week of August 1838		“Trades’ Hall”	yellow
+Merthyr Tydfil	51.74873	-3.381646	Moses Roper	Roper	 August 1841		“Several lectures in this town and surrounding area”	yellow
+Cork	51.428553	-0.189256	Moses Roper	Roper	 29 October 1838		“Theatre Royal, George’s Street, 7pm”	yellow

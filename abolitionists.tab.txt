@@ -1261,3 +1261,104 @@ Dublin	52.280594	1.171618	Moses Roper	Roper	 13 September 1838		“Union Chapel,
 Glasgow	55.864237	-4.251806	Moses Roper	Roper	 Third week of August 1838		“Trades’ Hall”	yellow
 Merthyr Tydfil	51.74873	-3.381646	Moses Roper	Roper	 August 1841		“Several lectures in this town and surrounding area”	yellow
 Cork	51.428553	-0.189256	Moses Roper	Roper	 29 October 1838		“Theatre Royal, George’s Street, 7pm”	yellow
+Cork	51.428553	-0.189256	Moses Roper	Roper	 Third week of October 1838		“Probably Theatre Royal, George’s Street”	yellow
+Limerick	50.857793	-2.162738	Moses Roper	Roper	 19 November 1838		“Independent Chapel, Bedford Row, 7pm”	yellow
+Cambridge	52.205337	0.121817	Moses Roper	Roper	 20 September 1839		“Independent Chapel, New Conduit Street”	yellow
+Worcester	52.193636	-2.221575	Moses Roper	Roper	 27 November 1839		“Countess of Huntingdon’s Chapel, Birdport Street”	yellow
+Worcester	52.193636	-2.221575	Moses Roper	Roper	 3 December 1839		“Independent Chapel”	yellow
+Newcastle	54.978252	-1.61778	Moses Roper	Roper	 16 December 1839		“Town Hall, 7pm”	yellow
+Shelton	53.011109	-2.184865	Moses Roper	Roper	 18 December 1839		“Bethesda School Rooms, 7pm”	yellow
+Burslem	53.04573	-2.196701	Moses Roper	Roper	 17 December 1839		“Sunday School”	yellow
+Staffordshire	52.879275	-2.057187	Moses Roper	Roper	 December 1839		“Potteries, to a large audience”	yellow
+Staffordshire	52.879275	-2.057187	Moses Roper	Roper	 1839		“Zion Chapel, evening”	yellow
+Manchester	53.480759	-2.242631	Moses Roper	Roper	 26 May 1840		“Corn Exchange, Hanging Ditch, 7pm”	yellow
+Buckingham	51.999326	-0.987645	Moses Roper	Roper	 End of November 1840		“Town Hall”	yellow
+Monmouth	51.811653	-2.716304	Moses Roper	Roper	 Autumn 1840		“Unknown”	yellow
+Monmouth	51.811653	-2.716304	Moses Roper	Roper	 July 1841		“Ebenezer Chapel”	yellow
+Exeter	50.718412	-3.533899	Moses Roper	Roper	 22 January 1839		“Royal Subscription Rooms”	yellow
+York	53.959965	-1.087298	Moses Roper	Roper	 18 April 1838		“Howard Street Chapel”	yellow
+York	53.959965	-1.087298	Moses Roper	Roper	 24 April 1838		“Town Hall”	yellow
+Nottingham	52.954783	-1.158109	Moses Roper	Roper	 8 May 1838		“Halifax Place Chapel, evening”	yellow
+New Ross	51.915342	-2.584558	Moses Roper	Roper	 2 October 1838		“Court House”	yellow
+Cheltenham	51.899386	-2.078253	Moses Roper	Roper	 31 December 1838		“Infant School Room, St James’ Square”	yellow
+Somerset	51.105097	-2.926231	Moses Roper	Roper	 13 January 1839		“Friends Meeting House, evening”	yellow
+Leeds	53.800755	-1.549077	Moses Roper	Roper	 10 July 1839		“Baptist Chapel, East Street”	yellow
+Stamford	52.651282	-0.480216	Moses Roper	Roper	 2 October 1839		“Wesley Chapel, evening”	yellow
+Ross	51.91445	-2.582446	Moses Roper	Roper	 19 November 1839		“Royal Victoria British and Foreign School Room”	yellow
+Oxford	51..752021	-1.257726	Moses Roper	Roper	 15 January 1840		“Independent Chapel, Church Lane”	yellow
+York	53.959965	-1.087298	Moses Roper	Roper	 4 February 1840		“Possibly York, evening lecture at Festival Concert Room	yellow
+Durham	54.77525	-1.584852	Moses Roper	Roper	 11 March 1840		“Public Exhibition Rooms”	yellow
+Durham	54.77525	-1.584852	Moses Roper	Roper	 17 March 1840		“Public Exhibition Rooms”	yellow
+Kendal	54.328006	-2.74629	Moses Roper	Roper	 30 April 1840		“Whitehall Rooms, evening”	yellow
+Kendal	54.328006	-2.74629	Moses Roper	Roper	 4 May 1840		“Whitehall Rooms, evening”	yellow
+Kendal	54.328006	-2.74629	Moses Roper	Roper	 11 May 1840		“Unknown”	yellow
+Kendal	54.328006	-2.74629	Moses Roper	Roper	 12 May 1840		“Unknown”	yellow
+Aylesbury	51.815606	-0.8084	Moses Roper	Roper	 6 July 1840		“County Hall, evening”	yellow
+Leighton Buzzard	51.919684	-0.660657	Moses Roper	Roper	 7 July 1840		“Baptist Chapel”	yellow
+Ampthill	52.02725	-0.495142	Moses Roper	Roper	 July 1840		“Unknown”	yellow
+Royston	52.048142	-0.024066	Moses Roper	Roper	 31 July 1840		“Friends’ Meeting House”	yellow
+Norwich	52.630886	1.297355	Moses Roper	Roper	 13 October 1840		“Baptist Chapel, Garland Street”	yellow
+Leamington Spa	52.285191	-1.520079	Moses Roper	Roper	 2 November 1840		“Unknown”	yellow
+St Alban’s	51.752725	-0.339436	Moses Roper	Roper	 16 November 1840		“Baptist Chapel, evening”	yellow
+Hastings	50.854259	0.573453	Moses Roper	Roper	 18 January 1840		“Croft Chapel, evening”	yellow
+Devizes	51.348908	-1.994828	Moses Roper	Roper	 18 February 1840		“Unknown”	yellow
+Hereford	52.056398	-2.715974	Moses Roper	Roper	 June 1841		“Baptist Chapel, evening”	yellow
+Leicester	52.636878	-1.139759	Moses Roper	Roper	 23 August 1842		“Baptist Chapel, evening”	yellow
+Leicester	52.636878	-1.139759	Moses Roper	Roper	 21 August 1842		“Possibly Baptist Chapel, evening”	yellow
+Lutterworth	52.455995	-1.199159	Moses Roper	Roper	 Early September 1842		“Town Hall, evening”	yellow
+Melton Mowbray	52.766404	-0.887126	Moses Roper	Roper	 15 September 1842		“School Room”	yellow
+Coventry	52.406822	-1.519693	Moses Roper	Roper	 3 October 1842		“Unknown”	yellow
+Coventry	52.406822	-1.519693	Moses Roper	Roper	 4 October 1842		“Large Room at Castle Inn”	yellow
+Gravesend	51.441884	0.370759	Moses Roper	Roper	 29 January 1844		“Literary Institution”	yellow
+Milton	52.243439	0.16144	Moses Roper	Roper	 January 1844		“Unknown”	yellow
+Dumfries	55.070859	-3.60512	Moses Roper	Roper	 23 March 1846		“Unknown”	yellow
+St Andrews	55.070859	-3.60512	Moses Roper	Roper	 26 October 1846		“City Hall, evening”	yellow
+Fifeshire	56.208208	-3.149518	Moses Roper	Roper	 October 1846		“Numerous towns in this area”	yellow
+Kennoway	56.212622	-3.048138	Moses Roper	Roper	 31 October 1846		“United Secession Church, evening”	yellow
+Enniskillen	54.343824	-7.631534	Moses Roper	Roper	 June 1855		“Unknown”	yellow
+Brookeborough	54.31595	-7.40412	Moses Roper	Roper	 June 1855		“Possibly gave a lecture here”	yellow
+Roscommon	51.550317	-0.172329	Moses Roper	Roper	 12 June 1855		“Unknown”	yellow
+Sligo	54.27661	-8.76089	Moses Roper	Roper	 11 June 1855		“Unknown”	yellow
+Ballina	52.63775	1.143955	Moses Roper	Roper	 14 June 1855		“Unknown”	yellow
+Ross	51.91445	-2.582446	Moses Roper	Roper	 31 July 1855		“Unknown”	yellow
+Poole	50.71505	-1.987248	Moses Roper	Roper	 3 September 1855		“British School, Layland Street”	yellow
+South Hill	50.528946	-4.360077	Moses Roper	Roper	 8 October 1855		“British School Room”	yellow
+Sherborne	50.947822	-2.514483	Moses Roper	Roper	 16 August 1855		“Baptist School Room, South Street”	yellow
+Wells	51.209347	-2.644598	Moses Roper	Roper	 Early January 1856		“Town Hall, evening”	yellow
+Wells	51.209347	-2.644598	Moses Roper	Roper	 1841		“Unknown”	yellow
+Sherborne	50.947822	-2.514483	Moses Roper	Roper	 Early January 1856		“Town Hall, evening”	yellow
+Womersley	53.663025	-1.200637	Moses Roper	Roper	 2 December 1858		“School Room, evening”	yellow
+Darrington	53.673182	-1.266357	Moses Roper	Roper	 7 December 1858		“Village School Room”	yellow
+Cambridgeshire	52.205297	0.12182	Moses Roper	Roper	 February 1860		“Cambridge area, Boy’s School Room”	yellow
+Cambridgeshire	52.205297	0.12182	Moses Roper	Roper	 February 1861		“Grammar School”	yellow
+Newcastle	54.978252	-1.61778	Moses Roper	Roper	 Between 1836 and 1848		“Primitive Methodist”	yellow
+Burslem	53.04573	-2.196701	Moses Roper	Roper	 Between 1836 and 1848		“Primitive Methodist”	yellow
+Patries	51.405164	0.016936	Moses Roper	Roper	 Between 1836 and 1848		“Primitive Methodist”	yellow
+St Ives	50.208386	-5.490886	Moses Roper	Roper	 Between 1836 and 1848		“Primitive Methodist”	yellow
+Carlisle	54.892473	-2.932931	Moses Roper	Roper	 13 April 1840		“Methodist Tabernacle, evening”	yellow
+Wade Bridge	50.516654	-4.836456	Moses Roper	Roper	 Between 1836 and 1848		“Reformed Methodist”	yellow
+Old Meldrum	57.335138	-2.321806	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Hall”	yellow
+Stonehaven	56.963661	-2.209288	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Annan	54.990246	-3.259773	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Ecclefechan	55.059026	-3.265945	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Lockerby	55.122245	-3.349008	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Wigton	54.825544	-3.161231	Moses Roper	Roper	 Between 1836 and 1848		“United Secession/Relief Church or Hall”	yellow
+Redruth	50.233022	-5.226666	Moses Roper	Roper	 Between 1836 and 1848		“Wesleyan Methodist”	yellow
+Bodmin	50.471496	-4.718863	Moses Roper	Roper	 Between 1836 and 1848		“Wesleyan Methodist”	yellow
+Wednesbury	52.552888	-2.02208	Moses Roper	Roper	 Between 1836 and 1848		“Wesleyan Methodist”	yellow
+Hayle	50.185467	-5.42091	Moses Roper	Roper	 Between 1836 and 1848		“Wesleyan Methodist”	yellow
+Stilton	52.489186	-0.291548	Moses Roper	Roper	 Between 1836 and 1848		“Wesleyan Methodist”	yellow
+St Agnes	50.312509	-5.20362	Moses Roper	Roper	 Between 1836 and 1848		“New Connexion”	yellow
+St Days	50.238767	-5.187696	Moses Roper	Roper	 Between 1836 and 1848		“New Connexion”	yellow
+Hinley	51.535764	-0.902894	Moses Roper	Roper	 Between 1836 and 1848		“Wesleyan Methodist”	yellow
+Nottingham	52.954783	-1.158109	Moses Roper	Roper	 Between 1836 and 1848		“Wesleyan Methodist”	yellow
+Sheffield	53.381129	-1.470085	Moses Roper	Roper	 Between 1836 and 1848		“Wesleyan Methodist”	yellow
+Chesterfield	53.235048	-1.421629	Moses Roper	Roper	 1 May 1838		“Wesleyan Chapel, evening”	yellow
+Woldingham	51.28603	-0.033712	Moses Roper	Roper	 Between 1836 and 1848		“Wesleyan Methodist”	yellow
+Launceston	50.640134	-4.358558	Moses Roper	Roper	 Between 1836 and 1848		“Wesleyan Methodist”	yellow
+Hexham	54.972665	-2.112144	Moses Roper	Roper	 Between 1836 and 1848		“Wesleyan Methodist”	yellow
+Stratton	50.830693	-4.514386	Moses Roper	Roper	 Between 1836 and 1848		“Wesleyan Methodist”	yellow
+Lincoln	53.230688	-0.540579	Moses Roper	Roper	 Between 1836 and 1848		“Wesleyan Methodist”	yellow
+Tewkesbury	51.992265	-2.15796	Moses Roper	Roper	 Between 1836 and 1848		“Friends or Quakers”	yellow
+Worcester	52.193636	-2.221575	Moses Roper	Roper	 Between 1836 and 1848		“Friends or Quakers”	yellow
+Stoke on Trent	53.002668	-2.179404	Moses Roper	Roper	 Between 1836 and 1848		“Friends or Quakers”	yellow

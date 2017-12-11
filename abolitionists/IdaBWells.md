@@ -14,7 +14,7 @@ Born in 1862, Wells became a famous activist, orator, suffragist, author and jou
 
 In 1884, Wells successfully sued a railroad company for racial discrimination and protested against discrepancies in white and black teacher’s pay. In the early 1890s, Wells’ friend was lynched in Memphis, which began her ferocious attacks against white supremacy and lynching of black men, women and children. She travelled across the US and the UK denouncing racial violence, and collating data surrounding every lynching case she could find. Her pamphlet ‘Southern Horrors: Lynch Law in All Its Phases’ was published in 1892 on both sides of the Atlantic.
 
-![Picture of Ida B Wells](/img/IBW.jpg)
+![Picture of Ida B Wells](/img/IBW2.jpg)
 <span class="caption text-muted">Ida B Wells (Wikipedia)</span>
 
 Wells travelled to Britain in 1893 and 1894 at the invitation of social activist Catherine Impey. Her second tour was far more successful than the first, as she exploited as many connections to Victorian print culture as she could to maximize her message.

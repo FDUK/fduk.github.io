@@ -268,7 +268,7 @@ Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 23 February 1860”	Lecture Roo
 Morpeth	55.16875	-1.687493	"Slavery, 24 February 1860"	"Evening. Independent Chapel, Mayor presided and a collection was made for assistance of fugitive slaves."	Red
 Cullercoats	55.031646	-1.440003	“Slavery, 25 February 1860”	Infant School Room, evening	Red
 Halifax	53.72702	-1.85754	"Slavery, 28 Feb 1860“	“New Church, Square Road, evening?”	Red
-Wortley	53.490489	-1.53777	“Slavery, 9 March 1860”	Wesleyan Free Church, Greenside, evening	Red
+Wortley	53.786030	-1.588549	“Slavery, 9 March 1860”	Wesleyan Free Church, Greenside, evening	Red
 Leeds	53.800755	-1.549077	"Slavery, 12 March 1860"	"Evening."	Red
 Bradford	53.795984	-1.759398	"Self-Made Men, 13 March 1860"	“Mechanics Institute, evening, meeting of the Young Men's Christian Association."	Red
 Leeds	53.800755	-1.549077	"Slavery, 16 March 1860"	Stock Exchange Hall, 8pm	Red

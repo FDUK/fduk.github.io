@@ -25,9 +25,8 @@ In August, Douglass summarised the conduct of the Free Church:
 > <footer><cite>Frederick Douglass, “A Call for the British Nation to Testify Against Slavery” in Exeter, England, August 28 1846.</cite></footer>
 
 Douglass was not the only abolitionist to speak against the Free Church. Henry C. Wright and George Thompson lectured in Edinburgh in the spring of 1846, encouraging support for the campaign. When the Free Church responded that only a “small portion [of the church] comes in contact with the system of slavery”, Wright strongly rebuked them:
-“Oh, that three thousand pounds! That accursed gold! That admission fee to the Free Church! That reward of treachery to God and humanity! For three thousand pounds the Free Church leaders sold their saviour to the man-stealers! Betrayed him into the hands of his deadly enemies! May they repent their sin, humble themselves before insulted heaven, and the deeply injured slave, annul their compact with thieves and SEND BACK THAT MONEY!” (Henry C. Wright, The Free Church of Scotland and American Slavery, Speeches from Music Hall in Edinburgh, Scotland, May and June 1846.)
 
-<span class="caption text-muted">Henry C. Wright (Wikipedia)</span>
+> “Oh, that three thousand pounds! That accursed gold! That admission fee to the Free Church! That reward of treachery to God and humanity! For three thousand pounds the Free Church leaders sold their saviour to the man-stealers! Betrayed him into the hands of his deadly enemies! May they repent their sin, humble themselves before insulted heaven, and the deeply injured slave, annul their compact with thieves and SEND BACK THAT MONEY!” (Henry C. Wright, The Free Church of Scotland and American Slavery, Speeches from Music Hall in Edinburgh, Scotland, May and June 1846.)
 
 ### The Stamp of Slavery Is On Them All
 
@@ -37,7 +36,7 @@ The leaders of the Free Church defended themselves against this by analyzing the
 
 In April 1846, John MacNaughton, a Free Church minister, attacked Douglass and his abolitionist supporters. He argued that Douglass was stirring up this controversy simply to “create a false impression regarding one of the noblest institutions in the land”. The Free Church had also reiterated its antislavery beliefs on more than one occasion. MacNaughton was against excommunicating slaveholders, especially because this act would be insulting to those who helped the Free Church in its time of need. Facing a popular audience, he denounced the phrase “Send Back the Money” for its impractical and hypocritical implications. He stated that if the money was to be returned, then:
 
-“We must not buy [American] cotton, nor wear it, we must not use their rice nor purchase their tobacco, [for] the stamp of slavery is on them all.” (“The Free Church and American Slavery – Slanders Against the Free Church Met and Answered in a Speech, John MacNaughton, Paisley, April 1846.)
+> “We must not buy [American] cotton, nor wear it, we must not use their rice nor purchase their tobacco, [for] the stamp of slavery is on them all.” (“The Free Church and American Slavery – Slanders Against the Free Church Met and Answered in a Speech, John MacNaughton, Paisley, April 1846.)
 The Free Church were able to weather the storm of the abolitionist controversy. They did not return the money to slaveholders in the South. Regardless of this, Douglass’ aim of making the Scottish people aware of American slavery and in this he was spectacularly successful.
 
 In 1846, a number of songs were composed or adapted to link with the controversy surrounding the Free Church of Scotland:

@@ -21,7 +21,7 @@ Wright spent some time in Britain in the 1840s, and accompanied Frederick Dougla
 After the Civil War, Wright continued to lecture on abolition and the rights of free African Americans.
 
 > You have betrayed Christ, sold your savior, bartered him who is God over all blessed for ever, for £3,000…to justify yourselves in this confederacy with manstealers, you say you have entered into it for their good, and that you are induced to persevere in it for the purpose of showing them their guilt, and of bringing them to repentance…this is not the way you treat other thieves.
-> <footer><cite>George Thompson to Henry Clarke Wright, ‘The Free Church and Her Accusers’, Glasgow, 1846, pp.1-12.</cite></footer>
+> <footer><cite>Henry Clarke Wright, ‘The Free Church and Her Accusers’, Glasgow, 1846, pp.1-12.</cite></footer>
 
 
 

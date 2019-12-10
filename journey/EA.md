@@ -20,7 +20,7 @@ Frederick Douglass seized upon this indecision. He did not blame the ministers a
 
 The Hampshire Advertiser stated the Evangelical Alliance:
 
- “…may be a mere thing of the moment – it may fall to pieces almost as soon as its rickety frame has been erected upon a worthless foundation, and so be soon forgotten – as we are inclined to expect, or, it may be the beginning of some more afflicting form of evil than has yet tormented our church…” (Hampshire Advertiser Saturday 19 September 1846, p.3.)
+>…may be a mere thing of the moment – it may fall to pieces almost as soon as its rickety frame has been erected upon a worthless foundation, and so be soon forgotten – as we are inclined to expect, or, it may be the beginning of some more afflicting form of evil than has yet tormented our church…” (Hampshire Advertiser Saturday 19 September 1846, p.3.)
 
 However, some Britons were outraged at Douglass’s comments. A disgusted reader of the Fife Herald declared:
 

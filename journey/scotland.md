@@ -36,7 +36,9 @@ The leaders of the Free Church defended themselves against this by analyzing the
 
 In April 1846, John MacNaughton, a Free Church minister, attacked Douglass and his abolitionist supporters. He argued that Douglass was stirring up this controversy simply to “create a false impression regarding one of the noblest institutions in the land”. The Free Church had also reiterated its antislavery beliefs on more than one occasion. MacNaughton was against excommunicating slaveholders, especially because this act would be insulting to those who helped the Free Church in its time of need. Facing a popular audience, he denounced the phrase “Send Back the Money” for its impractical and hypocritical implications. He stated that if the money was to be returned, then:
 
-> “We must not buy [American] cotton, nor wear it, we must not use their rice nor purchase their tobacco, [for] the stamp of slavery is on them all.” (“The Free Church and American Slavery – Slanders Against the Free Church Met and Answered in a Speech, John MacNaughton, Paisley, April 1846.)
+> “We must not buy [American] cotton, nor wear it, we must not use their rice nor purchase their tobacco, [for] the stamp of slavery is on them all.” 
+(“The Free Church and American Slavery – Slanders Against the Free Church Met and Answered in a Speech, John MacNaughton, Paisley, April 1846.)
+
 The Free Church were able to weather the storm of the abolitionist controversy. They did not return the money to slaveholders in the South. Regardless of this, Douglass’ aim of making the Scottish people aware of American slavery and in this he was spectacularly successful.
 
 In 1846, a number of songs were composed or adapted to link with the controversy surrounding the Free Church of Scotland:
@@ -65,8 +67,7 @@ And send without delay;
 It may not, must not, cannot bear  
 The light of British day."
 
-(From an [antislavery pamphlet in Edinburgh, 1846.](http://www.bulldozia.com/projects/index.php?id=274)
-  - visited 15 February 2012.)
+From an [antislavery pamphlet in Edinburgh, 1846.](http://www.bulldozia.com/projects/index.php?id=274)
 
 ### BBC Radio Scotland
 

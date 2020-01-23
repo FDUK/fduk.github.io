@@ -10,7 +10,9 @@ He travelled to Britain and Ireland in 1845 for nineteen months, lecturing again
 
 Most of the content on this website relates to Frederick Douglass – his journey, the controversies he caused and a map showing the locations of his speeches. The second map shows some of the speaking locations of other black abolitionists such as Josiah Henson, William Wells Brown, William and Ellen Craft, Moses Roper and Henry ‘Box’ Brown, to name a few.
 
-This website started out as a Masters project for Royal Holloway, University of London. It snowballed into a PhD with the Department of American and Canadian Studies at the University of Nottingham, which I completed in January 2018.
+This website started out as a Masters project for Royal Holloway, University of London. It snowballed into a PhD with the Department of American and Canadian Studies at the University of Nottingham, which I completed in January 2018. 
+
+I am absolutely indebted to Dr. Mike Gardner at the University of Nottingham, for kindly building this website for me and introducing me to GitHub. Without his help, this website wouldn't exist!
 
 If you would like to learn more about the website, email me at: [hannahrose.murray78@gmail.com](mailto:hannahrose.murray78@gmail.com) 
 

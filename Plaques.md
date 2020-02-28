@@ -4,7 +4,7 @@ title: "Plaques"
 innav: yes
 ---
 
-### Heritage Plaques (TBC!)
+### Heritage Plaques
 
 Since 2013, I’ve been lucky enough to be involved in the development of three heritage plaques to African American abolitionists. 
 

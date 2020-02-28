@@ -1,4 +1,4 @@
-This website started out as a Masters project for Royal Holloway, University of London. It snowballed into a PhD with the Department of American and Canadian Studies at the University of Nottingham, which I completed in January 2018.
+This website started out as a Masters project for Royal Holloway, University of London. It snowballed into a PhD with the Department of American and Canadian Studies at the University of Nottingham, which I completed in January 2018. Thanks go to Mike Gardner at Nottingham for helping me build this website.
 
 If you would like to learn more about the website, email me at: hannahrose.murray78@gmail.com 
 

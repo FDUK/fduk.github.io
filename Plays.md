@@ -14,4 +14,4 @@ In 2017, I co-wrote a script with Matthew Chesney (BACKLIT Art Gallery) to celeb
 
 In 2018, I worked with Arun Sood to co-write and co-organise a performance entitled 'Send Back the Money!', focusing on Frederick Douglass' campaign in Scotland. This was performed in Edinburgh on the site of one of Douglass' speeches, and was a fantastic evening of performance, folk songs, and talks.
 
-One of the performances was professionally filmed, and can be viewed [here]. (https://www.youtube.com/watch?v=rwEKiyn-M8g)
+One of the performances was professionally filmed, and can be viewed [here](https://www.youtube.com/watch?v=rwEKiyn-M8g)

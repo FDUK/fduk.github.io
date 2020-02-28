@@ -14,7 +14,7 @@ In 2013, I was approached by the incredible and indefatigable Jak Beula, of Nubi
 
 The plaque’s address is 5 Whitehead’s Grove, London, SW3 3HA – about a 5-10 minute walk from South Kensington Tube Station, and on the site of abolitionist George Thompson’s house.
 
-![Picture of Douglass Plaque](/photo-5.JPG)
+![Picture of Douglass Plaque](/img/photo-5.JPG)
 <span class="caption text-muted">Frederick Douglass Plaque</span>
 
 <i>Ida B. Wells</i>
@@ -23,7 +23,7 @@ In 2019, I worked with Jak once again to erect a plaque to the inspirational Ida
 
 We managed to have successful conversations with the address in Birmingham, and in February, we erected the plaque on the site of a community church, surrounded by local citizens and activists. One of Wells’ descendants Skyped in for the ceremony, school children from the institution next door performed poetry, music and displayed their artwork, and there were workshops and talks in the evening. It was a really incredible day, and I’m so lucky and grateful to be part of it.
 
-![Picture of Wells Plaque](/IMG_7288.jpg)
+![Picture of Wells Plaque](/img/IMG_7288.jpg)
 <span class="caption text-muted">Ida B. Wells Plaque</span>
 
 <i>William and Ellen Craft</i> 

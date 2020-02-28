@@ -14,7 +14,7 @@ In 2013, I was approached by the incredible and indefatigable Jak Beula, of Nubi
 
 The plaque’s address is 5 Whitehead’s Grove, London, SW3 3HA – about a 5-10 minute walk from South Kensington Tube Station, and on the site of abolitionist George Thompson’s house.
 
-![Picture of Douglass Plaque](/img/photo-5.JPG)
+![Picture of Douglass Plaque](/img/douglass2.png)
 <span class="caption text-muted">Frederick Douglass Plaque</span>
 
 <i>Ida B. Wells</i>

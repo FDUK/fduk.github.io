@@ -41,7 +41,7 @@ Scotland’s capital inevitably welcomed numerous African American lecturers dur
 
 See the map below for a walking tour of the city:
 
-![Edinburgh Lecturing Tour](/img/EdinburghWT.pjpg)
+![Edinburgh Lecturing Tour](/img/EdinburghWT.jpg)
 <span class="caption text-muted">Edinburgh Lecturing Tour</span>
 
 117 Nicholson Street: Nicholson Street Church was the site of William and Ellen Craft’s lecture on 30 December 1850, before they embarked on a whirlwind tour of the nation.
@@ -59,7 +59,7 @@ West Port Church: E.T. Anderson spoke here on the 4 December 1877.
 
 Unsurprisingly, Glasgow represents another hotspot for Black lecturers during the course of the nineteenth century. So far, I’ve mapped just under 60 lectures by 11 activists. While Douglass remains the most famous figure, other lecturers such as William Wells Brown, William and Ellen Craft, Henry Highland Garnet, Josiah Henson, John Sella Martin, Moses Roper and Ida B. Wells spoke between 1846 and 1893.
 
-![Glasgow](/img/GlasgowFinalMap.jpg)
+![Glasgow](/img/GlasgowMapFinal.jpg)
 <span class="caption text-muted">Glasgow Map</span>
 
 See below for a Glasgow walking tour:
@@ -84,7 +84,7 @@ Dundee remained a key destination for Black lecturers from the 1840s to the 1870
 
 See below for a walking tour of Dundee 
 
-![Dundee Walking Tour](/img/DundeeWT.png)
+![Dundee Walking Tour](/img/DundeeWT.jpg)
 <span class="caption text-muted">Dundee Walking Tour</span>
 
 Nethergate and High Street: This was the site of Union Hall, where John Andrew Jackson and possibly his activist wife Julia lectured on the 20 June 1864.

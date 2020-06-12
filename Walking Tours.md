@@ -36,11 +36,13 @@ The map below shows an animation of lectures happening over time from 1838-1898:
 
 Scotland’s capital inevitably welcomed numerous African American lecturers during the nineteenth century, with the University of Edinburgh hosting several as students: R.M. Johnson, a survivor of slavery, studied medicine and gave lectures outside of term to supplement his education. Moses Roper travelled as far as Inverness in 1846; Frederick Douglass had a major impact on the city during the same year; William and Ellen Craft began their extensive lecturing tour in 1850; John Sella Martin and James Watkins gave sporadic lectures, and Josiah Henson caused a sensation in 1877, as the reported inspiration behind the character of ‘Uncle Tom’ from Harriet Beecher Stowe’s infamous novel.
 
-EDINBURGH MAP
+![Edinburgh Lectures](/img/EdinburghMapFinal.jpg)
+<span class="caption text-muted">Edinburgh Lectures</span>
 
-Edinburgh Walking Tour
+See the map below for a walking tour of the city:
 
-WALKING TOUR
+![Edinburgh Lecturing Tour](/img/EdinburghWT.pjpg)
+<span class="caption text-muted">Edinburgh Lecturing Tour</span>
 
 117 Nicholson Street: Nicholson Street Church was the site of William and Ellen Craft’s lecture on 30 December 1850, before they embarked on a whirlwind tour of the nation.
 Brighton Street: The site of Brighton Street Chapel, which hosted Frederick Douglass on 31 July, 24 September and 21 October 1846; two lectures by William Wells Brown and William and Ellen Craft on 2 and 6 January 1851; and three lectures by Sarah Parker Remond on the 5 and 28 December 1860, and one during the second week of October in 1869.
@@ -57,11 +59,13 @@ West Port Church: E.T. Anderson spoke here on the 4 December 1877.
 
 Unsurprisingly, Glasgow represents another hotspot for Black lecturers during the course of the nineteenth century. So far, I’ve mapped just under 60 lectures by 11 activists. While Douglass remains the most famous figure, other lecturers such as William Wells Brown, William and Ellen Craft, Henry Highland Garnet, Josiah Henson, John Sella Martin, Moses Roper and Ida B. Wells spoke between 1846 and 1893.
 
-GLASGOW MAP
+![Glasgow](/img/GlasgowFinalMap.jpg)
+<span class="caption text-muted">Glasgow Map</span>
 
-Glasgow Walking Tour
+See below for a Glasgow walking tour:
 
-WALKING TOUR
+![Glasgow Walking Tour](/img/GlasgowWT.jpg)
+<span class="caption text-muted">Glasgow Walking Tour</span>
 
 Trades Hall: Numerous activists spoke here including Moses Roper during the third week of August 1838; William Wells Brown and William and Ellen Craft on the 8, 9 15, 16, 17 November 1851, and Sarah Parker Remond on the 8 January 1861.
 Hutcheson Street: This was the site of Merchant’s Hall, where William Wells Brown and William and Ellen Craft lectured on the 21 January 1851.
@@ -75,11 +79,13 @@ North Portland Street: A Friend’s Meeting House was situated here, where Ida B
 
 Dundee remained a key destination for Black lecturers from the 1840s to the 1870s, and I’ve mapped just under 50 lectures specifically between 1846 and 1898. Once again, Frederick Douglass appears to be the first speaker here and considering the distance to other cities, many of the activists appear to have stayed here to give several lectures in a row before moving on or more likely, returning to Glasgow and Edinburgh: Douglass lectured multiple times in January and March 1846, William Craft gave two lectures in a row in 1861, Joseph Hughes spoke several times in May and then July 1862, John Andrew and Julia Jackson both spoke together during consecutive meetings in May and June 1864, Josiah Henson spoke three times in a row in March 1877 as did Hallie Q. Brown in 1896 and D.E. Tobias in 1898. Some lecturers appear to have only given one meeting, including Moser Roper, William Wells Brown and Isaac P. Dickerson.
 
-DUNDEE MAP
+![Dundee Map](/img/DundeeMapFinal.jpg)
+<span class="caption text-muted">Dundee Map</span>
 
-Dundee Walking Tour
+See below for a walking tour of Dundee 
 
-WALKING TOUR
+![Dundee Walking Tour](/img/DundeeWT.png)
+<span class="caption text-muted">Dundee Walking Tour</span>
 
 Nethergate and High Street: This was the site of Union Hall, where John Andrew Jackson and possibly his activist wife Julia lectured on the 20 June 1864.
 2 Tay Square: The site of Tay Square Chapel, where Frederick Douglass spoke on the 9 February 1846.
@@ -94,11 +100,13 @@ Barrack Street: Site of the Willison Free Church, where John Andrew Jackson spok
 
 So far, I’ve recorded just under 30 lectures in Aberdeen: while few African Americans ventured beyond Dundee, this figure is probably a mere snapshot of the real number. Frederick Douglass appears to be the first lecturer in March 1846, shortly followed by Moses Roper during his second tour of the British Isles, with William Wells Brown and William and Ellen Craft shadowing them five years later in 1851. Both Douglass and William Craft returned in the early 1860s and Francis Fedric, Joseph Hughes, Lewis Smith and E.T. Anderson lectured there between 1861-1877. There is a gap of nearly two decades before Ida B. Wells arrives in 1893, where she stayed with Isabelle Fyvie Mayo who organized subsequent lectures for her, and then the Reverend J. Hector in 1899. The following map shows the lecture distribution across the city:
 
-MAP
+![Aberdeen Map](/img/AberdeenMapFinal.jpg)
+<span class="caption text-muted">Aberdeen Map</span>
 
-Aberdeen Walking Tour
+See below for a walking tour of Aberdeen
 
-WALKING TOUR
+![Aberdeen Walking Tour](/img/AberdeenWT.jpg)
+<span class="caption text-muted">Aberdeen Walking Tour</span>
 
 Gilcomston Church, Union Street: William Craft lectured here on the 1 August 1861.
 198 Union Street: This was the site of a YMCA Hall, where E.T. Anderson lectured on the 27 August 1877.

@@ -8,7 +8,7 @@ innav: yes
 
 As my research into Black abolitionism grows, I have collected sites of importance where women and men spoke about slavery, racial injustice, lynching, temperance and suffrage. These locations have led to the digital maps on this website, but they have also provided information for walking tours that I have created and organise on a semi-regular basis. 
 
-Check out my separate [website](https://blackabolitionistwalkingtours.wordpress.com) for dates to book or use this link to book VIRTUAL walking tours during COVID-19:[website](https://www.eventbrite.co.uk/e/virtual-black-abolitionist-tour-of-london-tickets-105940980324)
+Check out my separate [website](https://blackabolitionistwalkingtours.wordpress.com) for dates to book or use this link to book VIRTUAL walking tours during COVID-19: [here](https://www.eventbrite.co.uk/e/virtual-black-abolitionist-tour-of-london-tickets-105940980324)
 
 <b>Black Abolitionism in Scotland</b>  
 
@@ -111,10 +111,16 @@ Market Street: Just opposite Hadden Street was the site of the Mechanics’ Hall
 <b>Resources</b>
 
 My forthcoming book, Advocates of Freedom: African American Transatlantic Abolitionism (Cambridge: Cambridge University Press, 2020)
-Alasdair Pettinger, Frederick Douglass in Scotland (2018), and his excellent website [website](www.bulldozia.com)
-National Record of Historic Environment, [website](www.canmore.org.uk)
+
+Alasdair Pettinger, Frederick Douglass in Scotland (2018), and his excellent [website](https://www.bulldozia.com)
+
+National Record of Historic Environment, [website](https://www.canmore.org.uk)
+
 Gerald Fulkerson, “Exile as Emergence: Frederick Douglass in Great Britain 1845-7,” The Quarterly Journal of Speech 60:1, (1974).
+
 Duncan C. Rice, The Scots Abolitionists 1833-1861 (Baton Rouge: Louisiana State University Press, 1981).
+
 George Shepperson, “The Free Church and American Slavery,” The Scottish Historical Review, 30: 110, Part 2 (Oct. 1951).
+
 Iain Whyte, Send Back the Money! The Free Church of Scotland and American Slavery (Cambridge: James Clarke & Co., 2012).
 

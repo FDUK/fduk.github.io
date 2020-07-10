@@ -11,6 +11,8 @@ Along with Henry ‘Box’ Brown, the escape of the Crafts is perhaps the second
 > <footer><cite>Crafts, Running a Thousand Miles for Freedom, London, 1860, pp.27-8</cite></footer>
 {: .big}
 
+<iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/8bfdb16f-b61c-453f-8f57-ff6bd119305c/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 William (1824-1900) and Ellen Craft (1826-1891) were born enslaved in Georgia. Once they were married, both William and Ellen knew that their union was not recognised by the eyes of the law, and they were susceptible to be sold and separated at any time. They resolved to escape and ingeniously hatched a plan: Ellen appeared to resemble a white woman, so she cross-dressed as a male plantation owner, with William posing as her slave. Since enslaved individuals were not allowed to read or write, Ellen bandaged her right arm and pretended she had damaged it if any papers were required to be signed.
 
 ![Picture of William and Ellen Craft.](/img/Ellen_and_William_Craft.png)

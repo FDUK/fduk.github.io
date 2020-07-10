@@ -20,7 +20,7 @@ Using Carto, I've also created a heat map, showing how lectures were often conce
 
 <iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/06a728f4-f5de-4ddb-a174-f8c210385ac8/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-We can use Carto to compare journeys. See below for a comparison between James Watkins (purple) and Moses Roper (green). While experimenting with this map, I filtered the data to view dates, locations and venues - however, there are 100s of locations listed by both Watkins and Roper in their respective narratives that don't give specifics in regard to date and venue, which makes a visual analysis somewhat more complicated!
+We can use Carto to compare journeys. See below for a comparison between James Watkins (purple) and Moses Roper (green). While experimenting with this map, I filtered the data to view dates, locations and venues - however, there are 100s of locations listed by both Watkins and Roper in their respective narratives that don't give specifics in regard to date and venue, which makes a visual analysis somewhat more complicated! Watkins has the highest number of locations (1,110) but he spoke in the same locations several times and stuck close to the Midlands. Roper on the other hand, travelled very widely - from Penzance to Inverness.
 
 <iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/4d13e9b0-a4fd-4d95-930e-f11180f6cf7f/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 

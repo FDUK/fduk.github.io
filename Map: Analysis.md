@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Map: Over Time"
+title: "Map: Analysis"
 innav: yes
 ---
 
-### Map: Over Time
+### Map: Analysis
 
 Over the last 8 years, I've experimented with a few different maps to try and visualize African American lecturing tours in Britain and Ireland. (Thanks to Mike Gardner, Uni of Nottingham who has been instrumental in guiding me through this.)
 
@@ -19,3 +19,8 @@ Carto has been really useful for creating a map over time: below, you'll see an 
 Using Carto, I've also created a heat map, showing how lectures were often concentrated in London, the Midlands and parts of Scotland.
 
 <iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/06a728f4-f5de-4ddb-a174-f8c210385ac8/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+We can use Carto to compare journeys. See below for a comparison between James Watkins (purple) and Moses Roper (green). While experimenting with this map, I filtered the data to view dates, locations and venues - however, there are 100s of locations listed by both Watkins and Roper in their respective narratives that don't give specifics in regard to date and venue, which makes a visual analysis somewhat more complicated!
+
+<iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/4d13e9b0-a4fd-4d95-930e-f11180f6cf7f/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+

@@ -10,6 +10,9 @@ Roper’s Narrative was one of the first to visually depict the horrors of slave
 >The statement given by Roper was really harrowing to the mind. The sufferings he endured when under the wretched system of slavery, were intolerable great. His object in stirring up British benevolence is to enable him to purchase the emancipation of his mother and sister who are now in bondage in that boasted land of freedom, America.
 > <footer><cite>The Essex Standard, and General Advertiser for the Eastern Counties, Friday February 1 1839.</cite></footer>
 
+<iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/cec2f415-8975-44f7-a274-36e2a3ef4ade/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+
 Roper was born enslaved in North Carolina around 1815. As with thousands of other enslaved individuals, his father was also his white slaveowner andm as a result, Roper had a fair complexion. He was severely punished for his numerous escape attempts (by his count around 16). Whilst enslaved he witnessed brutal violence: a neighbouring plantation master forced enslaved men and women into barrels, nailed them shut so the nails protruded in the inside, and rolled them down the hill. On other occasion, he watched from a jail cell as 28 Black men jumped into the Charleston River and drowned themselves rather than be separated and sold from their families. Roper remarked in one speech that this event was as deeply traumatic to him as the parting with his own mother.
 
 ![Picture of Moses Roper](/img/Moses_Roper.jpg)

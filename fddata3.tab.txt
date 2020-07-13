@@ -290,4 +290,4 @@ Winchester  51.059772 -1.310142 "25 February 1847"  Independent Chapel. Red
 Winchester 51.059772 -1.310142 "25 February 1847" Independent Chapel. Red
 Nottingham 52.954783 -1.158109 "9 March 1847" Evening Exchange Rooms. Red
 Nottingham  52.954783 -1.158109 "9 March 1847"  Evening Exchange Rooms. Red
-Nottingham  52.954783	-1.158109	"Slavery, Tues 9 March 1847" Evening	Exchange Rooms.	Red 
+Nottingham  52.954783 -1.158109 "9 March 1847"  Evening Exchange Rooms  Red 

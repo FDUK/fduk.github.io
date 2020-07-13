@@ -1529,3 +1529,6 @@ Llantrisaint	51.542919	-3.374953	Moses Roper	Roper	 Between 1836 and 1848		“In
 Cymmar	51.651944	-3.647563	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
 Llanharen	51.538648	-3.439496	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
 Bridgend	51.504286	-3.576945	Moses Roper	Roper	 Between 1836 and 1848		“Independent Church”	yellow
+Colchester  51.895927 0.891874  Moses Roper Roper 6-7 March 1847  "Chapel"  yellow
+
+Colchester  51.895927  0.891874  "6-7 March 1847"  Evening  Red

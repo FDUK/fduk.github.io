@@ -16,9 +16,9 @@ The next map shows the following individuals: (Frederick Douglass, James Watkins
 
 <iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/4dce3452-d8ac-4128-8aae-991d45fda212/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-Carto has been really useful for creating a map over time: below, you'll see an animated graphic of the number of lectures between 1837 and 1900 by 26 African Americans. Each coloured dot represents a particular person, so the green dots are Moses Roper and the purple dots are James Watkins. While the majority of African Americans travelled to Britain and Ireland in the 1840s, 1850s and 1860s, they continued to lecture in the British Isles long after slavery was legally abolished in 1865. They spoke about segregation, racism, Jim Crow laws, lynching, white domestic terrorism and tried to convince the transatlantic public that, in the words of Bishop Walter Hawkins in 1891, "slavery was not dead. It is alive at this very moment."
+Carto has been really useful for creating a map over time: below, you'll see an animated graphic of the number of lectures between 1837 and 1900 by 26 African Americans. Each coloured dot represents a particular person, as you can see from the key. While the majority of African Americans travelled to Britain and Ireland in the 1840s, 1850s and 1860s, they continued to lecture in the British Isles long after slavery was legally abolished in 1865. They spoke about segregation, racism, Jim Crow laws, lynching, white domestic terrorism and tried to convince the transatlantic public that, in the words of Bishop Walter Hawkins in 1891, "slavery was not dead. It is alive at this very moment."
 
-<iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/bc758dea-f0f8-47ca-a525-e31d229c9668/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/6ee2a035-03bb-4e98-a3d4-4c8c0bdda0b5/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 Using Carto, I've also created a heat map, showing how lectures were often concentrated in London, the Midlands and parts of Scotland.
 

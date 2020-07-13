@@ -289,7 +289,6 @@ Street  51.124679	-2.742919	“Slavery, 1886-1887”	Helen Bright Clark’s hous
 Winchester  51.059772 -1.310142 "25 February 1847"  Independent Chapel. Red
 Leith 55.975528 -3.16651 “Slavery, 28 May 1846” Evening Red
 Colchester 51.895927 0.891874 “Slavery, 6-7 March 1847” Evening Red
-Lisburn	54.516246	-6.058011	"Slavery, 29 December 1845"	Presbyterian Church. 7pm.	Red  
-Colchester	51.895927	0.891874	"6-7 March 1847"	Evening Red
-Colchester  51.895927  0.891874  "6-7 March 1847"  Evening  Red
+Ayr	55.458564	-4.629179	"Slavery, Mon 23 March 1846"	“U.P. Church, Catheart Street, evening	Red
+Colchester	51.895927	0.891874 "6-7 March 1847"	Evening	Red
 

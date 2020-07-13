@@ -12,7 +12,7 @@ Most of the content on this website relates to Frederick Douglass – his journe
 
 This website started out as a Masters project for Royal Holloway, University of London. It snowballed into a PhD with the Department of American and Canadian Studies at the University of Nottingham, which I completed in January 2018. 
 
-I am absolutely indebted to Dr. Mike Gardner at the University of Nottingham, for kindly building this website for me and introducing me to GitHub. Without his help, this website wouldn't exist!
+I am absolutely indebted to Dr. Mike Gardner at the University of Nottingham, for kindly building this website for me and introducing me to GitHub. Without his help, this website wouldn't exist! Thanks also to Dr. Anouk Lang at the University of Edinburgh, who gave me some brilliant insight and pointed me towards Carto.
 
 If you would like to learn more about the website, email me at: [hannahrose.murray78@gmail.com](mailto:hannahrose.murray78@gmail.com) 
 

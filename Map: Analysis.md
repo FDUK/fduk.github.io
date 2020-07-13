@@ -12,10 +12,6 @@ In 2020, I've created a few maps in Carto. While the majority of people I speak 
 
 <iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/ce8911a4-d80b-4623-89a7-837c5e450810/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-The next map shows the following individuals: (Frederick Douglass, James Watkins, Moses Roper, William and Ellen Craft, Josiah Henson, Benjamin William and Jane Brown, and Ida B. Wells):
-
-<iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/4dce3452-d8ac-4128-8aae-991d45fda212/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
 Carto has been really useful for creating a map over time: below, you'll see an animated graphic of the number of lectures between 1837 and 1900 by 26 African Americans. Each coloured dot represents a particular person, as you can see from the key. 
 
 <iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/6ee2a035-03bb-4e98-a3d4-4c8c0bdda0b5/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>

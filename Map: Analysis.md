@@ -12,10 +12,6 @@ In 2020, I've created a few maps in Carto. While the majority of people I speak 
 
 <iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/ce8911a4-d80b-4623-89a7-837c5e450810/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-Carto has been really useful for creating a map over time: below, you'll see an animated graphic of the number of lectures between 1837 and 1900 by 26 African Americans. Each coloured dot represents a particular person, as you can see from the key. 
-
-<iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/6ee2a035-03bb-4e98-a3d4-4c8c0bdda0b5/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
 Using Carto, I've also created a heat map, showing how lectures were often concentrated in London, the Midlands and parts of Scotland.
 
 <iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/06a728f4-f5de-4ddb-a174-f8c210385ac8/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
@@ -32,7 +28,7 @@ To compare antebellum and postbellum lectures, see the following map of lectures
 
 <iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/7885ced5-72cf-41e5-bccb-72766bb328b9/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-You can see how concentrated the lectures are, in regard to time frame and in certain regions in this animated map:
+Carto has been really useful for creating a map over time: you can see how concentrated the lectures are, in regard to time frame and in certain regions:
 
 <iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/d1ec2b79-5d54-4c60-b58c-b239cae26b1c/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
@@ -40,7 +36,7 @@ Here's a heat map to further demonstrate this:
 
 <iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/a0ec41a0-e842-4393-a513-97bfd5854d46/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-In comparison, see the following map between 1867-1907. You can see that the majority of lectures were focused in London and the Midlands, although a significant number of activists travelled to Scotland. Few were lecturing in the rural hamlets of Wales and Cornwall, in contrast to the 1840s, although Benjamin William Brown and Jane Brown did travel to parts of Devon and Dorset. Perhaps this is an indication that activists were more likely to find support in industrial towns or other established centers that had connections to former abolitionists. Once again, I tried to filter through date/location/venue, but considering that a) some of the venues are so variable and b) I don't know the exact venue for each activist for every lecture, most venues would come up blank, or 'null.' Sometimes, the dates can be rough estimates too without diving into the archive for each activist/lecture, which is unfortunately impossible for me to do right now.
+In comparison, see the following map between 1867-1907, showing 1,100 lectures. You can see that the majority of lectures were focused in London and the Midlands, although a significant number of activists travelled to Scotland. Few were lecturing in the rural hamlets of Wales and Cornwall, in contrast to the 1840s, although Benjamin William Brown and Jane Brown did travel to parts of Devon and Dorset. Perhaps this is an indication that activists were more likely to find support in industrial towns or other established centers that had connections to former abolitionists. Once again, I tried to filter through date/location/venue, but considering that a) some of the venues are so variable and b) I don't know the exact venue for each activist for every lecture, most venues would come up blank, or 'null.' Sometimes, the dates can be rough estimates too without diving into the archive for each activist/lecture, which is unfortunately impossible for me to do right now.
 
 <iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/130feaeb-7cd5-4b3a-910a-ea367124bc8c/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 

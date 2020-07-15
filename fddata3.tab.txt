@@ -291,4 +291,5 @@ Leith 55.975528 -3.16651 “Slavery, 28 May 1846” Evening Red
 Colchester 51.895927 0.891874 “Slavery, 6-7 March 1847” Evening Red
 Ayr	55.458564	-4.629179	"Slavery, Mon 23 March 1846"	“U.P. Church, Catheart Street, evening	Red
 Colchester	51.895927	0.891874 "6-7 March 1847"	Evening	Red
+Colchester  51.895927 0.891874  "Test"  Evening Red
 

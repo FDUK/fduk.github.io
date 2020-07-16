@@ -1,287 +1,284 @@
-City	lat	lng	date	Color
-Lisburn	54.516246	-6.058011	"Slavery, 29 December 1845"	Presbyterian Church. 7pm.	Red  
-Nottingham	52.954783	-1.158109	"Slavery, Tues 9 March 1847" Evening	Exchange Rooms. Red 
-Worcester	52.193636	-2.221575	"Slavery, Tues 30 June 1846"	"Worcester. Lecture Room, Natural History Society. Evening."	Red
-Worcester	52.193636	-2.221575	"Slavery, Thurs 3 Sept 1846"	"Worcester. Lecture Room, Natural History Society, Foregate St. Evening."	Red
-Wrexham 53.04304	-2.992494	"Slavery, Fri 9 Oct 1846"	Town Hall. Evening.	Red
-Dublin	53.349805	-6.26031	“Slavery, 31 August 1845”	Lecture in the prison where Daniel O’Connell was confined	Red
-Dublin	53.349805	-6.26031	“Slavery, 3 September 1845”	Royal Exchange, evening	Red
-Dublin	53.349805	-6.26031	“Slavery, 4 September 1845”	Evening?	Red
-Dublin	53.349805	-6.26031	“Slavery, 9 September 1845”	Friends Meeting House, Eustace Street, evening	Red
-Dublin	53.349805	-6.26031	“Slavery, 10 September 1845”	Evening	Red
-Dublin	53.349805	-6.26031	“Slavery, 12 September 1845”	Friends Meeting House, evening	Red
-Dublin	53.349805	-6.26031	“Slavery, 17 September 1845”	Music Hall, Abbey Street, evening	Red
-Dublin	53.349805	-6.26031	“Temperance, 21 September 1845”	Royal Canal Harbour, day lecture	Red
-Dublin	53.349805	-6.26031	“Slavery, 23 September 1845”	Music Hall, Abbey Street, evening	Red
-Dublin	53.349805	-6.26031	“Slavery?, 29 September 1845”	Conciliation Hall, evening	Red
-Dublin	53.349805	-6.26031	“Slavery, 1 October 1845”	Music Hall, Abbey Street, evening	Red	
-Dublin	53.349805	-6.26031	“Slavery, 3 October 1845”	Music Hall, Abbey Street, evening	Red
-Wexford	52.465096	-6.623413	“Slavery, 7 October 1845”	Evening	Red
-Wexford	52.465096	-6.623413	"Slavery, Wed 8 October 1845”  Evening.		Red
-Waterford	52.25932	-7.11007	“Slavery, 9 October 1845”	Evening	Red
-Cork	51.896892	-8.486316	“Slavery, 12 October 1845”	Evening	Red
-Cork	51.896892	-8.486316	“Temperance, 13 October 1845”	Global Lane, Temperance Hall, evening	Red
-Cork	51.896892	-8.486316	“Slavery, 14 October 1845”	Lloyd’s Hotel, 8:30am	Red
-Cork	51.896892	-8.486316	“Slavery, 14 October 1845”	City Court House, 2pm	Red
-Cork	51.896892	-8.486316	“Slavery, 17 October 1845”	Wesleyan Chapel, Patrick Street, afternoon	Red
-Bridport	50.733577	-2.758301	"Lecture on Life and Career, Fri 15 Oct 1886"	"Evening."	Red
-St Neots	52.230084	-0.265103	“Slavery and Post-War, 5 October 1886”	Julia Griffith Crofts’ School for Girls, daytime	Red
-St Neots	52.230084	-0.265103	“Slavery and Post-War, 12 October 1886”	Corn Exchange, daytime	Red
-Cork	51.896892	-8.486316	"Slavery, Fri 17 Oct 1845"	Evening, Independent Chapel.	Red
-Cork	51.896892	-8.486316	"Temperance, Mon 20 Oct 1845"	Temperance Institute, evening	Red
-Cork	51.896892	-8.486316	"Temperance, Tues 21 Oct 1845"	Evening?	Red
-Cork	51.896892	-8.486316	"Slavery, Thurs 23 Oct 1845"	Imperial Hotel, 2pm. 6d admittance, Narrative on sale as 2s 6d.	Red
-Cork	51.896892	-8.486316	"Slavery, Mon 27 Oct 1845"	Independent Chapel, evening.	Red
-Cork	51.896892	-8.486316	"Slavery, Tues 28 Oct 1845"	Saint Patrick's Temperance Hall, 7.30pm. 2s tickets each. Douglass sang an ""abolition song."" 12pm finish.	Red
-Cork	51.896892	-8.486316	"Slavery, Mon 3 Nov 1845"	Independent Chapel, George's Street. Meeting of Cork Antislavery Society. ""Crowded by a most welcome audience."" Mayor as chair. Douglass lectured about slavery, and annexation of Texas.	Red
-Cork	51.896892	-8.486316	"Slavery, Tues 4 Nov 1845"	City Court House, 2pm. Meeting crowded an hour before lecture. Mayor as chair. Douglass a ""noble specimen of negro race."""	Red
-Limerick	52.66802	-8.630498	"Slavery, Mon 10 Nov 1845"	"Independent Chapel, Belford Row, evening.”	Red
-Limerick	52.66802	-8.630498	"Slavery, Fri 21 Nov 1845"	Philosophical Rooms, Glentworth Street, evening	Red
-Belfast	54.597285	-5.93012	"Slavery, Fri 5 Dec 1845"	"Independent Church, Donegall Street. 7.30pm. Well attended, Mayor as chair."	Red
-Belfast	54.597285	-5.93012	“Slavery, Tues 9 Dec 1845”	Wesleyan Methodist Church, evening	Red
-Belfast	54.597285	-5.93012	"Slavery, Thurs 11 Dec 1845"	"Belfast Antislavery Society, Rev. Samuel Hanna's Meetinghouse, evening.”	Red
-Belfast	54.597285	-5.93012	"Slavery, Fri 12 Dec 1845"	"Belfast Antislavery Society, Rev. Samuel Hanna's Meetinghouse, evening“	Red
-Birmingham	52.486243	-1.890401	"Temperance, Tues 16 Dec 1845"	"Town Hall, evening. Meeting of Birmingham Temperance Society. Joseph Sturge and John Cadbury attended."	Red
-Belfast	54.597285	-5.93012	"Slavery, Tues 23 Dec 1845"	"Independent Meeting House, Donegall Street. 7.30pm. Crowded meeting. Travelled 4 months in UK, so far given 50 lectures."	Red
-Belfast	54.597285	-5.93012	"Slavery, Fri 26 Dec 1845"	"Presbyterian Meetinghouse, Donegall St., midday“	Red
-Belfast	54.597285	-5.93012	"Slavery, Thurs 1 Jan 1847"	"Methodist Meeting House, Donegall Street. Meeting of the Belfast Antislavery Society., evening. Crowded. James Buffum also attended."	Red
-Belfast	54.597285	-5.93012	"Slavery, Fri 2 Jan 1846"	"Methodist Meeting House, Donegall Street. Meeting of the Belfast Antislavery Society, crowded. James Buffum also attended."	Red
-Belfast	54.597285	-5.93012	"Public Breakfast, Tues 6 Jan 1846"	Commercial Rooms. Formed a Ladies Antislavery Association. 250 people there. Douglass received a bible from abolitionists. Until 1pm.	Red
-Glasgow	55.864237	-4.251806	“Slavery, 10 January 1846”	Evening	Red
-Cork	51.896892	-8.486316	"Slavery, Tues 13 Jan 1846"	Breakfast to Douglass.	Red
-Glasgow	55.864237	-4.251806	"Slavery, Thurs 15 Jan 1846"	"City Hall, 7pm. Glasgow Emancipation Society."	Red
-Glasgow	55.864237	-4.251806	“Slavery, 22 January 1846”	City Hall, evening	Red
-Perth	56.394994	-3.430838	"Slavery, Fri 23 Jan 1846"	"City Hall, evening”	Red
-Perth	56.394994	-3.430838	"Slavery, Mon 26 Jan 1846"	"City Hall, evening.”	Red
-Dundee	56.462018	-2.970721	"Slavery, Tues 27 Jan 1846"	"School Wynd Chapel, evening."	Red
-Dundee	56.462018	-2.970721	"Slavery, Wed 28 Jan 1846"	"School Wynd Chapel, evening. Chapel was crowded. James Buffum also attended. Chains and manacles exhibited."	Red
-Dundee	56.462018	-2.970721	"Slavery, Thurs 29? Jan 1846"	"School Wynd Chapel, evening. Tickets issued to cope with demand."	Red
-Dundee	56.462018	-2.970721	"Slavery, Fri 30 Jan 1846"	"Bell Street Chapel, evening. Discussed Free Church. Henry Clarke Wright, James Buffum also attended. Meeting changed for a bigger venue."	Red
-Dundee	56.462018	-2.970721	Slavery & Free Church, 9 February 1846	"Tay Square Chapel, evening. Crowded meeting. Send Back the Money!"	Red
-Arbroath	56.559107	-2.591543	"Slavery, Tues 10 Feb 1846"	"Trades' Hall, evening?”	Red
-Arbroath	56.559107	-2.591543	"Slavery, Wed 11 Feb 1846"	"Abbey Church, evening.”	Red
-Arbroath	56.559107	-2.591543	"Slavery, Thurs 12 Feb 1846"	"Abbey Church, evening.”	Red
-Glasgow	55.864237	-4.251806	"Temperance, Wed 18 Feb 1846"	"City Hall, evening. Scottish Temperance League meeting."	Red
-Glasgow	55.864237	-4.251806	“Slavery, 19 February 1846”	Thistle Hall, United Secession Church, evening	Red
-Glasgow	55.864237	-4.251806	“Slavery, 20 February 1846”	Thistle Hall, United Secession Church, evening	Red
-Glasgow	55.864237	-4.251806	“Slavery, 21 February 1846”	Thistle Hall, United Secession Church, evening	Red
-Glasgow	55.864237	-4.251806	“Slavery and Free Church, 1 March 1846”	Assembly, 1pm	Red
-Dundee	56.462018	-2.970721	"Slavery & Free Church, First week of March 1846"	"Slavery and Free Church, evening lecture."	Red
-Dundee	56.462018	-2.970721	"Slavery & Free Church, First week March 1846"	Evening. Meeting held against Free Church.	Red
-Dundee	56.462018	-2.970721	"Slavery & Free Church, Sat 7 March 1846"	Evening meeting held against the Free Church	Red
-Montrose	56.706922	-2.466115	“Slavery, Mon 9 March 1846”	Rev. H. Hyslop’s Chapel, 7:30pm	Red
-Dundee	56.462018	-2.970721	"Slavery & Free Church, Tues 10 March 1846"	"George's Chapel, School Wynd. Henry Clarke Wright and James Buffum also attended. Crowded meeting, evening. Tickets had to be sold to cope with demand. 1,200 people there."	Red
-Perth	56.394994	-3.430838	“Slavery, 12 March 1846”	City Hall, 7:30pm	Red
-Dundee	56.462018	-2.970721	"Slavery & Free Church, Mon 16 March 1846"	Evening meeting. James Buffum also attended.	Red
-Paisley	55.847258	-4.440114	"Slavery, Tues 17 March 1846"	"Rev William Nisbet's Church, Abbey Close, evening. James Buffum also attended."	Red
-Paisley	55.847258	-4.440114	"Slavery, Wed 18 March 1846"	"Rev William Nisbet's Church, Abbey Close, evening. James Buffum also attended."	Red
-Paisley	55.847258	-4.440114	"Slavery, Thurs 19 March 1846"	"Rev William Nisbet's Church, Abbey Close, evening. James Buffum also attended."	Red
-Paisley	55.847258	-4.440114	"Slavery, Fri 20 March 1846"	"Rev William Nisbet's Church, Abbey Close, evening. James Buffum also attended."	Red
-Ayr	55.458564	-4.629179	"Slavery, Mon 23 March 1846"	"Relief Church, evening with James Buffum."	Red
-Ayr	55.458564	-4.629179	"Slavery, Tues 24 March 1846"	"Relief Church, evening with James Buffum."	Red
-Kilmarnock	55.614719	-4.498792	“Slavery, Wed 25 March 1846”	Evening	Red
-Paisley	55.847258	-4.440114	“Slavery, Thurs 26 March 1846”	Evening	Red
-Greenock	55.956476	-4.771983	“Slavery, Fri 27 March 1846”	Evening	Red
-Paisley	55.847258	-4.440114	"Slavery, Mon 30 March 1846"	"Secession Church, Abbey Close, evening. James Buffum also attended."	Red
-Bonhill	55.978918	-4.440114	“Slavery, 31 March 1846”	Secession Church, Abbey Close, evening	Red
-Hawick	55.42706	-2.780914	“Slavery, c.1-14 April 1846”	Evening	Red
-Galashiels	55.623728	-2.814449	“Slavery, c.1-14 April 1846”	Evening	Red
-Coldstream	55.65132	-2.253399	“Slavery, c.1-14 April 1846”	Evening	Red
-Kelso	55.600029	-2.432207	"Slavery, c.1-14 April 1846"	“Evening.”	Red
-Kilmarnock	55.614719	-4.498792	“Slavery, Sat 4 April 1846”	Evening	Red
-Paisley	55.847258	-4.440114	"Slavery, Mon 6 April 1846"	"Secession Church, Abbey Close, evening. With James Buffum."	Red
-Greenock	55.956476	-4.771983	“Slavery, 10 April 1846”	West Blackhall Street Chapel, 8pm	Red
-Glasgow	55.864237	-4.251806	“Slavery, Wed 15 April 1846”	Evening	Red
-Glasgow	55.864237	-4.251806	“Slavery, Thurs 16 April 1846”	Evening	Red
-Paisley	55.847258 -4.440114 “Slavery, Fri 17 April 1846” Exchange Rooms, with James Buffum, evening Red
-Glasgow	55.864237	-4.251806	"Slavery & Free Church, Tues 21 April 1846"	"City Hall, evening. Public meeting of the Glasgow Emancipation Society. With James Buffum, George Thompson."	Red
-Glasgow	55.864237	-4.251806	"Slavery, Thurs 23 April 1846"	"Assembly Rooms, 1pm. Ladies Meeting of the Glasgow Female Antislavery Society. With George Thompson, James Buffum, and Henry Clarke Wright."	Red
-Glasgow	55.864237	-4.251806	“Slavery, Thurs 23 April 1846"	Evening	Red
-Paisley	55.847258	-4.440114	"Slavery, Fri 25 April 1846”	Evening	Red
-Paisley	55.847258	-4.440114	"Slavery, Sat 26 April 1846”	Evening	Red
-Edinburgh	55.953252	-3.188267	“Slavery, 27 April 1846”	Evening	Red
-Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Tues 28 April 1846"	"Rev Mr Gilchrist's Church, Rose Street. Evening, with George Thompson, Henry Clarke Wright, James Buffum. Church was ""crowded to excess."" Send Back the Money!"	Red
-Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Fri 1 May 1846"	"Music Hall, evening. Send Back the Money!"	Red
-Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Sat 2 May 1846"	"Evening, with George Thompson, Henry Clarke Wright, and James Buffum."	Red
-Glasgow	55.864237	-4.251806	"Slavery & Free Church, Tues 5 May 1846"	"City Hall, evening. Public meeting of the Glasgow Emancipation Society. Henry Clarke Wright, George Thompson and James Buffum also attended."	Red
-Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Thurs 7 May 1846"	"Rev. Mr Gilchrist's Church, Rose Street. Evening, admission by tickets to cope with demand. James Buffum also attended."	Red
-Edinburgh	55.953252	-3.188267	"Slavery & Free Church, Fri 8 May 1846"	"Music Hall, evening. Crowded meeting, with George Thompson. Send Back the Money!"	Red
-London	51.515137	-0.121901	“Slavery, 18 May 1846”	Freemasons’ Hall, midday	Red
-London	51.518767	-0.088874	“Peace/Anti-War, 19 May 1846”	Finsbury Chapel, Moorfields, evening	Red
-London	51.507351	-0.127758	“Suffrage, 20 May 1846”	Crown and Anchor Tavern, evening, the Strand	Red
-London	51.507351	-0.127758	“Temperance, 21 May 1846”	Exeter Hall, evening	Red
-London	51.518767	-0.088874	“Slavery, 22 May 1846”	Finsbury Chapel, Moorfields, evening	Red
-Edinburgh	55.953252	-3.188267	"Slavery, 24 May 1846"	Evening	Red
-Edinburgh	55.953252	-3.188267	"Slavery, 25 May 1846"	Music Hall, evening	Red
-Edinburgh	55.953252	-3.188267	“Slavery, and Free Church, 26 May 1846”	Music Hall, evening	Red
-Edinburgh	55.953252	-3.188267	“Slavery, and Free Church, 27 May 1846”	Music Hall, evening	Red
-Fife	56.208208	-3.149518	"Slavery & Free Church, 29 May 1846"	"Possibly Fife. Music Hall, evening. With George Thompson."	Red
-Kirkcaldy	56.116825	-3.158137	"Slavery & Free Church, 1 June 1846"	"Bethelfield Chapel, 7.30pm. 1,400 people present, with James Buffum."	Red
-Edinburgh	55.953252	-3.188267	"Slavery & Free Church, 2 June 1846"	"Music Hall, evening. James Buffum, Henry Clarke Wright, and George Thompson also there."	Red
-Edinburgh	55.953252	-3.188267	"Slavery, 3 June 1846"	"Music Hall, Edinburgh. George Thompson and Henry Clarke Wright also attended."	Red
-Edinburgh	55.953252	-3.188267	"Slavery & Free Church, 4 June 1846"	"Music Hall, evening. George Thompson and Henry Clarke Wright also there. Crowded audience, 12 finish."	Red
-Edinburgh	55.953252	-3.188267	"Slavery & Free Church, 5 June 1846"	"Music Hall, evening. James Buffum and George Thompson also there."	Red
-Edinburgh	55.953252	-3.188267	"Slavery & Free Church, 9 June 1846"	“Music Hall, evening. George Thompson, James Buffum, and Henry Clarke Wright also there."	Red
-Belfast	54.597285	-5.93012	"Slavery & Free Church, Tues 16 June 1846"	"Rev. Nelson's Church, Donegall Street. Evening, with James Buffum. Send Back the Money!"	Red
-Birmingham	52.486243	-1.890401	"Slavery, 29 June 1846"	"Ebenezer Chapel, Birmingham. Meeting of Auxiliary of British and Foreign Antislavery Society, evening.”	Red
-Manchester	53.480759	-2.242631	"Slavery, 2 July 1846"	"Town Hall, 11am. Final meeting of the National Anti-Corn Law League. Richard Cobden and John Bright there."	Red
-Manchester	53.480759	-2.242631	“Slavery, 3 July 1846"	Evening	Red
-Belfast	54.597285	-5.93012	"Slavery, 5 July 1846"	Evening	Red
-Belfast	54.597285	-5.93012	"Slavery, Wed 8 July 1846"	"Primitive Methodist Chapel, 7pm."	Red
-Belfast	54.597285	-5.93012	"Slavery, 10 July 1846"	"Methodist Chapel, Donegall Place, 7pm. Tickets issued to prevent overcrowding."	Red
-Bangor	54.654197	-5.673065	“Slavery, 13 July 1846”	First Presbyterian Church, evening	Red
-Belfast	54.597285	-5.93012	“Temperance, 22 July 1846”	Independent Church, Donegall-Street, 7:30pm	Red
-Edinburgh	55.953252	-3.188267	“Slavery, 31 July 1846”	Evening	Red
-Newcastle Upon Tyne	54.978252	-1.61778	“Slavery, 2 August 1846”	Evening	Red
-Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 3 August 1846"	"Salem Methodist Church, Hood Street. Meeting of the Newcastle Antislavery Society, evening.”	Red
-North Shields	55.010762	-1.449138	"Slavery, 4 August 1846"	"Baptist Chapel, Howard Street. Evening."	Red
-London	51.507351	-0.127758	“Temperance, 6 August 1846”	London Literary Institution, Aldersgate Street, evening	Red
-London	51.507351	-0.127758	"Temperance, 7 August 1846"	Covent Garden Theatre, evening	Red
-London	51.507351	-0.127758	"Slavery, Mon 10 August 1846"	Antislavery League formed. Crown and Anchor Tavern, evening.	Red
-Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 13 August 1846"	"Salem Chapel, Hood Street, evening. 1,200 there."	Red
-Carlisle	54.892473	-2.932931	"Slavery, 14 August 1846"	"Athenaeum, Lowther Street, evening”	Red
-London	51.507351	-0.127758	"Slavery, 17 August 1846"	"Crown and Anchor Tavern, Strand. 6.30pm chair. George Thompson, William Lloyd Garrison, Henry Clarke Wright and Henry Vincent there. Tickets had to be issued. Discussed Free Church."	Red
-Carlisle	54.892473	-2.932931	"Slavery, 21 August 1846"	"Athenaeum, Lowther Street, evening”	Red
-Bristol	51.454513	-2.58791	"Slavery, 24 August 1846"	“Evening.”	Red
-Bristol	51.454513	-2.58791	"Slavery, 25 August 1846"	"Blind Asylum, daytime."	Red
-Bristol	51.454513	-2.58791	"Slavery, 25 August 1846"	"Victoria Rooms, evening."	Red
-Bristol	51.454513	-2.58791	"Slavery, 26 August 1846"	"Victoria Rooms, evening. With William Lloyd Garrison."	Red
-Bristol	51.454513	-2.58791	"Slavery, 27? August 1846"	"Victoria Rooms, evening.”	Red
-Exeter	50.718412	-3.533899	"Slavery, 28 August 1846"	"Subscription Rooms, evening. 11pm finish."	Red
-Exeter	50.718412	-3.533899	"Slavery, Sat 29 August 1846"	"Subscription Rooms, evening. William Lloyd Garrison there."	Red
-Taunton	51.015344	-3.106849	"Slavery, 30 August 1846"	Evening	Red
-Bridgwater	51.127889	-3.003632	"Slavery, 31 August 1846"	"Public rooms, evening."	Red
-Cullercoats	55.031646	-1.440003	“Slavery, August 1846”	Evening?	Red
-Taunton	51.015344	-3.106849	"Slavery, 1 August 1846"	Public Hall, evening	Red
-Bristol	51.454513	-2.58791	"Slavery, 2 Sept 1846"	"Public Rooms, Broadmead. Evening. Tickets to cope with demand. Crowed meeting. William Lloyd Garrison there. 11pm finish."	Red
-Birmingham	52.486243	-1.890401	"Slavery, 4 Sept 1846"	“Livery Street Chapel, evening, with William Lloyd Garrison and George Thompson."	Red
-Birmingham	52.486243	-1.890401	“Slavery, 5 September 1846”	Evening	Red
-Birmingham	52.486243	-1.890401	"Slavery, 6 Sept 1846"	Evening	Red
-Carlisle	54.892473	-2.932931	"Slavery, 7 Sept 1846"	"Athenaeum, Lowther Street. Evening."	Red
-North Shields	55.010762	-1.449138	“Slavery & Evangelical Alliance, 8 September 1846”	Baptist Chapel, evening	Red
-Sheffield	53.381129	-1.470085	“Slavery, 10 September 1846”	Evening	Red
-Sheffield	53.381129	-1.470085	"Slavery, 11 Sept 1846"	"Friend's Meeting House. Evening. William Lloyd Garrison there, tickets 1s and Narrative on sale at the end of the meeting."	Red
-London	51.507351	-0.127758	"Slavery & Evangelical Alliance, 14 Sept 1846"	"Exeter Hall, 6pm. George Thompson and William Lloyd Garrison"	Red
-Sunderland	54.906869	-1.383801	"Slavery, 18 Sept 1846"	"Athenaeum Hall, evening.”	Red
-Greenock	55.956476	-4.771983	"Slavery, 22 Sept 1846"	Evening	Red
-Paisley	55.847258	-4.440114	"Slavery, 23 Sept 1846"	"Secession Church, George Street, evening“	Red
-Edinburgh	55.953252	-3.188267	"Slavery & Free Church, 24 Sept 1846"	"Brighton Street Church, evening. With William Lloyd Garrison there."	Red
-Edinburgh	55.953252	-3.188267	"Slavery, 25 Sept 1846"	“Morning.”	Red
-Edinburgh	55.953252	-3.188267	"Slavery, 25 Sept 1846"	“Evening."	Red
-Dundee	56.462018	-2.970721	"Slavery & Free Church, 28 Sept 1846"	"Bell Street Hall, evening. Attacks Free Church and Evangelical Alliance. Finished at 11.15pm."	Red
-Edinburgh	55.953252	-3.188267	"Slavery, 29 Sept 1846"	Evening	Red
-Glasgow	55.864237	-4.251806	"Slavery, 30 Sept 1846"	“City Hall, evening”	Red
-Glasgow	55.864237	-4.251806	"Slavery, 1 Sept 1846"	“Morning/afternoon.”	Red
-Glasgow	55.864237	-4.251806	"Slavery, 1 Sept 1846"	“Evening.”	Red
-Glasgow	55.864237	-4.251806	"Slavery, 2 Sept 1846"	“Eagle Temperance Hall, morning/afternoon.”	Red
-Kilmarnock	55.614719	-4.498792	“Slavery, 2 Sept 1846"	Evening	Red
-Belfast	54.597285	-5.93012	"Slavery, 3 Oct 1846"	"Music Hall, evening. 200 people there, meeting broke up early because of controversial statements by Douglass and William Lloyd Garrison."	Red
-Belfast	54.597285	-5.93012	"Slavery, 6 Oct 1846"	"Independent Church, Donegall Street, evening."	Red
-Manchester	53.480759	-2.242631	"Slavery, 12 Oct 1846"	"Free Trade Hall, Peter Street. Evening, 7pm. Meeting to receive deputation of Antislavery League. William Lloyd Garrison, George Thompson and Henry Clarke Wright also attended. 3,000 present, and ended at 12. Confusion after Garrison insulted the Evangelical Alliance."	Red
-Rochdale	53.609714	-2.1561	"Slavery, 14 Oct 1846"	"Public Hall, evening. ""Numerously attended."""	Red
-Rochdale	53.609714	-2.1561	"Slavery, 15 Oct 1846"	"Public Hall, evening.”	Red
-Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 16 October 1846"	Evening	Red
-Liverpool	53.408371	-2.991573	"Slavery, 19 Oct 1846"	Evening, Concert Hall.	Red
-Edinburgh	55.953252	-3.188267	"Slavery, 21 Oct 1846"	"Brighton Street Church, evening. Tickets issued to cope with demand."	Red
-Kirkcaldy	56.116825	-3.158137	"Slavery, 22 Oct 1846"	Evening	Red
-Dundee	56.462018	-2.970721	"Slavery, 23 Oct 1846"	Evening.	Red
-Perth	56.394994	-3.430838	"Slavery, 24 Oct 1846"	Morning?	Red
-Aberdeen	57.149717	-2.094278	"Slavery, 24 Oct 1846"	Evening	Red
-Liverpool	53.408371	-2.991573	"Slavery, 26 Oct 1846"	"Concert Hall, Lord Nelson Street, evening. Meeting of the Antislavery League, 2,500 people. George Thompson, William Lloyd Garrison there too. Ended 10.45pm."	Red
-Glasgow	55.864237	-4.251806	"Slavery, Free Church & Evangelical Alliance, 28 Oct 1846"	"Evening, 7.30pm. George Thompson and William Lloyd Garrison there too. 4,000 people there."	Red
-Edinburgh	55.953252	-3.188267	"Slavery, 29 Oct 1846"	Evening	Red
-Rochdale	53.609714	-2.1561	"Slavery, 10 Nov 1846"	"Public Hall, evening. Henry Clarke Wright there too for Antislavery League meeting."	Red
-Rochdale	53.609714	-2.1561	"Slavery, 11 Nov 1846"	“Public Hall, morning - Ladies meeting, branch of Antislavery League formed."	Red
-Rochdale	53.609714	-2.1561	"Slavery, 11 Nov 1846"	“Public Hall, evening.”	Red
-Stockport	53.410632	-2.157533	"Slavery, 13 November 1846"	Evening	Red
-Warrington	53.390044	-2.59695	"Slavery, 17 Nov 1846"	Evening	Red
-Bacup	53.707167	-2.201259	“Slavery, 23 November 1846”	Evening	Red
-Oldham	53.54093	-2.111366	"Slavery, 25 Nov 1846"	Evening	Red
-Manchester	53.480759	-2.242631	"Slavery, 1 Dec 1846"	"Corn Exchange, Hanging Ditch. Evening, 7.30pm. Antislavery League Meeting."	Red
-Manchester	53.480759	-2.242631	"Slavery, 4 Dec 1846"	"Corn Exchange, Hanging Ditch, 7.30pm. Antislavery League meeting."	Red
-Ashton-under-Lyne	53.487682	-2.096108	"Slavery, 10 Dec 1846"	Evening	Red
-Ashton-under-Lyne	53.487682	-2.096108	"Slavery, 11 Dec 1846"	Evening	Red
-Birmingham	52.486243	-1.890401	"Slavery, Mid December 1846"	Evening	Red
-Manchester	53.480759	-2.242631	"Slavery, 22 Dec 1846"	Evening	Red
-Leeds	53.800755	-1.549077	"Slavery, 23 December 1846”	Evening	Red
-Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 28 Dec 1846"	"Music Hall, Albion Street, evening. Meeting of the Newcastle branch of the Antislavery League. 700 people there."	Red
-Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 29 Dec 1846"	Music Hall, evening	Red
-Sunderland	54.906869	-1.383801	"Slavery, 30 Dec 1846"	Evening	Red
-Hexham	54.972665	-2.112144	"Slavery, 31 Dec 1846"	Evening	Red
-Hexham	54.972665	-2.112144	"Slavery, 1 January 1847“	Evening	Red
-Carlisle	54.892473	-2.932931	"Slavery, 2 January 1847“	Evening	Red
-Shields	54.971623	-1.415438	“Slavery, 4 January 1847”	Evening?	Red
-Darlington	54.52361	-1.559458	"Slavery, 11 Jan 1847"	"Assembly Room, evening. ""Great confusion"" and ""a scene of tumult and uproar"" after Douglass' comments about the Evangelical Alliance"	Red
-Kirkstall	53.815784	-1.601734	“Slavery, 13 January 1847”	Evening?	Red
-Leeds	53.800755	-1.549077	"Slavery, 14 Jan 1847"	"Music Hall, Albion Street. 7pm. Antislavery League, Mayor there. 6p to orchestra and reserved seats. Formed a branch of the Antislavery League at Leeds. 3 hours, 11pm finish."	Red
-Manchester	53.480759	-2.242631	"Slavery, 18 Jan 1847"	Corn Exchange, evening	Red
-Manchester	53.480759	-2.242631	"Slavery, 19 Jan 1847”	Baptist Chapel, Grosvenor Street, evening	Red
-Coventry	52.406822	-1.519693	"Slavery, 21 Jan 1847"	Evening	Red
-Coventry	52.406822	-1.519693	"Slavery, 24 Jan 1847"	"Vicar Lane Chapel, evening. Douglass' speech lasted 1hr 15mins."	Red
-Coventry	52.406822	-1.519693	"Slavery, 2 Feb 1847"	St. Mary’s Hall Chapel, evening	Red
-London	51.507351	-0.127758	"Slavery, Mon 10 February 1847”	Hall of Commerce, evening	Red
-Pentonville	51.530994	-0.110682	“Slavery, 12 February 1847”	British School Room, evening	Red
-Leamington	52.285191	-1.520079	“Slavery, 23 February 1847”	Evening	Red
-Winchester	51.059771	-1.310142	“Slavery, 25 February 1847”	Independent Chapel, evening	Red
-Camberwell	51.474085	-0.093014	“Slavery, 26 February 1847”	Mansion House Chapel, evening	Red
-London	51.507351	-0.127758	“Slavery, 4 March 1847”	Finsbury Chapel, evening	Red
-Camberwell	51.474085	-0.093014	“Slavery, 5 March 1847”	Mansion House, evening	Red
-Colchester	51.895927	0.891874	“Slavery, 6-7 March 1847”	Evening	Red
-Warrington	53.390044	-2.59695	"Slavery, 9 March 1847"	"Mechanic's Lecture Hall, evening. ""Celebrated fugitive slave."""	Red
-Cumberland	51.528339	-0.236530	“Slavery, 17 March 1847”	Evening	Red
-Sheffield	53.381129	-1.470085	"Slavery/Farewell, 25 March 1847"	"Theatre, 7.30pm. Crowded meeting."	Red
-Northampton	52.240477	-0.902656	"Slavery/Farewell, 29 March 1847"	"New Hall, Newland. Evening. ""Respectable"" audience, including Mayor. 11pm finish."	Red
-London	51.507351	-0.127758	"Slavery, 30 March 1847“	“London Tavern, Strand. 6pm chair.”	Red
-Huddersfield	53.645792	-1.785035	“Slavery, 31 March 1847”	Philosophical Hall, evening	Red
-Bristol	51.454513	-2.58791	"Slavery, 1 April 1847”	“Broadmead Rooms, evening.”	Red
-Halifax	53.72702	-1.85754	"Slavery, 29 Nov 1859"	"Mechanics Hall, probably evening.”	Red
-Halifax	53.72702	-1.85754	"Slavery, 30 Nov 1859"	"Mechanics Hall, evening.”	Red
-Halifax	53.72702	-1.85754	"Slavery, 7 Dec 1859"	"Mechanics Hall, evening.”	Red
-Halifax	53.72702	-1.85754	"Slavery, 13 Dec 1859"	"Mechanics Hall, evening.”	Red
-Sheffield	53.381129	-1.470085	"Slavery, 19 Dec 1859"	"Temperance Hall, Townhead St. Evening. Discusses John Brown, and pro-slavery feeling in Sheffield."	Red
-Leeds	53.800755	-1.549077	"Slavery & John Brown, with Sarah Remond. 22 Dec 1859"	"Music Hall, evening. Annual meeting of Leeds Young Men's Antislavery Society."	Red
-Halifax	53.72702	-1.85754	"Slavery and John Brown, 28 Dec 1859"	"Mechanics Hall, evening.”	Red
-Halifax	53.72702	-1.85754	"Slavery, 4 Jan 1860“	"Mechanics Hall, evening.”	Red
-Bradford	53.795984	-1.759398	"Slavery, 6 Jan 1860"	"Mechanics Institute, evening. Meeting of the Young Men's Christian Association and the working class. Denounces pro-slavery feeling in the UK, and defends John Brown's position but condemns his actions."	Red
-Wakefield	53.683298	-1.505924	"Slavery, with Sarah Remond. 12 Jan 1860"	"Corn Exchange Buildings, evening. 1.500 people there. Committee to be formed in Wakefield for antislavery."	Red
-Sheffield	53.381129	-1.470085	"Slavery, 16 Jan 1860”	“Corn Exchange, evening	Red
-Liverpool	53.408371	-2.991573	"Slavery, 19 Jan 1860"	"Hope Hall, Hope Street, 8pm.”	Red
-Perth	56.394994	-3.430838	“Slavery, c.20 January-18 February 1860”	Evening	Red
-Arbroath	56.559107	-2.591543	"Slavery, c.20 January-18 February 1860”	Evening	Red
-Kilmarnock	55.614719	-4.498792	“Slavery, c.20 January-18 February 1860“	Evening	Red
-Paisley	55.847258	-4.440114	"Slavery, 26 January 1860”	Abbey Close, evening	Red
-Edinburgh	55.953252	-3.188267	"Slavery, 30 Jan 1860”	Queen Street Hall, evening	Red
-Glasgow	55.864237	-4.251806	"Slavery, 31 Jan 1860"	Evening	Red
-Paisley	55.847258	-4.440114	"Slavery, 3 February 1860”	Evening	Red
-Paisley	55.847258	-4.440114	"Slavery, 6 February 1860”	Evening	Red
-Falkirk	56.001878	-3.783913	“Slavery, 7 February 1860”	Free Church, 8pm	Red
-Dalkeith	55.893118	-3.066606	“Slavery, 9 February 1860”	Free Church, 8pm	Red
-Montrose	56.706922	-2.466115	"Slavery, 10 February 1860”	Evening	Red
-Dundee	56.462018	-2.970721	"Slavery, 13 Feb 1860"	"Corn Exchange Hall, evening - 7pm. Meeting of the Dundee Ladies' Antislavery Association. Denounces minstrelsy in the UK and gave a ""spirit-stirring oration."""	Red
-Glasgow	55.864237	-4.251806	"Slavery, 14 Feb 1860"	John Street United Presbyterian Church, 7pm	Red
-Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 19 Feb 1860"	"Afternoon, Lecture Room, Nelson Street. ""Crowded to the door by a respectable audience"", many of whom were unable to purchase tickets. Collection at the end to assist the Underground Railroad."	Red
-North Shields	55.010762	-1.449138	"Slavery, 21 Feb 1860"	"Evening, Albion Assembly Rooms, Norfolk St. Defended John Brown."	Red
-Hexham	54.972665	-2.112144	"Slavery, 22 February 1860“	Scotch Church, evening	Red
-Newcastle upon Tyne	54.978252	-1.61778	"Slavery, 23 February 1860”	Lecture Room, Nelson Street, evening	Red
-Morpeth	55.16875	-1.687493	"Slavery, 24 February 1860"	"Evening. Independent Chapel, Mayor presided and a collection was made for assistance of fugitive slaves."	Red
-Cullercoats	55.031646	-1.440003	“Slavery, 25 February 1860”	Infant School Room, evening	Red
-Halifax	53.72702	-1.85754	"Slavery, 28 Feb 1860“	“New Church, Square Road, evening?”	Red
-Wortley	53.786030	-1.588549	“Slavery, 9 March 1860”	Wesleyan Free Church, Greenside, evening	Red
-Leeds	53.800755	-1.549077	"Slavery, 12 March 1860"	"Evening."	Red
-Bradford	53.795984	-1.759398	"Self-Made Men, 13 March 1860"	“Mechanics Institute, evening, meeting of the Young Men's Christian Association."	Red
-Leeds	53.800755	-1.549077	"Slavery, 16 March 1860"	Stock Exchange Hall, 8pm	Red
-Glasgow	55.864237	-4.251806	"Slavery & American Constitution, 26 March 1860"	"Evening, Queen's Rooms. Douglass discussed the differences between himself and William Lloyd Garrison"	Red
-Ayr	55.458564	-4.629179	"Slavery, Mon 23 March 1846"	“U.P. Church, Catheart Street, evening	Red
-Glasgow	55.864237	-4.251806	"Slavery, 28 March 1860"	East Campbell Street Church, evening	Red
-Glasgow	55.864237	-4.251806	"Slavery, 29 March 1860“	Evening	Red
-Perth	56.394994	-3.430838	“Slavery, 24 January 1846”	Evening	Red
-Perth	56.394994	-3.430838	“Slavery, 25 January 1846”	Evening	Red
-Glasgow	55.864237	-4.251806	“Slavery, 18 February 1846”	Ladies Meeting, 1pm	Red
-Montrose	56.706922	-2.466115	“Slavery, 26 February 1846”	Evening	Red
-Montrose	56.706922	-2.466115	“Slavery, 27 February 1846”	Evening	Red
-Montrose	56.706922	-2.466115	“Slavery, 28 February 1846”	Evening	Red
-Perth	56.394994	-3.430838	“Slavery, 12 March 1846”	Ladies Meeting	Red
-Fenwick	55.663378	-4.440772	“Slavery, 5 April 1846”	Possibly earlier, Secession Meeting House	Red
-Edinburgh	55.953252	-3.188267	“Slavery, 29 April 1846”	Ladies Meeting	Red
-Leith	55.975528	-3.16651	“Slavery, 28 May 1846”	Evening	Red
-Street	51.124679	-2.742919	“Slavery, 1886-1887”	Helen Bright Clark’s house	Red
+City	lat	lng	Title	Notes	Color
+
+Aboard the Cambria  53.974667   -15.007324  “August 1845”   Lecture on the steamship Cambria    Red
+Celbridge   53.33833    -6.53981    "31 August 1845"    Evening Red
+Dublin  53.349804   -6.26031    "3 September 1845"  Royal Exchange. Red
+Dublin  53.349804   -6.26031    "9 September 1845"  Friends' Meeting House, Eustace Street. Red
+Dublin  53.349804   -6.26031    "10 September 1845" Royal Exchange. Red
+Dublin  53.349804   -6.26031    "12 September 1845" Friends' Meeting House, Eustace Street. Red
+Dublin  53.349804   -6.26031    "16 September 1845" Richmond Gaol.  Red
+Dublin  53.349804   -6.26031    "17 September 1845" Music Hall, Abbey Street    Red
+Dublin  53.349804   -6.26031    "21 September 1845" Royal Canal Harbour.    Red
+Dublin  53.349804   -6.26031    "23 September 1845" Music Hall, Abbey Street.   Red
+Dublin  53.349804   -6.26031    "29 September 1845" Conciliation Hall.  Red
+Dublin  53.349804   -6.26031    "1 October 1845"    Music Hall, Abbey Street.   Red
+Dublin  53.349804   -6.26031    "3 October 1845"    Music Hall, Abbey Street.   Red
+Wexford 52.33923    -6.46004    "7 October 1845"    Evening.    Red
+Wexford 52.33923    -6.46004    "8 October 1845"    Evening.    Red
+Waterford   52.25679    -7.1292 "9 October 1845"    Evening.    Red
+Cork    51.896893   -8.486316   "13 October 1845"   Temperance Hall, Global Lane.   Red
+Cork    51.896893   -8.486316   "14 October 1845"   Lloyd's Hotel, morning. Red
+Cork    51.896893   -8.486316   "14 October 1845"   City Court House, 2pm.  Red
+Cork    51.896893   -8.486316   "17 October 1845"   Wesleyan Chapel, Patrick Street, afternoon. Red
+Cork    51.896893   -8.486316   "17 October 1845"   Independent Chapel, evening.    Red
+Cork    51.896893   -8.486316   "20 October 1845"   Temperance Institute.   Red
+Cork    51.896893   -8.486316   "21 October 1845"   Evening.    Red
+Cork    51.896893   -8.486316   "23 October 1845"   Imperial Hotel, afternoon.  Red
+Cork    51.896893   -8.486316   "27 October 1845"   Independent Chapel, evening.    Red
+Cork    51.896893   -8.486316   "28 October 1845"   Saint Patrick's Temperance Hall.    Red
+Cork    51.896893   -8.486316   "3 November 1845"   Independent Chapel, George's Street.    Red
+Cork    51.896893   -8.486316   "10 November 1845"  Independent Chapel, Belford Row.    Red
+Limerick    52.66386    -8.62677    "21 November 1845"  Philosophical Rooms, Glentworth Street. Red
+Belfast 54.597286   -5.93012    "5 December 1845"   Independent Church, Donegall Street.    Red
+Belfast 54.597286   -5.93012    "9 December 1845"   Wesleyan Methodist Church.  Red
+Belfast 54.597286   -5.93012    "11 December 1845"  Presbyterian Meeting House, Donegall Street.    Red
+Belfast 54.597286   -5.93012    "12 December 1845"  Presbyterian Church, Rosemary Street.   Red
+Birmingham  52.486244   -1.890401   "16 December 1845"  Town Hall.  Red
+Belfast 54.597286   -5.93012    "23 December 1845"  Independent Meeting House, Donegall Street. Red
+Belfast 54.597286   -5.93012    "26 December 1845"  Presbyterian Meeting House, Donegall Street.    Red
+Lisburn 54.510948   -6.04276    "29 December 1845"  Presbyterian Church.    Red
+Holywood    54.64244    -5.82999    "31 December 1845"  Evening.    Red
+Belfast 54.597286   -5.93012    "1 January 1846"    Wesleyan Meeting House, Donegall Street.    Red
+Belfast 54.597286   -5.93012    "2 January 1846"    Methodist Meeting House, Donegall Street.   Red
+Belfast 54.597286   -5.93012    "6 January 1846"    Commercial Rooms, morning.  Red
+Belfast 54.597286   -5.93012    "6 January 1846"    Lancesterian School Rooms, evening. Red
+Glasgow 55.864239   -4.251806   "15 January 1846"   City Hall.  Red
+Glasgow 55.864239   -4.251806   "22 January 1846"   City Hall.  Red
+Perth   56.39534    -3.43466    "23 January 1846"   City Hall.  Red
+Perth   56.39534    -3.43466    "24 January 1846"   Evening.    Red
+Perth   56.39534    -3.43466    "25 January 1846"   Evening.    Red
+Perth   56.39534    -3.43466    "26 January 1846"   City Hall, evening. Red
+Dundee  56.46143    -2.96811    "27 January 1846"   School Wynd Chapel. Red.
+Dundee  56.46143    -2.96811    "28 January 1846"   School Wynd Chapel. Red.
+Dundee  56.46143    -2.96811    "29 January 1846"   School Wynd Chapel. Red.
+Dundee  56.46143    -2.96811    "30 January 1846"   Bell Street Chapel. Red
+Dundee  56.46143    -2.96811    "9 February 1846"   Tay Square Chapel.  Red
+Arbroath    56.561668   -2.57943    "10 February 1846"  Trades' Hall.   Red
+Arbroath    56.561668   -2.57943    "11 February 1846"  Abbey Church.   Red
+Arbroath    56.561668   -2.57943    "12 February 1846"  Abbey Church.   Red
+Glasgow 55.864239   -4.251806   "18 February 1846"  City Hall, afternoon.   Red
+Glasgow 55.864239   -4.251806   "18 February 1846"  City Hall, evening. Red
+Montrose    56.70927    -2.4674 "26 February 1846"  Evening.    Red
+Montrose    56.70927    -2.4674 "27 February 1846"  Evening.    Red
+Montrose    56.70927    -2.4674 "28 February 1846"  Evening.    Red
+Dundee  56.46143    -2.96811    "March 1846"    Evening.    Red
+Dundee  56.46143    -2.96811    "March 1846"    Evening.    Red
+Aberdeen    57.149715   -2.094278   "Early March 1846"  Music Hall, George Street.  Red
+Aberdeen    57.149715   -2.094278   "Early March 1846"  Assembly Rooms, Union Street.   Red
+Glasgow 55.864239   -4.251806   "1 March 1846"  Assembly, afternoon.    Red
+Montrose    56.70927    -2.4674 "9 March 1846"  Rev. H. Hyslop's Chapel.    Red
+Dundee  56.46143    -2.96811    "10 March 1846" School Wynd Chapel. Red
+Perth   56.39534    -3.43466    "12 March 1846" City Hall, afternoon.   Red
+Perth   56.39534    -3.43466    "12 March 1846" City Hall, evening. Red
+Paisley 55.845421   -4.42359    "17 March 1846" Rev. William Nisbet's Church, Abbey Close.  Red
+Paisley 55.845421   -4.42359    "19 March 1846" Rev. William Nisbet's Church, Abbey Close.  Red
+Paisley 55.845421   -4.42359    "20 March 1846" Rev. William Nisbet's Church, Abbey Close.  Red
+Ayr 55.46357    -4.63319    "23 March 1846" Relief Church.  Red
+Ayr 55.46357    -4.63319    "24 March 1846" Relief Church.  Red
+Paisley 55.845421   -4.42359    "30 March 1846" Secession Church, Abbey Close.  Red
+Bonhill 55.9816 -4.56544    "31 March 1846" Evening.    Red
+Fenwick 55.65632    -4.44536    "5 April 1846"  Secession Meeting House.    Red
+Paisley 55.845421   -4.42359    "6 April 1846"  Secession Church, Abbey Close.  Red
+Greenock    55.94804    -4.76033    "10 April 1846" West Blackhall Street Chapel.   Red
+Paisley 55.845421   -4.42359    "17 April 1846" Exchange Rooms. Red
+Glasgow 55.864239   -4.251806   "21 April 1846" City Hall.  Red
+Glasgow 55.864239   -4.251806   "23 April 1846" Assembly Rooms, afternoon.  Red
+Glasgow 55.864239   -4.251806   "23 April 1846" Assembly Rooms, evening.    Red
+Edinburgh   55.953251   -3.188267   "28 April 1846" Rev. Mr Gilchrist's Church, Rose Street.    Red
+Edinburgh   55.953251   -3.188267   "29 April 1846" Rev. Mr Gilchrist's Church, Rose Street.    Red
+Edinburgh   55.953251   -3.188267   "1 May 1846"    Waterloo Rooms, afternoon.  Red
+Edinburgh   55.953251   -3.188267   "7 May 1846"    Rev. Mr Gilchrist's Church, Rose Street.    Red
+Edinburgh   55.953251   -3.188267   "8 May 1846"    Music Hall. Red
+London  51.507351   -0.127758   "18 May 1846"   Freemason's Hall.   Red
+London  51.507351   -0.127758   "19 May 1846"   Finsbury Chapel.    Red
+London  51.507351   -0.127758   "20 May 1846"   Crown and Anchor Tavern.    Red
+London  51.507351   -0.127758   "21 May 1846"   Exeter Hall.    Red
+London  51.507351   -0.127758   "22 May 1846"   Finsbury Chapel.    Red
+Edinburgh   55.953251   -3.188267   "25 May 1846"   Music Hall. Red
+Edinburgh   55.953251   -3.188267   "26 May 1846"   Music Hall. Red
+Edinburgh   55.953251   -3.188267   "27 May 1846"   Music Hall. Red
+Leith   55.97979    -3.17367    "28 May 1846"   Evening.    Red
+Kirkcaldy   56.11283    -3.16073    "1 June 1846"   Bethelfields Chapel.    Red
+Edinburgh   55.953251   -3.188267   "2 June 1846"   Music Hall. Red
+Edinburgh   55.953251   -3.188267   "3 June 1846"   Music Hall. Red
+Edinburgh   55.953251   -3.188267   "4 June 1846"   Music Hall. Red
+Belfast 54.597286   -5.93012    "16 June 1846"  Rev. Nelson's Church, Donegall Street.  Red
+Birmingham  52.486244   -1.890401   "29 June 1846"  Ebenezer Chapel.    Red
+Worcester   52.192039   -2.22353    "30 June 1846"  Lecture Room, Natural History Society.  Red
+Manchester  53.480759   -2.242631   "2 July 1846"   Town Hall, morning. Red
+Manchester  53.480759   -2.242631   "3 July 1846"   Evening.    Red
+Belfast 54.597286   -5.93012    "5 July 1846"   Evening.    Red
+Belfast 54.597286   -5.93012    "8 July 1846"   Primitive Wesleyan Chapel.  Red
+Belfast 54.597286   -5.93012    "10 July 1846"  Methodist Chapel, Donegall Place.   Red
+Bangor  54.65369    -5.67438    "13 July 1846"  First Presbyterian Church.  Red
+Belfast 54.597286   -5.93012    "22 July 1846"  Independent Church, Donegall Street.    Red
+Edinburgh   55.953251   -3.188267   "31 July 1846"  Brighton Street Church. Red
+Cullercoats 55.034908   -1.43307    "August 1846?"  Red
+Stockwell   51.468125   -0.121991   "August 1846?"  Red
+Newcastle   54.978252   -1.61778    "2 August 1846" Red
+Newcastle   54.978252   -1.61778    "3 August 1846" Salem Methodist Church, Hood Street.    Red
+North Shields   "55.0103    -1.44464    "4 August 1846" Baptist Chapel, Howard Street.  Red
+London  51.507351   -0.127758   "6 August 1846" Literary Institution, Aldersgate Street.    Red
+London  51.507351   -0.127758   "7 August 1846" Covent Garden Theatre.  Red
+London  51.507351   -0.127758   "10 August 1846"    Crown and Anchor Tavern.    Red
+Newcastle   54.978252   -1.61778    "13 August 1846"    Salem Methodist Church, Hood Street.    Red
+Carlisle    54.892471   -2.932931   "14 August 1846"    Athenaeum, Lowther Street.  Red
+London  51.507351   -0.127758   "17 August 1846"    Crown and Anchor Tavern.    Red
+London  51.507351   -0.127758   "19 August 1846"    Meeting of the London Flogging Abolition Society.   Red
+Carlisle    54.892471   -2.932931   "21 August 1846"    Athenaeum, Lowther Street.  Red
+Bristol 51.454514   -2.58791    "24 August 1846"    Evening.    Red
+Bristol 51.454514   -2.58791    "25 August 1846"    Blind Asylum.   Red
+Bristol 51.454514   -2.58791    "25 August 1846"    Victoria Rooms, evening.    Red
+Bristol 51.454514   -2.58791    "26 August 1846"    Victoria Rooms. Red
+Bristol 51.454514   -2.58791    "27 August 1846"    Victoria Rooms. Red
+Exeter  50.721802   -3.53362    "28 August 1846"    Subscription Rooms. Red
+Exeter  50.721802   -3.53362    "29 August 1846"    Subscription Rooms. Red
+Taunton 51.014648   -3.10345    "30 August 1846"    Public Hall.    Red
+Bridgwater  51.12756    -300403 "31 August 1846"    Public Rooms.   Red
+Bristol 51.454514   -2.58791    "2 September 1846"  Public Rooms, Broadmead.    Red
+Worcester   52.192039   -2.22353    "3 September 1846"  Lecture Room, Natural History Society.  Red
+Birmingham  52.486244   -1.890401   "4 September 1846"  Livery Street Chapel.   Red
+Birmingham  52.486244   -1.890401   "5 September 1846"  Evening.    Red
+Birmingham  52.486244   -1.890401   "6 September 1846"  Evening.    Red
+Carlisle    54.892471   -2.932931   "7 September 1846"  Athenaeum, Lowther Street.  Red
+North Shields   55.0103 -1.44464    "8 September 1846"  Baptist Chapel. Red
+Sheffield   53.38113    -1.470085   "10 September 1846" Evening.    Red
+Sheffield   53.38113    -1.470085   "11 September 1846" Friend's Meeting House. Red
+London  51.507351   -0.127758   "14 September 1846" Exeter Hall.    Red
+Sunderland  54.906868   -1.383801   "18 September 1846" Athenaeum Hall. Red
+Greenock    55.94804    -4.76033    "22 September 1846" Evening.    Red
+Paisley 55.845421   -4.42359    "23 September 1846" Secession Church, George Street.    Red
+Edinburgh   55.953251   -3.188267   "24 September 1846" Brighton Street Church. Red
+Edinburgh   55.953251   -3.188267   "25 September 1846" Evening.    Red
+Dundee  56.46143    -2.96811    "28 September 1846" Bell Street Chapel. Red
+Edinburgh   55.953251   -3.188267   "29 September 1846" Evening.    Red
+Glasgow 55.864239   -4.251806   "30 September 1846" City Hall, evening. Red
+Southport   53.647301   -3.00733    "October 1846"  Evening.    Red
+Glasgow 55.864239   -4.251806   "1 October 1846"    Afternoon.  Red
+Glasgow 55.864239   -4.251806   "1 October 1846"    Evening.    Red
+Glasgow 55.864239   -4.251806   "2 October 1846"    Eagle Temperance Hall"  Morning.    Red
+Kilmarnock  55.614719   -4.498792   "2 October 1846"    Afternoon.  Red
+Belfast 54.597286   -5.93012    "3 October 1846"    Music Hall. Red
+Belfast 54.597286   -5.93012    "6 October 1846"    Independent Church, Donegall Street.    Red
+Dublin  53.349804   -6.26031    "7 October 1846"    Music Hall. Red
+Wrexham 53.046909   -2.99167    "9 October 1846"    Town Hall.  Red
+Manchester  53.480759   -2.242631   "12 October 1846"   Free Trade Hall, Peter Street.  Red
+Rochdale    53.609715   -2.1561 "14 October 1846"   Public Hall.    Red
+Rochdale    53.609715   -2.1561 "15 October 1846"   Public Hall.    Red
+Newcastle   54.978252   -1.61778    "16 October 1846"   Evening.    Red
+Liverpool   53.408371   -2.991573   "19 October 1846"   Concert Hall.   Red
+Edinburgh   55.953251   -3.188267   "21 October 1846"   Brighton Street Church. Red
+Kirkcaldy   56.11283    -3.16073    "22 October 1846"   Evening.    Red
+Dundee  56.46143    -2.96811    "23 October 1846"   James' Chapel, Bell Street. Red
+Perth   56.39534    -3.43466    "24 October 1846"   Morning/afternoon.  Red
+Perth   56.39534    -3.43466    "26 October 1846"   Concert Hall.   Red
+Glasgow 55.864239   -4.251806   "28 October 1846"   City Hall.  Red
+Edinburgh   55.953251   -3.188267   "29 October 1846"   Evening.    Red
+Rochdale    53.609715   -2.1561 "10 November 1846"  Public Hall.    Red
+Rochdale    53.609715   -2.1561 "11 November 1846"  Public Hall, morning.   Red
+Rochdale    53.609715   -2.1561 "11 November 1846"  Public Hall, evening.   Red
+Stockport   53.408489   -2.14929    "13 November 1846"  Evening.    Red
+Warrington  53.390045   -2.59695    "17 November 1846"  Evening.    Red
+Bacup   53.703129   -2.20001    "23 November 1846"  Evening.    Red
+Oldham  53.541248   -2.11766    "25 November 1846"  Evening.    Red
+Manchester  53.480759   -2.242631   "1 December 1846"   Corn Exchange, Hanging Ditch.   Evening.    Red
+Manchester  53.480759   -2.242631   "4 December 1846"   Corn Exchange, Hanging Ditch.   Evening.    Red
+Ashton-Under-Lyne   53.487549   -2.09777    "10 December 1846"  Evening.    Red
+Ashton-Under-Lyne   53.487549   -2.09777    "11 December 1846"  Evening.    Red
+Birmingham  52.486244   -1.890401   "Mid December 1846" Evening.    Red
+Manchester  53.480759   -2.242631   "22 December 1846"  Evening.    Red
+Leeds   53.800755   -1.549077   "23 December 1846"  Evening.    Red
+Newcastle   54.978252   -1.61778    "28 December 1846"  Music Hall, Albion Street.  Evening.    Red
+Newcastle   54.978252   -1.61778    "29 December 1846"  Music Hall, Albion Street.  Evening.    Red
+Sunderland  54.906868   -1.383801   "30 December 1846"  Music Hall. Evening.    Red
+Hexham  54.970219   -2.09792    "31 December 1846"  Evening.    Red
+Gateshead   54.952679   -1.603411   "December 1846 or January 1847" Evening.    Red
+Hexham  54.970219   -2.09792    "1 January 1847"    Evening.    Red
+Carlisle    54.892471   -2.932931   "2 January 1847"    Evening.    Red
+South Shields   54.9958 -1.4277 "4 January 1847"    Evening.    Red
+Darlington  54.528728   -1.55305    "11 January 1847"   Assembly Rooms. Red
+Kirkstall   53.81558    -1.6088 "13 January 1847"   Evening.    Red
+Leeds   53.800755   -1.549077   "14 January 1847"   Music Hall, Albion Street.  Red.
+Manchester  53.480759   -2.242631   "18 January 1847"   Corn Exchange.  Red
+Manchester  53.480759   -2.242631   "19 January 1847"   Baptist Chapel, Grosvenor Street.   Red
+Coventry    52.406311   -1.50852    "21 January 1847"   Evening.    Red
+Coventry    52.406311   -1.50852    "24 January 1847"   Vicar Lane Chapel.  Red
+Coventry    52.406311   -1.50852    "2 February 1847"   St. Mary's Hall Chapel. Red
+London  51.507351   -0.127758   "10 February 1847"  Hall of Commerce.   Red
+Pentonville 51.531868   -0.108683   "12 February 1847"  British School Room.    Red
+Leamington  52.291988   -1.53578    "13 February 1847"  Evening.    Red
+Leamington  52.291988   -1.53578    "23 February 1847"  Evening.    Red
+Winchester  51.059772   -1.310142   "25 February 1847"  Independent Chapel. Red
+Camberwell  51.474159   -0.09318    "26 February 1847"  Mansion House Chapel.   Red
+Wakefield   53.683296   -1.505924   "Early March 1847"  Evening.    Red
+Colchester  51.895927   0.891874    "Early March 1847"  Evening.    Red
+Warrington  53.390045   -2.59695    "Early March 1847"  Mechanic's Lecture Hall.    Red
+Leicester   52.636869   -1.139759   "2 March 1847"  New Hall.   Red
+London  51.507351   -0.127758   "4 March 1847"  Finsbury Chapel.    Red
+Camberwell  51.474159   -0.09318    "5 March 1847"  Mansion House.  Red
+Nottingham  52.954784   -1.158109   "8? March 1847" Exchange Rooms. Red
+Sheffield   53.38113    -1.470085   "25 March 1847" Theatre.    Red
+Northampton 52.23484    -0.89732    "29 March 1847" New Hall.   Red
+London  51.507351   -0.127758   "30 March 1847" London Tavern.  Red
+Huddersfield    53.64579    -1.785035   "31 March 1847" Philosophical Hall. Red
+Bradford    53.795982   -1.759398   "January-March 1847?"   Red
+Halifax 53.72438    -1.86158    "January-March 1847?" Red
+Doncaster 53.523041 -1.13376 "January-March 1847?"  Red
+Mansfield   53.143871   -1.19911    "January-March 1847?"   Red
+Derby   52.921902   -1.47564    "January-March 1847?"   Red
+Rugby   52.370876   -1.265032   "January-March 1847?"   Red
+Bristol 51.454514   -2.58791    "January-March 1847?"   Red
+Halifax 53.72438    -1.86158    "29 November 1859"  Mechanics Hall. Red
+Halifax 53.72438    -1.86158    "30 November 1859"  Mechanics Hall. Red
+Halifax 53.72438    -1.86158    "7 December 1859"   Mechanics Hall. Red
+Halifax 53.72438    -1.86158    "13 December 1859"  Mechanics Hall. Red
+Sheffield   53.38113    -1.470085   "19 December 1859"  Temperance Hall, Townhead Street.   Red
+Leeds   53.800755   -1.549077   "22 December 1859"  Music Hall. Red
+Halifax 53.72438    -1.86158    "28 December 1859"  Mechanics Hall. Red
+Manchester  53.480759   -2.242631   "December 1859 or January 1860" Evening.    Red
+Stockport   53.408489   -2.14929    "December 1859 or January 1860" Evening.    Red
+Oldham  53.541248   -2.11766    "December 1859 or January 1860" Evening.    Red
+Huddersfield    53.64579    -1.785035   "December 1859 or January 1860" Evening.    Red
+Hull    53.74567    -0.336741   "December 1859 or January 1860" Evening.    Red
+York    53.959965   -1.087298   "December 1859 or January 1860" Evening.    Red
+Halifax 53.72438    -1.86158    "December 1859 or January 1860" Evening.    Red
+Bradford    53.795982   -1.759398   "6 January 1860"    Mechanics Institute.    Red
+Wakefield   53.683296   -1.505924   "12 January 1860"   Corn Exchange Buildings.    Red
+Sheffield   53.38113    -1.470085   "16 January 1860"   Temperance Hall, Townhead Street.   Red
+Liverpool   53.408371   -2.991573   "19 January 1860"   Hope Hall, Hope Street. Red
+Perth   56.39534    -3.43466    "Late January 1860" Evening.    Red
+Arbroath    56.561668   -2.57943    "Late January 1860" Evening.    Red
+Kilmarnock  55.614719   -4.498792   "Late January 1860" Evening.    Red
+Paisley 55.845421   -4.42359    "26 January 1860"   Abbey Close.    Red
+Edinburgh   55.953251   -3.188267   "30 January 1846"   Queen Street Hall.  Red
+Glasgow 55.864239   -4.251806   "31 January 1860"   Evening.    Red
+Gateshead   54.952679   -1.603411   "February 1860" Evening.    Red
+Aberdeen    57.149715   -2.094278   "February 1860" Evening.    Red
+Greenock    55.94804    -4.76033    "February 1860" Evening.    Red
+Paisley 55.845421   -4.42359    "3 February 1860"   Evening.    Red
+Paisley 55.845421   -4.42359    "6 February 1860"   Evening.    Red
+Falkirk 56.00067    -3.78436    "7 February 1860"   Evening.    Red
+Dalkeith    55.8955 -3.06821    "9 February 1860"   Evening.    Red
+Montrose    56.70927    -2.4674 "10 February 1860"  Evening.    Red
+Dundee  56.46143    -2.96811    "13 February 1860"  Corn Exchange Hall. Evening.    Red
+Glasgow 55.864239   -4.251806   "14 February 1860"  John Street United Presbyterian Church. Evening.    Red
+Berwick 55.77042    -2.00527    "15? February 1860" High Meeting House. Evening.    Red
+Newcastle   54.978252   -1.61778    "19 February 1860"  Lecture Room, Nelson Street.    Afternoon.  Red
+North Shields   55.0103 -1.61778    "21 February 1860"  Albion Assembly Rooms, Norfolk Street.  Red
+Hexham  54.970219   -2.09792    "22 February 1860"  Scotch Church.  Red
+Newcastle   54.978252   -1.61778    "23 February 1860"  Lecture Room, Nelson Street.    Red
+Morpeth 55.169418   -1.69143    "24 February 1860"  Independent Chapel. Red
+Cullercoats 55.034908   -1.43307    "25 February 1860"  Infant School.  Red
+Halifax 53.72438    -1.86158    "28 February 1860"  New Church, Square Road.    Red
+Wortley 53.49027    -1.53793    "9 March 1860"  Wesleyan Free Church, Greenside.    Red
+Leeds   53.800755   -1.549077   "12 March 1860" Evening.    Red
+Bradford    53.795982   -1.759398   "13 March 1860" Mechanics' Institute.   Red
+Leeds   53.800755   -1.549077   "16 March 1860" Stock Exchange Hall.    Red
+Glasgow 55.864239   -4.251806   "26 March 1860" Queen's Rooms.  Evening.    Red
+Glasgow 55.864239   -4.251806   "28 March 1860" East Campbell Street Church.    Red
+Glasgow 55.864239   -4.251806   "29 March 1860" Evening.    Red
+Ayr 55.46357    -4.63319    "Late March 1860"   UP Church, Catheart Street. Red
+St. Neots   52.230083   -0.265103   "5 October 1886"    Julia Griffiths Crofts' School for Girls.   Red
+St. Neots   52.230083   -0.265103   "12 October 1886"   Corn Exchange.  Red
+Bridport    50.733212   -2.75495    "15 October 1886"   Town Hall.  Red
+Street  51.125452   -2.741208   "July 1887" Helen Bright Clark's House. Red

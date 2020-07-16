@@ -286,3 +286,4 @@ Fenwick	55.663378	-4.440772	“Slavery, 5 April 1846”	Possibly earlier, Secess
 Edinburgh	55.953252	-3.188267	“Slavery, 29 April 1846”	Ladies Meeting	Red
 Leith	55.975528	-3.16651	“Slavery, 28 May 1846”	Evening	Red
 Street	51.124679	-2.742919	“Slavery, 1886-1887”	Helen Bright Clark’s house	Red
+Street  51.125452   -2.741208   "June 1887" Helen's house. Red

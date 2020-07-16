@@ -1,4 +1,4 @@
 City	lat	lng	Title	Notes	Color
 Aboard	the	Cambria	53.974667	-15.007324	“August	1845”	Lecture	on	the	steamship	Cambria	Red
 Celbridge	53.33833	-6.53981	"31	August	1845"	Evening	Red
-Dublin	53.349804	-6.26031	"3	September	1845"	Royal	Exchange	Red
+Dublin	53.349804	-6.26031	"3	September	1845"	Royal	Exchange.	Red

@@ -1,2 +1,3 @@
+Location	Lat	Long	Description	Date	Color
 Lisburn	54.516246	-6.058011	"Slavery,	29	December	1845"	Presbyterian	Church.	7pm.	Red
 Nottingham	52.954783	-1.158109	"Slavery,	Tues	9	March	1847"	Evening	Exchange	Rooms.	Red

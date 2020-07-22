@@ -1,5 +1,283 @@
 City	lat	lng	Title	Notes	Color
-Lisburn	54.516246	-6.058011	"Slavery, 29 December 1845"	Presbyterian Church. 7pm.	Red
-Dublin	53.349805	-6.26031	31 August 1845	Lecture in the prison where Daniel O’Connell was confined	Red
-Dublin	53.349805	-6.26031	3 September 1845	Royal Exchange, evening	Red
-Dublin	53.349805	-6.26031	4 September 1845	Evening?	Red
+Aboard the Cambria	53.974667	-15.007324	August 1845	Lecture on the steamship Cambria	Red
+Celbridge	53.33833	-6.53981	31 August 1845	Evening	Red
+Dublin	53.349804	-6.26031	3 September 1845	Royal Exchange	Red
+Dublin	53.349804	-6.26031	9 September 1845	Friends' Meeting House, Eustace Street	Red
+Dublin	53.349804	-6.26031	10 September 1845	Royal Exchange	Red
+Dublin	53.349804	-6.26031	12 September 1845	Friends' Meeting House, Eustace Street	Red
+Dublin	53.349804	-6.26031	16 September 1845	Richmond Gaol	Red
+Dublin	53.349804	-6.26031	17 September 1845	Music Hall, Abbey Street	Red
+Dublin	53.349804	-6.26031	21 September 1845	Royal Canal Harbour	Red
+Dublin	53.349804	-6.26031	23 September 1845	Music Hall, Abbey Street	Red
+Dublin	53.349804	-6.26031	29 September 1845	Conciliation Hall	Red
+Dublin	53.349804	-6.26031	1 October 1845	Music Hall, Abbey Street	Red
+Dublin	53.349804	-6.26031	3 October 1845	Music Hall, Abbey Street	Red
+Wexford	52.33923	-6.46004	7 October 1845	Evening	Red
+Wexford	52.33923	-6.46004	8 October 1845	Evening	Red
+Waterford	52.25679	-7.1292	9 October 1845	Evening	Red
+Cork	51.896893	-8.486316	13 October 1845	Temperance Hall, Global Lane	Red
+Cork	51.896893	-8.486316	14 October 1845	Lloyd's Hotel, morning	Red
+Cork	51.896893	-8.486316	14 October 1845	City Court House, 2pm	Red
+Cork	51.896893	-8.486316	17 October 1845	Wesleyan Chapel, Patrick Street, afternoon	Red
+Cork	51.896893	-8.486316	17 October 1845	Independent Chapel, evening	Red
+Cork	51.896893	-8.486316	20 October 1845	Temperance Institute	Red
+Cork	51.896893	-8.486316	21 October 1845	Evening	Red
+Cork	51.896893	-8.486316	23 October 1845	Imperial Hotel, afternoon	Red
+Cork	51.896893	-8.486316	27 October 1845	Independent Chapel, evening	Red
+Cork	51.896893	-8.486316	28 October 1845	Saint Patrick's Temperance Hall	Red
+Cork	51.896893	-8.486316	3 November 1845	Independent Chapel, George's Street	Red
+Cork	51.896893	-8.486316	10 November 1845	Independent Chapel, Belford Row	Red
+Limerick	52.66386	-8.62677	21 November 1845	Philosophical Rooms, Glentworth Street	Red
+Belfast	54.597286	-5.93012	5 December 1845	Independent Church, Donegall Street	Red
+Belfast	54.597286	-5.93012	9 December 1845	Wesleyan Methodist Church	Red
+Belfast	54.597286	-5.93012	11 December 1845	Presbyterian Meeting House, Donegall Street	Red
+Belfast	54.597286	-5.93012	12 December 1845	Presbyterian Church, Rosemary Street	Red
+Birmingham	52.486244	-1.890401	16 December 1845	Town Hall	Red
+Belfast	54.597286	-5.93012	23 December 1845	Independent Meeting House, Donegall Street	Red
+Belfast	54.597286	-5.93012	26 December 1845	Presbyterian Meeting House, Donegall Street	Red
+Lisburn	54.510948	-6.04276	29 December 1845	Presbyterian Church	Red
+Holywood	54.64244	-5.82999	31 December 1845	Evening	Red
+Belfast	54.597286	-5.93012	1 January 1846	Wesleyan Meeting House, Donegall Street	Red
+Belfast	54.597286	-5.93012	2 January 1846	Methodist Meeting House, Donegall Street	Red
+Belfast	54.597286	-5.93012	6 January 1846	Commercial Rooms, morning	Red
+Belfast	54.597286	-5.93012	6 January 1846	Lancesterian School Rooms, evening	Red
+Glasgow	55.864239	-4.251806	15 January 1846	City Hall	Red
+Glasgow	55.864239	-4.251806	22 January 1846	City Hall	Red
+Perth	56.39534	-3.43466	23 January 1846	City Hall	Red
+Perth	56.39534	-3.43466	24 January 1846	Evening	Red
+Perth	56.39534	-3.43466	25 January 1846	Evening	Red
+Perth	56.39534	-3.43466	26 January 1846	City Hall, evening	Red
+Dundee	56.46143	-2.96811	27 January 1846	School Wynd Chapel	Red
+Dundee	56.46143	-2.96811	28 January 1846	School Wynd Chapel	Red
+Dundee	56.46143	-2.96811	29 January 1846	School Wynd Chapel	Red
+Dundee	56.46143	-2.96811	30 January 1846	Bell Street Chapel	Red
+Dundee	56.46143	-2.96811	9 February 1846	Tay Square Chapel	Red
+Arbroath	56.561668	-2.57943	10 February 1846	Trades' Hall	Red
+Arbroath	56.561668	-2.57943	11 February 1846	Abbey Church	Red
+Arbroath	56.561668	-2.57943	12 February 1846	Abbey Church	Red
+Glasgow	55.864239	-4.251806	18 February 1846	City Hall, afternoon	Red
+Glasgow	55.864239	-4.251806	18 February 1846	City Hall, evening	Red
+Montrose	56.70927	-2.4674	26 February 1846	Evening	Red
+Montrose	56.70927	-2.4674	27 February 1846	Evening	Red
+Montrose	56.70927	-2.4674	28 February 1846	Evening	Red
+Dundee	56.46143	-2.96811	March 1846	Evening	Red
+Dundee	56.46143	-2.96811	March 1846	Evening	Red
+Aberdeen	57.149715	-2.094278	Early March 1846	Music Hall, George Street	Red
+Aberdeen	57.149715	-2.094278	Early March 1846	Assembly Rooms, Union Street	Red
+Glasgow	55.864239	-4.251806	1 March 1846	Assembly, afternoon	Red
+Montrose	56.70927	-2.4674	9 March 1846	Rev. H. Hyslop's Chapel	Red
+Dundee	56.46143	-2.96811	10 March 1846	School Wynd Chapel	Red
+Perth	56.39534	-3.43466	12 March 1846	City Hall, afternoon	Red
+Perth	56.39534	-3.43466	12 March 1846	City Hall, evening	Red
+Paisley	55.845421	-4.42359	17 March 1846	Rev. William Nisbet's Church, Abbey Close	Red
+Paisley	55.845421	-4.42359	19 March 1846	Rev. William Nisbet's Church, Abbey Close	Red
+Paisley	55.845421	-4.42359	20 March 1846	Rev. William Nisbet's Church, Abbey Close	Red
+Ayr	55.46357	-4.63319	23 March 1846	Relief Church	Red
+Ayr	55.46357	-4.63319	24 March 1846	Relief Church	Red
+Paisley	55.845421	-4.42359	30 March 1846	Secession Church, Abbey Close	Red
+Bonhill	55.9816	-4.56544	31 March 1846	Evening	Red
+Fenwick	55.65632	-4.44536	5 April 1846	Secession Meeting House	Red
+Paisley	55.845421	-4.42359	6 April 1846	Secession Church, Abbey Close	Red
+Greenock	55.94804	-4.76033	10 April 1846	West Blackhall Street Chapel	Red
+Paisley	55.845421	-4.42359	17 April 1846	Exchange Rooms	Red
+Glasgow	55.864239	-4.251806	21 April 1846	City Hall	Red
+Glasgow	55.864239	-4.251806	23 April 1846	Assembly Rooms, afternoon	Red
+Glasgow	55.864239	-4.251806	23 April 1846	Assembly Rooms, evening	Red
+Edinburgh	55.953251	-3.188267	28 April 1846	Rev. Mr Gilchrist's Church, Rose Street	Red
+Edinburgh	55.953251	-3.188267	29 April 1846	Rev. Mr Gilchrist's Church, Rose Street	Red
+Edinburgh	55.953251	-3.188267	1 May 1846	Waterloo Rooms, afternoon	Red
+Edinburgh	55.953251	-3.188267	7 May 1846	Rev. Mr Gilchrist's Church, Rose Street	Red
+Edinburgh	55.953251	-3.188267	8 May 1846	Music Hall	Red
+London	51.507351	-0.127758	18 May 1846	Freemason's Hall	Red
+London	51.507351	-0.127758	19 May 1846	Finsbury Chapel	Red
+London	51.507351	-0.127758	20 May 1846	Crown and Anchor Tavern	Red
+London	51.507351	-0.127758	21 May 1846	Exeter Hall	Red
+London	51.507351	-0.127758	22 May 1846	Finsbury Chapel	Red
+Edinburgh	55.953251	-3.188267	25 May 1846	Music Hall	Red
+Edinburgh	55.953251	-3.188267	26 May 1846	Music Hall	Red
+Edinburgh	55.953251	-3.188267	27 May 1846	Music Hall	Red
+Leith	55.97979	-3.17367	28 May 1846	Evening	Red
+Kirkcaldy	56.11283	-3.16073	1 June 1846	Bethelfields Chapel	Red
+Edinburgh	55.953251	-3.188267	2 June 1846	Music Hall	Red
+Edinburgh	55.953251	-3.188267	3 June 1846	Music Hall	Red
+Edinburgh	55.953251	-3.188267	4 June 1846	Music Hall	Red
+Belfast	54.597286	-5.93012	16 June 1846	Rev. Nelson's Church, Donegall Street	Red
+Birmingham	52.486244	-1.890401	29 June 1846	Ebenezer Chapel	Red
+Worcester	52.192039	-2.22353	30 June 1846	Lecture Room, Natural History Society	Red
+Manchester	53.480759	-2.242631	2 July 1846	Town Hall, morning	Red
+Manchester	53.480759	-2.242631	3 July 1846	Evening	Red
+Belfast	54.597286	-5.93012	5 July 1846	Evening	Red
+Belfast	54.597286	-5.93012	8 July 1846	Primitive Wesleyan Chapel	Red
+Belfast	54.597286	-5.93012	10 July 1846	Methodist Chapel, Donegall Place	Red
+Bangor	54.65369	-5.67438	13 July 1846	First Presbyterian Church	Red
+Belfast	54.597286	-5.93012	22 July 1846	Independent Church, Donegall Street	Red
+Edinburgh	55.953251	-3.188267	31 July 1846	Brighton Street Church	Red
+Cullercoats	55.034908	-1.43307	August 1846?	Evening	Red
+Stockwell	51.468125	-0.121991	August 1846?	Evening	Red
+Newcastle	54.978252	-1.61778	2 August 1846	Evening	Red
+Newcastle	54.978252	-1.61778	3 August 1846	Salem Methodist Church, Hood Street	Red
+North Shields	55.0103	-1.44464	4 August 1846	Baptist Chapel, Howard Street	Red
+London	51.507351	-0.127758	6 August 1846	Literary Institution, Aldersgate Street	Red
+London	51.507351	-0.127758	7 August 1846	Covent Garden Theatre	Red
+London	51.507351	-0.127758	10 August 1846	Crown and Anchor Tavern	Red
+Newcastle	54.978252	-1.61778	13 August 1846	Salem Methodist Church, Hood Street	Red
+Carlisle	54.892471	-2.932931	14 August 1846	Athenaeum, Lowther Street	Red
+London	51.507351	-0.127758	17 August 1846	Crown and Anchor Tavern	Red
+London	51.507351	-0.127758	19 August 1846	Meeting of the London Flogging Abolition Society	Red
+Carlisle	54.892471	-2.932931	21 August 1846	Athenaeum, Lowther Street	Red
+Bristol	51.454514	-2.58791	24 August 1846	Evening	Red
+Bristol	51.454514	-2.58791	25 August 1846	Blind Asylum	Red
+Bristol	51.454514	-2.58791	25 August 1846	Victoria Rooms, evening	Red
+Bristol	51.454514	-2.58791	26 August 1846	Victoria Rooms, evening	Red
+Bristol	51.454514	-2.58791	27 August 1846	Victoria Rooms, evening	Red
+Exeter	50.721802	-3.53362	28 August 1846	Subscription Rooms	Red
+Exeter	50.721802	-3.53362	29 August 1846	Subscription Rooms	Red
+Taunton	51.014648	-3.10345	30 August 1846	Public Hall	Red
+Bridgwater	51.12756	-300403	31 August 1846	Public Rooms	Red
+Bristol	51.454514	-2.58791	2 September 1846	Public Rooms, Broadmead	Red
+Worcester	52.192039	-2.22353	3 September 1846	Lecture Room, Natural History Society	Red
+Birmingham	52.486244	-1.890401	4 September 1846	Livery Street Chapel	Red
+Birmingham	52.486244	-1.890401	5 September 1846	Evening	Red
+Birmingham	52.486244	-1.890401	6 September 1846	Evening	Red
+Carlisle	54.892471	-2.932931	7 September 1846	Athenaeum, Lowther Street	Red
+North Shields	55.0103	-1.44464	8 September 1846	Baptist Chapel	Red
+Sheffield	53.38113	-1.470085	10 September 1846	Evening	Red
+Sheffield	53.38113	-1.470085	11 September 1846	Friend's Meeting House	Red
+London	51.507351	-0.127758	14 September 1846	Exeter Hall	Red
+Sunderland	54.906868	-1.383801	18 September 1846	Athenaeum Hall	Red
+Greenock	55.94804	-4.76033	22 September 1846	Evening	Red
+Paisley	55.845421	-4.42359	23 September 1846	Secession Church, George Street	Red
+Edinburgh	55.953251	-3.188267	24 September 1846	Brighton Street Church	Red
+Edinburgh	55.953251	-3.188267	25 September 1846	Evening	Red
+Dundee	56.46143	-2.96811	28 September 1846	Bell Street Chapel	Red
+Edinburgh	55.953251	-3.188267	29 September 1846	Evening	Red
+Glasgow	55.864239	-4.251806	30 September 1846	City Hall, evening	Red
+Southport	53.647301	-3.00733	October 1846	Evening	Red
+Glasgow	55.864239	-4.251806	1 October 1846	Afternoon	Red
+Glasgow	55.864239	-4.251806	1 October 1846	Evening	Red
+Glasgow	55.864239	-4.251806	2 October 1846	Eagle Temperance Hall, morning	Red
+Kilmarnock	55.614719	-4.498792	2 October 1846	Afternoon	Red
+Belfast	54.597286	-5.93012	3 October 1846	Music Hall	Red
+Belfast	54.597286	-5.93012	6 October 1846	Independent Church, Donegall Street	Red
+Dublin	53.349804	-6.26031	7 October 1846	Music Hall	Red
+Wrexham	53.046909	-2.99167	9 October 1846	Town Hall	Red
+Manchester	53.480759	-2.242631	12 October 1846	Free Trade Hall, Peter Street	Red
+Rochdale	53.609715	-2.1561	14 October 1846	Public Hall	Red
+Rochdale	53.609715	-2.1561	15 October 1846	Public Hall	Red
+Newcastle	54.978252	-1.61778	16 October 1846	Evening	Red
+Liverpool	53.408371	-2.991573	19 October 1846	Concert Hall	Red
+Edinburgh	55.953251	-3.188267	21 October 1846	Brighton Street Church	Red
+Kirkcaldy	56.11283	-3.16073	22 October 1846	Evening	Red
+Dundee	56.46143	-2.96811	23 October 1846	James' Chapel, Bell Street	Red
+Perth	56.39534	-3.43466	24 October 1846	Morning/afternoon	Red
+Perth	56.39534	-3.43466	26 October 1846	Concert Hall	Red
+Glasgow	55.864239	-4.251806	28 October 1846	City Hall	Red
+Edinburgh	55.953251	-3.188267	29 October 1846	Evening	Red
+Rochdale	53.609715	-2.1561	10 November 1846	Public Hall	Red
+Rochdale	53.609715	-2.1561	11 November 1846	Public Hall, morning	Red
+Rochdale	53.609715	-2.1561	11 November 1846	Public Hall, evening	Red
+Stockport	53.408489	-2.14929	13 November 1846	Evening	Red
+Warrington	53.390045	-2.59695	17 November 1846	Evening	Red
+Bacup	53.703129	-2.20001	23 November 1846	Evening	Red
+Oldham	53.541248	-2.11766	25 November 1846	Evening	Red
+Manchester	53.480759	-2.242631	1 December 1846	Corn Exchange, Hanging Ditch, evening	Red
+Manchester	53.480759	-2.242631	4 December 1846	Corn Exchange, Hanging Ditch, evening	Red
+Ashton-Under-Lyne	53.487549	-2.09777	10 December 1846	Evening	Red
+Ashton-Under-Lyne	53.487549	-2.09777	11 December 1846	Evening	Red
+Birmingham	52.486244	-1.890401	Mid December 1846	Evening	Red
+Manchester	53.480759	-2.242631	22 December 1846	Evening	Red
+Leeds	53.800755	-1.549077	23 December 1846	Evening	Red
+Newcastle	54.978252	-1.61778	28 December 1846	Music Hall, Albion Street, evening	Red
+Newcastle	54.978252	-1.61778	29 December 1846	Music Hall, Albion Street, evening	Red
+Sunderland	54.906868	-1.383801	30 December 1846	Music Hall, evening	Red
+Hexham	54.970219	-2.09792	31 December 1846	Evening	Red
+Gateshead	54.952679	-1.603411	December 1846 or January 1847	Evening	Red
+Hexham	54.970219	-2.09792	1 January 1847	Evening	Red
+Carlisle	54.892471	-2.932931	2 January 1847	Evening	Red
+South Shields	54.9958	-1.4277	4 January 1847	Evening	Red
+Darlington	54.528728	-1.55305	11 January 1847	Assembly Rooms	Red
+Kirkstall	53.81558	-1.6088	13 January 1847	Evening	Red
+Leeds	53.800755	-1.549077	14 January 1847	Music Hall, Albion Street	Red
+Manchester	53.480759	-2.242631	18 January 1847	Corn Exchange	Red
+Manchester	53.480759	-2.242631	19 January 1847	Baptist Chapel, Grosvenor Street	Red
+Coventry	52.406311	-1.50852	21 January 1847	Evening	Red
+Coventry	52.406311	-1.50852	24 January 1847	Vicar Lane Chapel	Red
+Coventry	52.406311	-1.50852	2 February 1847	St. Mary's Hall Chapel	Red
+London	51.507351	-0.127758	10 February 1847	Hall of Commerce	Red
+Pentonville	51.531868	-0.108683	12 February 1847	British School Room	Red
+Leamington	52.291988	-1.53578	13 February 1847	Evening	Red
+Leamington	52.291988	-1.53578	23 February 1847	Evening	Red
+Winchester	51.059772	-1.310142	25 February 1847	Independent Chapel	Red
+Camberwell	51.474159	-0.09318	26 February 1847	Mansion House Chapel	Red
+Wakefield	53.683296	-1.505924	Early March 1847	Evening	Red
+Warrington	53.390045	-2.59695	Early March 1847	Mechanic's Lecture Hall	Red
+Leicester	52.636869	-1.139759	2 March 1847	New Hall	Red
+Colchester	51.895927	0.891874	4 March 1847	Evening	Red
+Camberwell	51.474159	-0.09318	5 March 1847	Mansion House	Red
+Nottingham	52.954784	-1.158109	8? March 1847	Exchange Rooms	Red
+Cockermouth	54.663589	-3.36723	16 March 1847	Evening	Red
+Sheffield	53.38113	-1.470085	25 March 1847	Theatre	Red
+Northampton	52.23484	-0.89732	29 March 1847	New Hall	Red
+London	51.507351	-0.127758	30 March 1847	London Tavern	Red
+Huddersfield	53.64579	-1.785035	31 March 1847	Philosophical Hall	Red
+Bradford	53.795982	-1.759398	January-March 1847?	Evening	Red
+Halifax	53.72438	-1.86158	January-March 1847?	Evening	Red
+Doncaster	53.523041	-1.13376	January-March 1847?	Evening	Red
+Mansfield	53.143871	-1.19911	January-March 1847?	Evening	Red
+Derby	52.921902	-1.47564	January-March 1847?	Evening	Red
+Rugby	52.370876	-1.265032	January-March 1847?	Evening	Red
+Bristol	51.454514	-2.58791	January-March 1847?	Evening	Red
+Halifax	53.72438	-1.86158	29 November 1859	Mechanics Hall	Red
+Halifax	53.72438	-1.86158	30 November 1859	Mechanics Hall	Red
+Halifax	53.72438	-1.86158	7 December 1859	Mechanics Hall	Red
+Halifax	53.72438	-1.86158	13 December 1859	Mechanics Hall	Red
+Sheffield	53.38113	-1.470085	19 December 1859	Temperance Hall, Townhead Street	Red
+Leeds	53.800755	-1.549077	22 December 1859	Music Hall	Red
+Halifax	53.72438	-1.86158	28 December 1859	Mechanics Hall	Red
+Manchester	53.480759	-2.242631	December 1859 or January 1860	Evening	Red
+Stockport	53.408489	-2.14929	December 1859 or January 1860	Evening	Red
+Oldham	53.541248	-2.11766	December 1859 or January 1860	Evening	Red
+Huddersfield	53.64579	-1.785035	December 1859 or January 1860	Evening	Red
+Hull	53.74567	-0.336741	December 1859 or January 1860	Evening	Red
+York	53.959965	-1.087298	December 1859 or January 1860	Evening	Red
+Halifax	53.72438	-1.86158	December 1859 or January 1860	Evening	Red
+Bradford	53.795982	-1.759398	6 January 1860	Mechanics Institute	Red
+Wakefield	53.683296	-1.505924	12 January 1860	Corn Exchange Buildings	Red
+Sheffield	53.38113	-1.470085	16 January 1860	Temperance Hall, Townhead Street	Red
+Liverpool	53.408371	-2.991573	19 January 1860	Hope Hall, Hope Street	Red
+Perth	56.39534	-3.43466	Late January 1860	Evening	Red
+Arbroath	56.561668	-2.57943	Late January 1860	Evening	Red
+Kilmarnock	55.614719	-4.498792	Late January 1861	Evening	Red
+Paisley	55.845421	-4.42359	26 January 1860	Abbey Close	Red
+Edinburgh	55.953251	-3.188267	30 January 1846	Queen Street Hall	Red
+Glasgow	55.864239	-4.251806	31 January 1860	Evening	Red
+Gateshead	54.952679	-1.603411	February 1860	Evening	Red
+Aberdeen	57.149715	-2.094278	February 1860	Evening	Red
+Greenock	55.94804	-4.76033	February 1860	Evening	Red
+Paisley	55.845421	-4.42359	3 February 1860	Evening	Red
+Paisley	55.845421	-4.42359	6 February 1860	Evening	Red
+Falkirk	56.00067	-3.78436	7 February 1860	Evening	Red
+Dalkeith	55.8955	-3.06821	9 February 1860	Evening	Red
+Montrose	56.70927	-2.4674	10 February 1860	Evening	Red
+Dundee	56.46143	-2.96811	13 February 1860	Corn Exchange Hall, evening	Red
+Glasgow	55.864239	-4.251806	14 February 1860	John Street United Presbyterian Church, evening	Red
+Berwick	55.77042	-2.00527	15? February 1860	High Meeting House. Evening	Red
+Newcastle	54.978252	-1.61778	19 February 1860	Lecture Room, Nelson Street, afternoon	Red
+North Shields	55.0103	-1.61778	21 February 1860	Albion Assembly Rooms, Norfolk Street	Red
+Hexham	54.970219	-2.09792	22 February 1860	Scotch Church	Red
+Newcastle	54.978252	-1.61778	23 February 1860	Lecture Room, Nelson Street	Red
+Morpeth	55.169418	-1.69143	24 February 1860	Independent Chapel	Red
+Cullercoats	55.034908	-1.43307	25 February 1860	Infant School	Red
+Halifax	53.72438	-1.86158	28 February 1860	New Church, Square Road	Red
+Wortley	53.49027	-1.53793	9 March 1860	Wesleyan Free Church, Greenside	Red
+Leeds	53.800755	-1.549077	12 March 1860	Evening	Red
+Bradford	53.795982	-1.759398	13 March 1860	Mechanics' Institute	Red
+Leeds	53.800755	-1.549077	16 March 1860	Stock Exchange Hall	Red
+Glasgow	55.864239	-4.251806	26 March 1860	Queen's Rooms, evening	Red
+Glasgow	55.864239	-4.251806	28 March 1860	East Campbell Street Church	Red
+Glasgow	55.864239	-4.251806	29 March 1860	Evening	Red
+Ayr	55.46357	-4.63319	Late March 1860	UP Church, Catheart Street	Red
+St. Neots	52.230083	-0.265103	5 October 1886	Julia Griffiths Crofts' School for Girls	Red
+St. Neots	52.230083	-0.265103	12 October 1886	Corn Exchange	Red
+Bridport	50.733212	-2.75495	15 October 1886	Town Hall	Red
+Street	51.125452	-2.741208	July 1887	Helen Bright Clark's House	Red

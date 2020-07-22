@@ -1,2 +1,5 @@
 City	lat	lng	Title	Notes	Color
 Lisburn	54.516246	-6.058011	"Slavery, 29 December 1845"	Presbyterian Church. 7pm.	Red
+Dublin	53.349805	-6.26031	31 August 1845	Lecture in the prison where Daniel O’Connell was confined	Red
+Dublin	53.349805	-6.26031	3 September 1845	Royal Exchange, evening	Red
+Dublin	53.349805	-6.26031	4 September 1845	Evening?	Red

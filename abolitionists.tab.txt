@@ -3513,7 +3513,7 @@ Burton-on-Trent (2)	52.80688	-1.64303	James Watkins		Between 1852-1860 (Narrativ
 Burton-on-Trent (3)	52.80688	-1.64303	James Watkins		Between 1852-1860 (Narrative 1860 List)			white
 Burton-on-Trent (4)	52.80688	-1.64303	James Watkins		Between 1852-1860 (Narrative 1860 List)			white
 Burton-on-Trent (5)	52.80688	-1.64303	James Watkins		Between 1852-1860 (Narrative 1860 List)			white
-Belper	53.02394	-1.47859	James Watkins		29 September 1855		Wesleyan School Room	white
+Belper	53.02394	-1.47859	James Watkins		20 August 1855		Wesleyan School Room	white
 Burslem (1)	53.045731	-2.196701	James Watkins		Between 1852-1860 (Narrative 1860 List)			white
 Burslem (2)	53.045731	-2.196701	James Watkins		Between 1852-1860 (Narrative 1860 List)			white
 Burslem (3)	53.045731	-2.196701	James Watkins		Between 1852-1860 (Narrative 1860 List)			white

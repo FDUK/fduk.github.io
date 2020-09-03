@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Plaques"
+title: "Scotland"
 innav: yes
 ---
 

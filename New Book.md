@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Book: Advocates"
+title: "New Book"
 innav: yes
 ---
 
-### Advocates of Freedom
+### New Book
 
 My first book, Advocates of Freedom, is out now! You can purchase it [here](https://www.waterstones.com/book/advocates-of-freedom/hannah-rose-murray/9781108487511)
 

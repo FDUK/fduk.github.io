@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Advocates of Freedom"
+title: "Book: Advocates"
 innav: yes
 ---
 

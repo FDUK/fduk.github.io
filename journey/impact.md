@@ -4,7 +4,7 @@ title: "Impact of the Trip"
 sortTitle: 110
 ---
 
-Douglass’ British trip influenced him for the rest of his life. Perhaps the most important experience for Douglass was the purchase of his freedom by his British friends. Emma and Mary Richardson had written to Douglass’ former master, Hugh Auld, demanding a price for his freedom. They agreed on £150; the money was raised and sent to Auld. Thus, when he returned to the United States, Douglass would be free. 
+Douglass’ British trip influenced him for the rest of his life. Perhaps the most important experience for Douglass was the purchase of his freedom by his British friends. Ellen and Anna Richardson had written to Douglass’ former master, Hugh Auld, demanding a price for his freedom. They agreed on £150; the money was raised and sent to Auld. Thus, when he returned to the United States, Douglass would be free. 
 
 This generous act however did not please all abolitionists. For example, Henry C. Wright bemoaned the purchase, arguing that it justified the system of slavery by acknowledging Douglass as property:
 

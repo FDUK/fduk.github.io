@@ -17,6 +17,8 @@ We examine how Douglass employed various media – letters, speeches, interviews
 
 This is the culmination of nearly a decade worth of work and research, so it's overwhelming to see it in print! Thanks to all those who made this edition possible, especially Prof. Celeste-Marie Bernier, to whom I dedicate the book to.
 
+### My First Monograph
+
 My book, Advocates of Freedom, is out now! You can purchase it [here](https://www.waterstones.com/book/advocates-of-freedom/hannah-rose-murray/9781108487511)
 
 ![Front Cover](/img/AdvocatesCover.jpg)

@@ -6,7 +6,18 @@ innav: yes
 
 ### New Book
 
-My first book, Advocates of Freedom, is out now! You can purchase it [here](https://www.waterstones.com/book/advocates-of-freedom/hannah-rose-murray/9781108487511)
+My new book co-authored with Prof. John R. McKivigan, Frederick Douglass in Britain and Ireland 1845-1895, is out now with Edinburgh University Press! You can purchase it [here](https://edinburghuniversitypress.com/book-frederick-douglass-in-britain-and-ireland-1845-1895.html)
+
+![Front Cover](/img/DouglassBook.jpg)
+<span class="caption text-muted">Front cover</span>
+
+This is the first and only anthology dedicated to Douglass’s three journeys to Britain, covering oratory, print and visual culture. It provides a monograph-length introduction focusing on Douglass’ experiences in the British Isles, from his first visit in 1845, to 1859 and 1886 (the latter two visits have received scant attention from scholars in comparison to his first visit in 1845) and presents speeches, letters and poetry in relation to Douglass’ visit (including his own testimony) that have never been published before. 
+
+We examine how Douglass employed various media – letters, speeches, interviews and his autobiographies – to convince the transatlantic public not only that his works were worth reading and his voice worth hearing, but also that the fight against racism would continue after his death.
+
+This is the culmination of nearly a decade worth of work and research, so it's overwhelming to see it in print! Thanks to all those who made this edition possible, especially Prof. Celeste-Marie Bernier, to whom I dedicate the book to.
+
+My book, Advocates of Freedom, is out now! You can purchase it [here](https://www.waterstones.com/book/advocates-of-freedom/hannah-rose-murray/9781108487511)
 
 ![Front Cover](/img/AdvocatesCover.jpg)
 <span class="caption text-muted">Front cover</span>

@@ -6,11 +6,16 @@ innav: yes
 
 ### Walking Tours
 
-As my research into Black abolitionism grows, I have collected sites of importance where women and men spoke about slavery, racial injustice, lynching, temperance and suffrage. These locations have led to the digital maps on this website, but they have also provided information for walking tours that I have created and organise on a semi-regular basis. 
+As my research into Black abolitionism grows, I have collated numerous locations where Black freedom fighters lectured about slavery, racial injustice, lynching, temperance and suffrage. These locations have led to the digital maps on this website, but they have also provided information for walking tours that I have created and organise on a semi-regular basis. 
 
-Check out my separate [website](https://blackabolitionistwalkingtours.wordpress.com) for dates to book or use this link to book VIRTUAL walking tours during COVID-19: [here](https://www.eventbrite.co.uk/e/virtual-black-abolitionist-tour-of-london-tickets-105940980324)
+Check out my separate [website](https://blackabolitionistwalkingtours.wordpress.com) or see the following four links to the virtual tours I organise. Tickets are donation only and the tours usually begin 530pm-6pm British time. Feel free to get in touch if you would like to ask about in-person, private or corporate tours! 
 
-All of the tours I lead are free, but if you have enjoyed the tour, and would like to make a donation to my travel expenses down to London (I live in Nottingham) then I would very much appreciate it!
+Black Abolitionist Virtual Walking Tour: [website](https://virtualblackabolitionisttour.eventbrite.co.uk)
+Black Literary London Virtual Walking Tour: [website](https://virtualblackliterarytouroflondon.eventbrite.co.uk) 
+Black American Women Virtual Walking Tour: [website](https://virtualblackamericanwomentour.eventbrite.co.uk)
+Frederick Douglass in Britain and Ireland Virtual Walking Tour: [website](https://virtualtourfrederickdouglassinbritainandireland.eventbrite.co.uk) 
+
+If you would like to make a donation to the running of these tours, please see below:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />

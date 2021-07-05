@@ -10,13 +10,13 @@ As my research into Black abolitionism grows, I have collated numerous locations
 
 Check out my separate [website](https://blackabolitionistwalkingtours.wordpress.com) or see the following four links to the virtual tours I organise. Tickets are donation only and the tours usually begin 530pm-6pm British time. Feel free to get in touch if you would like to ask about in-person, private or corporate tours! 
 
-Black Abolitionist Virtual Walking Tour: [website](https://virtualblackabolitionisttour.eventbrite.co.uk)
+Black Abolitionist Virtual Walking Tour: [tickets](https://virtualblackabolitionisttour.eventbrite.co.uk)
 
-Black Literary London Virtual Walking Tour: [website](https://virtualblackliterarytouroflondon.eventbrite.co.uk) 
+Black Literary London Virtual Walking Tour: [tickets](https://virtualblackliterarytouroflondon.eventbrite.co.uk) 
 
-Black American Women Virtual Walking Tour: [website](https://virtualblackamericanwomentour.eventbrite.co.uk)
+Black American Women Virtual Walking Tour: [tickets](https://virtualblackamericanwomentour.eventbrite.co.uk)
 
-Frederick Douglass in Britain and Ireland Virtual Walking Tour: [website](https://virtualtourfrederickdouglassinbritainandireland.eventbrite.co.uk) 
+Frederick Douglass in Britain and Ireland Virtual Walking Tour: [tickets](https://virtualtourfrederickdouglassinbritainandireland.eventbrite.co.uk) 
 
 If you would like to make a donation to the running of these tours, please see below:
 

@@ -13,6 +13,8 @@ Roper’s Narrative was one of the first to visually depict the horrors of slave
 
 For the last 5 years, I've transcribed hundreds of newspaper reports, playbills, speeches, letters, even poetry dedicated to Roper's visit. The little archive I'm amassing is designed to be the source material for a biography I am (in fits and starts) writing about Roper's journey and his life in the British Isles.
 
+Check out the following [link](https://t.e2ma.net/webview/knaksw/bdf9759bfc14744a47efde8e9370689d) to one of the first international exhibitions to freedom fighter Moses Roper - currently on display in Florida. I was so honoured to be a part of this. Check out the interactive map of Roper's speaking locations, and the plans to hopefully erect a heritage marker to Roper where he was enslaved. 
+
 Roper was born enslaved in North Carolina around 1815 to an enslaved mother who had been raped by her white enslaver. He was severely punished for his numerous escape attempts (by his count around 16). Whilst enslaved he witnessed brutal violence: a neighbouring plantation master forced enslaved men and women into barrels, nailed them shut so the nails protruded in the inside, and rolled them down the hill. On other occasion, he watched from a jail cell as 28 Black men jumped into the Charleston River and drowned themselves rather than be separated and sold from their families. Roper remarked in one speech that this event was as deeply traumatic to him as the parting with his own mother.
 
 ![Picture of Moses Roper](/img/Moses_Roper.jpg)

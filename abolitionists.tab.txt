@@ -1289,6 +1289,24 @@ Saddleworth	53.553414	-1.986486	Jacob Green		Late February 1864		Wesleyan School
 Saddleworth	53.553414	-1.986486	Jacob Green		Late February 1864		School Room of the Independent Chapel	white
 Leeds	53.800755	-1.549077	Jacob Green		Mid March 1864		Independent School Room, George Street	white
 Sheffield	53.38113	-1.470085	Jacob Green		29 June 1864		Brunswick Hall, Spital Street	white
+Halifax	53.72438	-1.86158	Jacob Green		1863		Ovenden Congregational Church	white
+Halifax	53.72438	-1.86158	Jacob Green		1863		Ovenden Congregational Church	white
+Halifax	53.72438	-1.86158	Jacob Green		1863		Ovenden Congregational Church	white
+Halifax	53.72438	-1.86158	Jacob Green		1863		Ovenden Congregational Church	white
+Bradford	53.795982	-1.759398	Jacob Green		1863		Forester's Hall, Denholme	white
+Bradford	53.795982	-1.759398	Jacob Green		1863		Forester's Hall, Denholme	white
+Dewsbury	53.69155	-1.63284	Jacob Green		1863		Springfield Chapel	white
+Oldham	53.541248	-2.11766	Jacob Green		9 February 1863		Ebenezer School, Uppermill	white
+Huddersfield	53.64579	-1.785035	Jacob Green		31 March 1863		Free Church Sunday School, Highfields Independent Chapel	white
+Bradford	53.795982	-1.759398	Jacob Green		July 1863		Eccleshill Congregational Church	white
+Mirfield	53.67549	-1.69747	Jacob Green		August 1863		Hopton Chapel	white
+Bradford	53.795982	-1.759398	Jacob Green		10 September 1863		Working Men's Institute	white
+Oldham	53.541248	-2.11766	Jacob Green		22 February 1864		Delph Wesleyan School	white
+Oldham	53.541248	-2.11766	Jacob Green		23 February 1864		Ebenezer School, Uppermill	white
+Heckmondwike	53.707139	-1.674396	Jacob Green		March 1864		George St. Chapel Sunday School	white
+Sheffield	53.38113	-1.470085	Jacob Green		29 June 1864		New Brunswick Hall	white
+Heckmondwike	53.707139	-1.674396	Jacob Green		May 1865		Masonic Hall	white
+Chester	53.191825	-2.892051	Jacob Green		3 January 1866		Temperance Hall, George Street	white
 Chelsea	51.487469	-0.16868	Tabb Gross		3 March 1861		Congregational Chapel	white
 London	51.507351	-0.127758	Tabb Gross		Early March 1861		Surrey Chapel	white
 Crouch Hill	51.570775	-0.116495	Bishop Walter Hawkins		Early July 1890		Lecture Hall, Holly Wesleyan Church	white

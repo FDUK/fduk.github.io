@@ -4,12 +4,6 @@ title: "About"
 innav: yes
 ---
 
----
-layout: page
-title: "About"
-innav: yes
----
-
 This website is dedicated to the numerous African American freedom fighters who made radical, politicized and often perilous journeys across the Atlantic to educate and inform British/Irish audiences about white supremacy and US chattel slavery. It is designed to highlight their relentless speaking and literary tours, their immeasurable contributions to abolitionism and social justice, their professional and personal sacrifices, their successes, the barriers they faced (sometimes from white abolitionists among others), and most importantly, their lives as warriors for themselves and their families.
 
 I'm currently based at the University of Edinburgh and have published books, articles, blog posts on this subject - but most importantly, I use this website and the maps to create public engagement and community work that involves in-person and online walking tours, talks, teaching resources, webinars for teachers, school workshops, performances, plays and the erection of heritage plaques. My ethos as a historian, as a researcher dedicated to racial and social justice, means that I am deeply committed to (re)cvoering African American abolitionist missions and I hope this particular project honours their lives and impact with respect, care and justice. 

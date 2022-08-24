@@ -4,7 +4,17 @@ title: "New Book"
 innav: yes
 ---
 
-### New Book
+### New Book: Daguerreotyped On My Heart (TBC)
+
+The focus of my next book is something I'm working on during my Early Career Leverhulme Research Fellowship at the University of Edinburgh. The project (and book's) eventual title will be: Daguerreotyped on My Heart: Transatlantic African American Visual and Textual Resistance in the British Isles, and is inspired by Frederick Douglass, who gazed around at a London antislavery meeting in 1847 and proclaimed the scene was so affecting, it was “daguerreotyped on his heart.” This interdisciplinary project fills a major gap in the field by analyzing how formerly enslaved individuals used visual and textual cultures to challenge white supremacy. For example, I analyze Moses Roper’s interwoven relationship between his oratory and the sale of his printed narrative; Josiah Henson’s illustrated children’s edition of his slave narrative; the radical performances and paintings orchestrated and used by James C. Thompson, Turner Williams and Washington Duff in their antislavery meetings, and James Watkins’ use of oratory and poetry. I will create a new theorization regarding antislavery visual and textual cultures through my analysis of how Black freedom fighters used various forms of visual culture to educate transatlantic audiences, including photography, panoramas, woodcuts, whips and chains, drawings, lantern slides, maps, and illustrations in narratives, novels and children’s literature.
+
+I'm really excited about this project and with the amazing books that are coming out in this field right now (Aston Gonzalez's Visualizing Equality to name just one!) it seems timely. Most of all, I'm looking forward to introducing folks to activists that have been either sidelined or completely ignored by scholars, including James Watkins and James C. Thompson. Watkins wrote a narrative that went through multiple editions between 1852-1862, and sold tens of thousands of copies; he also wrote at least two editions of a poetry book and gave hundreds of lectures largely on the Wesleyan Methodist/Methodist circuits in Manchester, Yorkshire, Lancashire, and across the rest of England. Thompson was born into chattel slavery in Virginia and travelled to the UK in 1860: he lectured across the south of England and Wales, and exhibited panoramas and paintings of his own design. Some of these pictorial scenes included scenes of his own torture, lost family members and the cruelty he witnessed while enslaved.
+
+I'm also excited to share the story of John Williams, who was born into chattel slavery in New Orleans and escaped to England c.1840. He wrote a narrative that has never been published before, which contains a terrifyingly visual account of his escape from alligators and the bloodhounds of his former enslaver. Similarly, I will be delving into the life of Dinah Browne, born into chattel slavery in Virginia who escaped to London in 1861.
+
+Another part of this project focuses on activists that are more well-known to scholars - including Henry 'Box' Brown and his debut as an actor on the Margate stage (building on Martha Cutter's excellent work) and William Craft, who began using magic lanterns, panoramas, models and maps in his lectures from the mid 1850s onward.
+
+### An Anthology (with John R. McKivigan): Frederick Douglass in Britain and Ireland 1845-1895
 
 My new book co-authored with Prof. John R. McKivigan, Frederick Douglass in Britain and Ireland 1845-1895, is out now with Edinburgh University Press! You can purchase it [here](https://edinburghuniversitypress.com/book-frederick-douglass-in-britain-and-ireland-1845-1895.html)
 
@@ -17,7 +27,7 @@ We examine how Douglass employed various media – letters, speeches, interviews
 
 This is the culmination of nearly a decade worth of work and research, so it's overwhelming to see it in print! Thanks to all those who made this edition possible, especially Prof. Celeste-Marie Bernier, to whom I dedicate the book to.
 
-### My First Monograph
+### My First Monograph: Advocates of Freedom
 
 My book, Advocates of Freedom, is out now! You can purchase it [here](https://www.waterstones.com/book/advocates-of-freedom/hannah-rose-murray/9781108487511)
 

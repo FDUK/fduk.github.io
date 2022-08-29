@@ -28,4 +28,7 @@ We managed to have successful conversations with the address in Birmingham, and 
 
 <i>William and Ellen Craft</i> 
 
-Over the last few years, English Heritage have issued a call to the public for more plaque nominations of people of colour. I nominated William and Ellen Craft, whose residence in Hammersmith, London still stands today. There is already a small plaque to them in the vicinity, but EH have managed to negotiate with the building’s owners to erect a plaque on the actual building itself. I’m still working on this at the moment, providing consultation along help from other historians in the field! 
+Over the last few years, English Heritage have issued a call to the public for more plaque nominations of people of colour. I nominated William and Ellen Craft, whose residence in Hammersmith, London still stands today. There is already a small plaque to them in the vicinity, but EH managed to negotiate with the building’s owners to erect a plaque on the actual building itself. The plaque was erected in October 2021, and some of the Crafts' descendants travelled from the US to see it. I'm so thankful to be a part of this - a collaboration between EH, the Craft family, and fantastic educators and historians. Thanks to Prof. Barbara McCaskill and Prof. Richard Blackett here as well, who provided invaluable expertise. 
+
+![Picture of Crafts' Plaque](/JWT_7112.jpg)
+<span class="caption text-muted">William and Ellen Craft Heritage Plaque</span>

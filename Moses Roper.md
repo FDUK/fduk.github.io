@@ -8,9 +8,6 @@ innav: yes
 
 Roper’s Narrative was one of the first to visually depict the horrors of slavery. Throughout his lecturing tours in the British Isles, countless Britons accused him of exaggerating the violence enslaved individuals faced, to which Roper responded: I’ll tell you my story.
 
-<iframe width="640px" height="360px" src="https://gcp-europe-west1.app.carto.com/map/e90f4ae9-1647-41e6-bb05-f26f6766821e"></iframe>
-
-
 For the last 5 years, I've transcribed hundreds of newspaper reports, playbills, speeches, letters, even poetry dedicated to Roper's visit. The little archive I'm amassing is designed to be the source material for a biography I am (in fits and starts) writing about Roper's journey and his life in the British Isles.
 
 Check out the following [link](https://t.e2ma.net/webview/knaksw/bdf9759bfc14744a47efde8e9370689d) to one of the first international exhibitions to freedom fighter Moses Roper - currently on display in Florida. I was so honoured to be a part of this. Check out the interactive map of Roper's speaking locations, and the plans to hopefully erect a heritage marker to Roper where he was enslaved. 

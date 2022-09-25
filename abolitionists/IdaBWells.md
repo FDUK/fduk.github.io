@@ -12,6 +12,8 @@ In 1894, Ida B. Wells travelled to Britain and declared to a Leeds audience she 
 
 <iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/022d96db-bae2-4e70-a45b-7c6c624093ff/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
+<iframe width="640px" height="360px" src="https://gcp-europe-west1.app.carto.com/map/43e88975-7b07-4eeb-b2a1-6918b57c5164/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 
 Born in 1862, Wells became a famous activist, orator, suffragist, author and journalist, who single-handedly launched an attack against the lynching of black people and helped found the NAACP in 1909 (just two of her many achievements). Orphaned when she was 16, Wells took care of her family and earned money as a school teacher and quickly became interested in civil rights.
 

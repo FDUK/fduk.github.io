@@ -14,19 +14,9 @@ The response to the campaign was unprecedented. Thousands crammed into town hall
 
 Douglass is perhaps the most famous African American to visit Scotland but examining slave narratives in conjunction with Scottish newspapers reveal otherwise. The following maps represent a mere fraction of the number of lectures given in Scotland, and are designed as a benchmark rather than a completed project given the wealth and depth of archival research that still needs to be done into Scottish transatlantic history.
 
-<iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/b1c79e23-fd1b-49bf-818d-1bc257ecef8b/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
 <b>Overview</b>
 
 In total, I’ve collated 496 lectures by 28 African Americans over a fifty-year period (1838-1898). While activists like Frederick Douglass, William Wells Brown and William and Ellen Craft represent a significant number of this figure in cities like Edinburgh, Dundee, Glasgow, and Aberdeen, the routes of E.T. Anderson, Johe Asania, Hallie Q. Brown, Isaac P. Dickerson, Joseph Hughes, R.M. Johnson, William Johnstone, Moses Roper, Richard Sayers, Amanda Smith and D.E. Tobias remain as-yet unexplored. The villages of John O’Groats, Shapinsay, Banff, Peterhead, Carnoustie, Nairn, Alloa, Airdrie, Pitlessie, Sanquhar, and Pittenweem did not remain untouched by Black activists and survivors of slavery: the sheer astonishing scale of their lectures can only be grasped when we examine that at least two activists gave lectures as far north as the Orkney Islands, which should inspire us to look beyond the cities to fully understand their movements as they travelled along the coastline to Inverness and beyond to numerous rural communities.
-
-See the following heat map of lectures:
-
-<iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/e1ce1841-4066-458d-9fe0-c8e63285c5b2/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
-The map below shows an animation of lectures happening over time from 1838-1898:
-
-<iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/658bc4cf-6227-4e5a-a864-494c3aabd2de/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <b>Edinburgh</b>
 

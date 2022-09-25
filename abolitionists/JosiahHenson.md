@@ -11,9 +11,6 @@ From enduring the cruelties of a Maryland plantation to meeting the Queen at Win
 > <footer><cite>Henson, Uncle Tom's Story of His Life, London, 1876, pp.141-2</cite></footer>
 {: .big}
 
-<iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/cc123652-06f1-4214-9959-6613f3e05a90/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
-
 Josiah Henson (1789-1883) was born enslaved in Maryland. He was often severely punished, and witnessed extreme acts of violence – his father was brutally whipped over one hundred times and his ear was nailed to a whipping post.
 
 ![Picture of Josiah Henson](/img/Josiah_Henson_bw.jpg)

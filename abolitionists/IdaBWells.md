@@ -10,11 +10,6 @@ In 1894, Ida B. Wells travelled to Britain and declared to a Leeds audience she 
 >The only way to right wrongs is to turn the light of truth upon them
 > <footer><cite>Ida B Wells.</cite></footer>
 
-<iframe width="100%" height="520" frameborder="0" src="https://murray7872.carto.com/builder/022d96db-bae2-4e70-a45b-7c6c624093ff/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
-<iframe width="640px" height="360" frameborder="0" src="https://gcp-europe-west1.app.carto.com/map/43e88975-7b07-4eeb-b2a1-6918b57c5164/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
-
 Born in 1862, Wells became a famous activist, orator, suffragist, author and journalist, who single-handedly launched an attack against the lynching of black people and helped found the NAACP in 1909 (just two of her many achievements). Orphaned when she was 16, Wells took care of her family and earned money as a school teacher and quickly became interested in civil rights.
 
 In 1884, Wells successfully sued a railroad company for racial discrimination and protested against discrepancies in white and black teacher’s pay. In the early 1890s, Wells’ friend was lynched in Memphis, which began her ferocious attacks against white supremacy and lynching of black men, women and children. She travelled across the US and the UK denouncing racial violence, and collating data surrounding every lynching case she could find. Her pamphlet ‘Southern Horrors: Lynch Law in All Its Phases’ was published in 1892 on both sides of the Atlantic.

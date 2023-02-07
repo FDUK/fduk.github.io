@@ -18,7 +18,7 @@ Black American Women Virtual Walking Tour: [tickets](https://virtualblackamerica
 
 Frederick Douglass in Britain and Ireland Virtual Walking Tour: [tickets](https://virtualtourfrederickdouglassinbritainandireland.eventbrite.co.uk) 
 
-Black American Tour of the East End:[tickets]([https://VirtualBlackAmericanEastEnd.eventbrite.co.uk)
+Black American Tour of the East End :[tickets](https://VirtualBlackAmericanEastEnd.eventbrite.co.uk)
 
 If you would like to make a donation to the running of these tours, please see below:
 

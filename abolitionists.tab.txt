@@ -2319,7 +2319,7 @@ Luton	51.87965	-0.41756	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List
 Maulden	52.03088	-0.46952	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Ridgmont	52.015951	-0.57928	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Riseley	52.25207	-0.47922	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
-Sharnbook	52.22609	-0.54434	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Sharnbrook	52.22609	-0.54434	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Shefford	52.03858	-0.33283	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Steventon	51.6248	-1.32022	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Askett	51.73983	-0.82108	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
@@ -2343,7 +2343,7 @@ Missenden	51.70406	-0.70782	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 
 Mursley	51.94953	-0.81164	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Olney	52.152641	-0.70198	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Beacon Hill	52.7575	-1.21769	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
-Princes Riseborough	51.72561	-0.83224	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Princes Risborough	51.72561	-0.83224	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Quainton	51.874008	-0.91688	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Speen	51.690861	-0.78434	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Stony Stratford	52.056808	-0.85264	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
@@ -2365,7 +2365,7 @@ Melbourne	52.822268	-1.426921	Moses Roper	Roper	Between 1836-1848 (Narrative 184
 Ticknall	52.81148	-1.48109	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Stoke on Trent	53.016436	-2.182614	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Ashwater	50.73448	-4.28911	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Bratninch	50.82648	-3.42355	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Bradninch	50.82648	-3.42355	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Brayford	51.09689	-3.87679	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Brixham	50.39405	-3.51602	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Croydon	51.37236	-0.1004	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
@@ -2376,7 +2376,7 @@ Tawstock	51.04958	-4.05514	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 L
 Saffron Walden	52.02329	0.24303	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Tillingham	51.69679	0.88258	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Avening	51.68085	-2.17396	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Blackeney	52.95179	1.02251	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Blakeney	52.95179	1.02251	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Cambridge	52.205338	0.121817	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Coleford	51.79393	-2.61618	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Lechlade	51.68961	-1.68046	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
@@ -2494,13 +2494,13 @@ Nantwich	53.067184	-2.524102	Moses Roper	Roper	Between 1836-1848 (Narrative 1848
 Bodedern	53.29486	-4.50297	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Brynsiencyn	53.179169	-4.27333	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Capel Gwyn	53.24416	-4.466321	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Capel Hewydd	52.85468	-4.55408	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Hoythead	53.608345	-1.881783	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Lalnfachreth	52.78552	-3.84965	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Capel Newydd	52.85468	-4.55408	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Hoyt Head	53.608345	-1.881783	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Llanfachreth	52.78552	-3.84965	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Llanfaethlu	53.35251	-4.53388	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Llanfair	53.22312	-4.20628	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llangenfi	53.25668	-4.31238	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llanmerchymedd	53.33048	-4.37706	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Llangefni	53.25668	-4.31238	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Llannerchymedd	53.33048	-4.37706	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Brecon	51.94729	-3.39056	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Brynmawr	51.79914	-3.17247	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Builth	52.14984	-3.40562	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
@@ -2513,23 +2513,23 @@ Llandilo	51.91036	-4.75651	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 L
 Llanelly	51.818962	-3.120658	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Llandybie	51.8199	-4.00728	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Llangadog	51.93836	-3.88309	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llandyfaen	51.83559	-3.97323	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llanfyndd	51.92794	-4.09791	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llangennerch	51.69586	-4.08354	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Llandyfan	51.83559	-3.97323	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Llanfynydd	51.92794	-4.09791	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Llangennech	51.69586	-4.08354	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Llansteffan	51.771271	-4.39224	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Login	51.878101	-4.66643	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Meidrim	51.85973	-4.48525	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Newcastle 	54.978252	-1.61778	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Penrhigoch	51.67976	-4.16315	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Penybont Llandyssil	52.54958	-3.18597	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Rhydargaen	51.899959	-4.272762	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Penrhiwgoch	51.67976	-4.16315	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Penybont Llandysul	52.54958	-3.18597	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Rhydargaean	51.899959	-4.272762	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Rhydwilym	51.86113	-4.72987	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Talog	51.90129	-4.42747	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Bangor	54.65369	-5.67438	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Cemaes	53.41289	-4.45078	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Llanaelhaearn	52.97668	-4.40464	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Llanberis	53.119091	-4.13031	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llanduduo	53.32654	-3.83446	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Llandudno	53.32654	-3.83446	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Llangian	52.83055	-4.53207	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Tattenhall	53.12166	-2.76705	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Woodside	54.963589	-1.77364	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
@@ -2767,13 +2767,13 @@ Lofthouse	54.155891	-1.84572	Moses Roper	Roper	Between 1836-1848 (Narrative 1848
 Malton	54.13484	-0.79633	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Middlesborough	54.573009	-1.23791	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Llanberis	53.119091	-4.13031	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llansanan	53.17858	-3.60115	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Rhoshllanaerchrugog	53.00883	-3.05674	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
+Llansannan	53.17858	-3.60115	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
+Rhosllanaerchrugog	53.00883	-3.05674	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Rhydlydan	53.04505	-3.65331	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Ruthin	53.114948	-3.30921	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Wern	52.77736	-3.10246	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Wrexham	53.046909	-2.99167	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Bagilit	53.26843	-3.16894	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
+Bagillt	53.26843	-3.16894	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Flint	53.24832	-3.13656	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Buckley Mountain	53.18027	-3.07672	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Foel	52.69196	-3.49388	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
@@ -2792,9 +2792,9 @@ Llanbrynmair	52.612011	-3.62747	Moses Roper	Roper	Between 1836-1848 (Narrative 1
 Llanfair	53.22312	-4.20628	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Llanfyllin	52.76549	-3.27153	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Llanidloes	52.448929	-3.54017	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llansantfraid	52.7745	-3.15438	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Cwmcamlais	51.925214	-3.53269	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Ystradgunlais	51.77759	-3.75763	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
+Llansantffraid	52.7745	-3.15438	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
+Cwmclais	51.925214	-3.53269	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
+Ystradgynlais	51.77759	-3.75763	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Abergwesyn	52.16108	-3.67566	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Beulah	52.08718	-4.49797	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Builth	52.14984	-3.40562	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
@@ -2891,7 +2891,7 @@ Largs	55.79445	-4.86978	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List
 Paisley	55.845421	-4.42359	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
 Abernethy	56.33416	-3.31296	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
 Auchtergaven	56.532797	-3.547293	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Balbiggie	56.44954	-3.34908	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
+Balbeggie	56.44954	-3.34908	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
 Cupar	56.319431	-3.01181	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
 Crieff	56.37348	-3.84306	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
 Dunning	56.312119	-3.58656	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
@@ -2987,7 +2987,7 @@ Stoke on Trent	53.016436	-2.182614	Moses Roper	Roper	Between 1836-1848 (Narrativ
 Holsworthy	50.81041	-4.35377	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
 Chulmleigh	50.91281	-3.86919	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
 Winkleigh	50.85515	-3.94198	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
-Kilhampton	50.87539	-4.48412	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
+Kilkhampton	50.87539	-4.48412	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
 Chagford	50.67295	-3.8407	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
 Newport	50.699478	-1.29319	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
 Newbridge	55.93924	-3.40789	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
@@ -3011,14 +3011,13 @@ Stoke on Trent	53.016436	-2.182614	Moses Roper	Roper	Between 1836-1848 (Narrativ
 Gloucester	51.866741	-2.24867	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
 Whitley	55.041859	-1.44729	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
 Shebbear	50.861752	-4.21968	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
-Blaenafon	51.772301	-3.08571	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
+Blaenavon	51.772301	-3.08571	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Abersychan	51.72401	-3.05874	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Pontypool	51.70045	-3.0388	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Cwmbran	51.648251	-3.02562	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Penywaen	51.73023	-3.48618	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Pen y groes	51.80035	-4.05074	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Newport	50.699478	-1.29319	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-St Davids	56.36277	-3.69948	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Treffgarne	51.87431	-4.96969	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 St. Just	50.1249	-5.6803	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Ventnor	50.59498	-1.20589	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
@@ -3034,9 +3033,9 @@ Ventnor	50.59498	-1.20589	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 Li
 Harleston	52.40106	1.29799	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Porthleaven	50.08534	-5.3179	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Leedstown	50.16079	-5.35554	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llanillynfni	53.04434	-4.28193	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Llanllynfni	53.04434	-4.28193	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Pontycymer	51.61169	-3.58429	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Pwelheli	52.88737	-4.42559	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Pwllheli	52.88737	-4.42559	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Salem	51.91828	-4.00359	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Llantrisant	51.54213	-3.37314	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Mertheyr	51.747509	-3.37805	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
@@ -3046,7 +3045,7 @@ Rhymney	51.75953	-3.28531	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 Li
 Swansea	51.621578	-3.94337	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Mount Pleasant	51.61552	-3.42116	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Trefforest	51.58902	-3.32512	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Cwnwyd	52.95919	-3.40579	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Cynwyd	52.95919	-3.40579	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Llansantffraid	52.7745	-3.15438	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Dolgelly	52.74368	-3.88544	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Llanidloes	52.448929	-3.54017	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
@@ -3113,7 +3112,7 @@ Northwich	53.258678	-2.518132	Moses Roper	Roper	Between 1836-1848 (Narrative 184
 Knutsford	53.30069	-2.37254	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Middlewich	53.192566	-2.443833	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Nantwich	53.06427	-2.52001	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llandgadog	51.93836	-3.88309	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
+Llangadog	51.93836	-3.88309	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Libanus	51.92017	-3.46424	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Caerphilly	51.578602	-3.21806	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Cardiff	51.481583	-3.17909	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow

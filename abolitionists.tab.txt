@@ -3092,7 +3092,7 @@ Staines	51.43148	-0.515525	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 L
 Uxbridge	51.545151	-0.48163	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Wallingford	51.600121	-1.12481	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Berkley	51.23559	-2.297642	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Cheltenham	51.899387	-2.078253	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
+Cheltenham	51.899387	-2.078253	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		yellow
 Cirencester	51.71412	-1.96654	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Dursley	51.681789	-2.3543	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Frampton on Severn	51.76668	-2.36801	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
@@ -3209,7 +3209,6 @@ Exeter	50.721802	-3.53362	Lewis Smith		6 February 1871		Athenaeum	white
 Dundee	56.46143	-2.96811	Lewis Smith		12 February 1871		Temperance Hotel, afternoon	white
 Dundee	56.46143	-2.96811	Lewis Smith		12 February 1871		Temperance Hotel, evening	white
 Dundee	56.46143	-2.96811	Louis Smith		5 September 1869		James' Church Bell Street	white
-Birmingham	56.46143	-2.96811	Louis Smith		10 October 1870		Protestant Chapel, Wrottesley Street	white
 Bradford	53.795982	-1.759398	Rev. Peter Stanford		Mid April 1884		Temperance Hall	white
 Leeds	53.800755	-1.549077	Rev. Peter Stanford		Early May 1884			white
 Mapplewell	53.585474	-1.505932	Rev. Peter Stanford		Late January 1886		Wesleyan Reform Chapel	white

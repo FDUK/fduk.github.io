@@ -2675,7 +2675,6 @@ Nottingham Castle Gate	52.954784	-1.158109	Moses Roper	Roper	Between 1836-1848 (
 Oswestry	52.85992	-3.05368	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Wellington	50.978565	-3.224499	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Wem	52.85611	-2.72278	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Whitchurch	52.96653	-2.68131	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Petherton	50.94958	-2.80971	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Chard	50.87271	-2.96588	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Ilminster	50.928493	-2.911062	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
@@ -2996,7 +2995,7 @@ Rookley	50.65486	-1.28326	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 Li
 Ventnor	50.59498	-1.20589	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
 Whitwell	51.87666	-0.28302	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
 Wroxall	50.616001	-1.22277	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
-Shanklin	50.62599	-1.17852	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
+Shanklin	50.62599	-1.17852	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)	yellow
 Sandown	50.6518	-1.161	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
 London	51.507351	-0.127758	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
 Darlington	54.528728	-1.55305	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow

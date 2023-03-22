@@ -2371,7 +2371,7 @@ Brixham	50.39405	-3.51602	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 Li
 Croydon	51.37236	-0.1004	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Prescott	51.96775	-2.028725	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Dartmouth	50.3518	-3.57838	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Exeter	50.721802	-3.53362	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Exeter	50.721802	-3.53362	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Tawstock	51.04958	-4.05514	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Saffron Walden	52.02329	0.24303	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Tillingham	51.69679	0.88258	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
@@ -3028,7 +3028,6 @@ Bethel	53.2075	-4.40092	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List
 Camborne	50.21365	-5.30078	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Lanner	50.21558	-5.2022	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 St. Just	50.1249	-5.6803	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Ventnor	50.59498	-1.20589	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Harleston	52.40106	1.29799	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Porthleaven	50.08534	-5.3179	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
 Leedstown	50.16079	-5.35554	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow

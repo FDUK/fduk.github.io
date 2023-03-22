@@ -2992,7 +2992,7 @@ Newport	50.699478	-1.29319	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 L
 Newbridge	55.93924	-3.40789	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
 Chale	50.59551	-1.31829	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
 Rookley	50.65486	-1.28326	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
-Ventnor	50.59498	-1.20589	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
+Ventnor	50.59498	-1.20589	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Whitwell	51.87666	-0.28302	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
 Wroxall	50.616001	-1.22277	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
 Shanklin	50.62599	-1.17852	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)	yellow

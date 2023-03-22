@@ -2356,7 +2356,7 @@ Gamlingay	52.155548	-0.19295	Moses Roper	Roper	Between 1836-1848 (Narrative 1848
 Isleham	52.34269	0.41103	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 March	52.551231	0.0896	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Soham	52.3341	0.33713	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Whittlesea	52.55669	-0.13075	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Whittlesea	52.55669	-0.13075	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Willingham	52.314339	0.05793	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Wisbech	52.66622	0.1594	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Duffield	52.98799	-1.48834	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow

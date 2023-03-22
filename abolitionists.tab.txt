@@ -2345,14 +2345,14 @@ Olney	52.152641	-0.70198	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 Lis
 Beacon Hill	52.7575	-1.21769	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Princes Risborough	51.72561	-0.83224	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Quainton	51.874008	-0.91688	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
-Speen	51.690861	-0.78434	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Stony Stratford	52.056808	-0.85264	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Waddesdon Hill	51.83343	-0.90585	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Bottisham Lode	52.22745	0.2532	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Chatteris	52.45454	0.05001	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Cottenham	52.285141	0.12463	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Downham	52.60363	0.37948	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Gamlingay	52.155548	-0.19295	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Speen	51.690861	-0.78434	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stony Stratford	52.056808	-0.85264	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Waddesdon Hill	51.83343	-0.90585	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bottisham Lode	52.22745	0.2532	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Chatteris	52.45454	0.05001	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cottenham	52.285141	0.12463	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Downham	52.60363	0.37948	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Gamlingay	52.155548	-0.19295	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Isleham	52.34269	0.41103	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 March	52.551231	0.0896	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Soham	52.3341	0.33713	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
@@ -2377,7 +2377,7 @@ Saffron Walden	52.02329	0.24303	Moses Roper	Roper	Between 1836-1848 (Narrative 1
 Tillingham	51.69679	0.88258	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Avening	51.68085	-2.17396	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Blakeney	52.95179	1.02251	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Cambridge	52.205338	0.121817	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
+Cambridge	52.205338	0.121817	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Coleford	51.79393	-2.61618	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Lechlade	51.68961	-1.68046	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
 Minchinhampton	51.70462	-2.18695	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow

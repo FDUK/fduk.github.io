@@ -2445,680 +2445,680 @@ Thrapstone	52.39659	-0.53561	Moses Roper	Roper	Between 1836-1848 (Narrative 1848
 West Haddon	52.340569	-1.07711	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Weston	51.34762	-2.9793	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Beeston	52.92529	-1.21289	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
-Kirkby	54.47148	-2.3484	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Bath	51.381065	-2.359017	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Bourton	52.56341	-2.59898	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Bristol	51.454514	-2.58791	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Barrowbridge	51.06723	-2.91767	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Burton	52.80688	-1.64303	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Chard	50.87271	-2.96588	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Creech	51.02281	-3.03709	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Crewkerne	50.8831	-2.79582	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Frome	51.22883	-2.32283	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Highbridge	51.21952	-2.97542	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Isle Abbotts	50.98407	-2.9242	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Montacute	50.9486	-2.71517	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-North Curry	51.02139	-2.97296	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Yeovil	50.94376	-2.62975	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Burton on Trent	52.80688	-1.64303	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Otley	53.90575	-1.69372	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Rattlesden	52.193508	0.89345	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Somersham	52.09551	1.04995	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Stradbroke	52.31671	1.27123	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Stowmarket	52.18843	0.99341	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Southwold	52.32618	1.67914	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Sutton	51.360451	-0.19178	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Waldringfield	52.052448	1.3296	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Wattisham	52.125301	0.93864	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Wetherden	52.22728	0.93967	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Battle	50.91731	0.48389	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Brighton	50.819519	-0.13642	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Hailsbam	50.86183	0.25772	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Downton	50.99283	-1.74164	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Knoyle	51.07161	-2.1688	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Semley	51.04149	-2.15583	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Ludgershall	51.85339	-1.04281	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Malmsbury	51.584808	-2.0996	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Melksham	51.37355	-2.1379	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Netheravon	51.23573	-1.79265	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-North Bradley	52.76024	-2.17888	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Sherston	51.57379	-2.21131	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Trowbridge	51.32011	-2.20805	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Warminster	51.204922	-2.18122	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Tenbury	52.30935	-2.59586	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Salendine Nook	53.65788	-1.83775	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Scarborough	54.283112	-0.399752	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Shipley	53.8321	-1.77676	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Sutton	51.360451	-0.19178	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Nantwich	53.067184	-2.524102	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Bodedern	53.29486	-4.50297	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Brynsiencyn	53.179169	-4.27333	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Capel Gwyn	53.24416	-4.466321	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Capel Newydd	52.85468	-4.55408	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Hoyt Head	53.608345	-1.881783	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llanfachreth	52.78552	-3.84965	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llanfaethlu	53.35251	-4.53388	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llanfair	53.22312	-4.20628	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llangefni	53.25668	-4.31238	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llannerchymedd	53.33048	-4.37706	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Brecon	51.94729	-3.39056	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Brynmawr	51.79914	-3.17247	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Builth	52.14984	-3.40562	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Crickadarn	52.07093	-3.32908	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Crickhowell	51.863689	-3.13719	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Dyvnock	51.93947	-3.56402	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llanelly	51.818962	-3.120658	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llandyssil	52.54958	-3.18597	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llandilo	51.91036	-4.75651	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llanelly	51.818962	-3.120658	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llandybie	51.8199	-4.00728	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llangadog	51.93836	-3.88309	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llandyfan	51.83559	-3.97323	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llanfynydd	51.92794	-4.09791	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llangennech	51.69586	-4.08354	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llansteffan	51.771271	-4.39224	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Login	51.878101	-4.66643	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Meidrim	51.85973	-4.48525	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Newcastle 	54.978252	-1.61778	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Penrhiwgoch	51.67976	-4.16315	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Penybont Llandysul	52.54958	-3.18597	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Rhydargaean	51.899959	-4.272762	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Rhydwilym	51.86113	-4.72987	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Talog	51.90129	-4.42747	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Bangor	54.65369	-5.67438	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Cemaes	53.41289	-4.45078	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llanaelhaearn	52.97668	-4.40464	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llanberis	53.119091	-4.13031	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llandudno	53.32654	-3.83446	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llangian	52.83055	-4.53207	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Tattenhall	53.12166	-2.76705	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Woodside	54.963589	-1.77364	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-St. Agnes	50.31263	-5.20348	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Bodmin	50.471298	-4.71761	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Grampound	50.29845	-4.89991	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Lanceston	50.63698	-4.36007	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Penrith	54.664097	-2.752708	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Whitehaven	54.549698	-3.589233	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wigton	54.824841	-3.16123	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Workington	54.64357	-3.542752	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Heanor	53.01333	-1.35147	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Marple Bridge	53.40567	-2.04257	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-New Mills	52.600739	-3.33177	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Repton	52.838161	-1.5531	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wirksworth	53.082691	-1.5736	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Hartland	50.99205	-4.47935	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-South Molton	51.01791	-3.83378	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Torrington	50.95357	-4.14093	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Chivenor	51.09305	-4.13671	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Dartmouth	50.3518	-3.57838	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Devonport	50.37593	-4.17992	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Axminster	50.78149	-3.00012	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Beer	50.69818	-3.09264	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Collumpton	50.85686	-3.39283	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Crediton	50.78912	-3.65224	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Sidbury	50.71962	-3.22028	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Sidmouth	50.678959	-3.23883	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Tiverton	50.90205	-3.491207	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Shaftesbury	51.00584	-2.19755	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Sherborne	50.95034	-2.5204	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Stalbridge	50.95892	-2.37798	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Sturminster	50.92613	-2.30518	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Swanage	50.60922	-1.96255	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Verwood	50.88124	-1.87635	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wareham	50.68597	-2.10991	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Weymouth	50.60879	-2.45415	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-West Lulworth	50.62623	-2.24636	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wimborne	50.79911	-1.98723	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Durham	54.77869	-1.55961	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Felling	54.95143	-1.57043	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Hartlepool	54.682491	-1.2167	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Richmond	54.40516	-1.73659	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Alnwick	55.412601	-1.70896	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Amble	55.331539	-1.58712	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Embleton	55.49542	-1.63551	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Haydon Bridge	54.97508	-2.24844	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Morpeth	55.169418	-1.69143	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Billericay	51.63007	0.42116	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Braintree	51.880089	0.550927	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Brentwood	51.62141	0.30575	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Brightlingsea	51.810791	1.02618	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Bumpstead	52.04241	0.44821	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Castle Hedingham	51.98978	0.59927	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Chishall	52.03428	0.10612	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Clavering	51.96496	0.1418	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Coggeshall	51.87089	0.68547	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Colchester	51.895927	0.891874	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Dunmow	51.871404	0.365799	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Epping	51.697971	0.11022	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Finchingfield	51.96745	0.44999	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Fordham	52.31133	0.39061	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Halstead	51.94519	0.63909	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Harwich	51.937641	1.28162	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wivenhoe	51.867164	0.962572	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Stockbridge	51.113819	-1.48961	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Tadley	51.35019	-1.12874	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Whitchurch	51.22984	-1.33893	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Emsworth	50.848133	-0.937928	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Gosport	50.794659	-1.12907	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Petersfield	51.00463	-0.93394	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Portsmouth	50.798908	-1.09116	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Tichfield	50.84907	-1.23437	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Rowland's Castle	50.89095	-0.95807	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Alresford	51.09977	-1.16176	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Botley	50.91434	-1.2699	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Romsey	50.9889	-1.49887	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Winchester	51.059772	-1.310142	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Christchurch	50.73381	-1.77602	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Fordingbridge	50.925835	-1.792526	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Lymington	50.757751	-1.54895	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Ringwood	50.850101	-1.7808	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Ross	51.91418	-2.58352	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Hemel Hempstead	51.75366	-0.4749	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Bushey	51.64299	-0.36046	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Chesham	51.703651	-0.61395	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Hatfield	51.762718	-0.22471	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Hertford	51.795971	-0.07888	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Hitchin	51.94836	-0.28224	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Ware  	51.810081	-0.02911	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Bromley	51.405682	0.01435	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Dartford	51.443909	0.21973	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Chatham	51.380951	0.52213	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Gravesend	51.441883	0.370759	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Maidstone	51.27034	0.52384	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Cranbrook	51.09669	0.53574	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Canterbury	51.280231	1.078909	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Deal	51.221809	1.40273	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Dover	51.129711	1.31114	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Faversham	51.31558	0.891	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Liverpool	53.408371	-2.991573	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Orrell	53.54	-2.7044	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Prescott	51.96775	-2.028725	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Rainford	53.50259	-2.78377	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Southport	53.647301	-3.00733	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Warrington	53.390045	-2.59695	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wigan	53.54427	-2.63106	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wigan	53.54427	-2.63106	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Woodside	54.963589	-1.77364	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Lancaster	54.046574	-2.80074	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Temperance Hall	yellow
-Lancaster	54.046574	-2.80074	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Temperance Hall	yellow
-Milnthorpe	54.226791	-2.77317	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Kendal	54.328007	-2.74629	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Blackburn	53.7501	-2.48471	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Harpurhey	53.50857	-2.20976	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Heywood	53.59351	-2.21745	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Hyde	53.44945	-2.07676	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Horwich	53.60091	-2.54778	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Manchester	53.480759	-2.242631	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Clitheroe	53.872822	-2.39072	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Kibworth	52.53689	-0.99654	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Loughborough	52.770771	-1.20435	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Lincoln	53.230686	-0.540579	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Lonth	53.36708	-0.00793	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Spilsby	53.1737	0.09434	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Long Sutton	52.78573	0.12157	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Pinchbeck	52.81326	-0.15979	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Sleaford	52.99924	-0.41091	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Stamford	52.651321	-0.48007	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Pontypool	51.70045	-3.0388	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Burnham	51.535658	-0.656925	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Walsingham	52.894428	0.87384	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Dereham	52.682201	0.94045	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Diss	52.377628	1.10638	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Heacham	52.909199	0.49477	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Buckby	52.303	-1.08069	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Daventry	52.257473	-1.164947	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Kilsby	52.33377	-1.17577	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Byfield	52.17554	-1.24569	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Brigstock	52.45842	-0.60863	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Crick 	51.608459	-2.7392	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Nottingham Castle Gate	52.954784	-1.158109	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Oswestry	52.85992	-3.05368	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wellington	50.978565	-3.224499	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wem	52.85611	-2.72278	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Petherton	50.94958	-2.80971	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Chard	50.87271	-2.96588	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Ilminster	50.928493	-2.911062	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Bruton	51.111858	-2.4523	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Milbourne Port	50.96629	-2.46059	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Castle Cray	51.0883	-2.51523	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Newcastle 	54.978252	-1.61778	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Oldbury	52.50391	-2.0162	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Smethwick	52.492401	-1.965207	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Stafford	52.806694	-2.12066	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Stone	52.902721	-2.14635	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Tean	52.94398	-1.97549	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Walsall	52.585949	-1.98229	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-West Bromwich	52.51929	-1.99987	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Lowstoft	52.47475	1.75364	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Nayland	51.97324	0.87395	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Sudbury	52.04176	0.72823	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wickham Market	52.15167	1.36328	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Woodbridge	52.09425	1.31313	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Dorking	51.23291	-0.32975	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Farnham	51.21414	-0.7957	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Godalming	51.18443	-0.61753	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Guildford	51.23642	-0.57029	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Ham	50.98841	-3.20264	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Oxtead	51.25713	-0.00632	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Billinghurst	51.01937	-0.45398	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Brighton	50.819519	-0.13642	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Petworth	50.98757	-0.6093	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Rye	50.952541	0.73395	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wivilsfield	50.96907	-0.09063	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Henley in Arden	52.29306	-1.7798	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Kenilworth	52.34996	-1.58113	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Leamington	52.291988	-1.53578	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Southam	52.25222	-1.38847	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Stratford on Avon	52.19157	-1.70699	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Tamworth	52.634289	-1.69071	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Warwick	52.282314	-1.584927	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Swindon	51.558418	-1.78204	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Tisbury	51.06322	-2.08101	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Westbury	51.260281	-2.18551	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Bulford	51.18907	-1.76011	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Frome	51.22883	-2.32283	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Hindon	51.09514	-2.12961	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Broadway	52.03617	-1.85602	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Dudley	52.508671	-2.08734	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Leeds	53.800755	-1.549077	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Batley	53.71702	-1.63489	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Cleckheaton	53.72305	-1.71354	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Gomersal	53.73621	-1.68823	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Heckmondwike	53.70803	-1.67006	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Newton in Bowland	53.949621	-2.46415	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Otley	53.90575	-1.69372	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Settle	54.07222	-2.28159	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Skipton	53.96098	-2.01194	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wibsey	53.76676	-1.7718	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wilsden	53.82171	-1.85956	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Addingham	53.94399	-1.88266	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Northowram	53.74024	-1.83143	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Stainland	53.6705	-1.88558	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Todmorden	53.71357	-2.09774	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wike	53.87333	-1.49164	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Hopton	52.372971	0.92722	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Kirkheaton	55.091511	-1.9704	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Delph	53.567699	-2.02364	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Cowick	53.68494	-0.99664	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Goole	53.702942	-0.876381	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Knottingley	53.708321	-1.25721	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Selby	53.78156	-1.07243	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Barnsley	53.55293	-1.48127	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Tickhill	53.432259	-1.10923	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Rotherham	53.432602	-1.363501	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Sheffield	53.38113	-1.470085	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Barton	52.18234	0.0556	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Beverley	53.841965	-0.435093	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Driffield	54.005711	-0.4401	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Gainsborough	53.402199	-0.77611	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Hull	53.74567	-0.336741	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Frodlingham	53.96266	-0.3301	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Long Riston	53.864109	-0.2882	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Brandesburton	53.91191	-0.3014	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Leven	56.194889	-2.99427	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Ayton	55.8423	-2.12289	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Appleton Wisk	54.43604	-1.39952	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Fasingwold	54.11951	-1.19333	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Egton	54.44723	-0.75624	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Guisborough	54.53463	-1.05588	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Leyburn	54.309738	-1.82857	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Lofthouse	54.155891	-1.84572	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Malton	54.13484	-0.79633	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Middlesborough	54.573009	-1.23791	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llanberis	53.119091	-4.13031	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llansannan	53.17858	-3.60115	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Rhosllanaerchrugog	53.00883	-3.05674	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Rhydlydan	53.04505	-3.65331	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Ruthin	53.114948	-3.30921	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wern	52.77736	-3.10246	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wrexham	53.046909	-2.99167	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Bagillt	53.26843	-3.16894	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Flint	53.24832	-3.13656	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Buckley Mountain	53.18027	-3.07672	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Foel	52.69196	-3.49388	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Holywell	53.2747	-3.22333	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Mold	53.16769	-3.14232	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Bala	52.912399	-3.59521	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Barmouth	52.72282	-4.05541	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Brithdir	51.70921	-3.24018	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Cynwyd 	52.95353	-3.41195	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Corwen	52.98058	-3.3731	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Dinas	51.43443	-3.21924	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Dolgellau	52.74368	-3.88544	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Ffestiniog	52.988441	-3.92747	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Penegos	52.59256	-3.80807	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llanbrynmair	52.612011	-3.62747	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llanfair	53.22312	-4.20628	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llanfyllin	52.76549	-3.27153	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llanidloes	52.448929	-3.54017	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llansantffraid	52.7745	-3.15438	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Cwmclais	51.925214	-3.53269	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Ystradgynlais	51.77759	-3.75763	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Abergwesyn	52.16108	-3.67566	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Beulah	52.08718	-4.49797	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Builth	52.14984	-3.40562	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Gwenddwr	52.07977	-3.36441	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Aberaeron	52.24225	-4.2592	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llanbadarn	52.40769	-4.0589	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Talybont	51.89642	-3.29088	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Troed y rhiw	51.71226	-3.34769	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Aberystwith	52.416119	-4.0838	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Pen y Cae	51.53095	-3.58116	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Cardigan	52.08331	-4.65863	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-St. Clears	51.81931	-4.49874	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Landovery	51.99406	-3.79335	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Forfar	56.644058	-2.88898	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Johnshaven	56.794579	-2.3368	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Montrose	56.70927	-2.4674	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Belford	55.59858	-1.82896	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Berwick	55.77042	-2.00527	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Chirnside Ayton	55.8423	-2.12289	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Coldstream	55.65299	-2.24905	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Eyemouth	55.86955	-2.09053	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Greenlaw	55.70683	-2.46158	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Kelson	55.59949	-2.43393	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-North Sunderland	54.906868	-1.383801	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Stockbridge	51.113819	-1.48961	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Cockburnspath	55.93295	-2.36018	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Wooler	55.54561	-2.01452	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Anstuther	56.22341	-2.7027	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Auchtermuchty	56.29205	-3.23297	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Ceres	56.29242	-2.97043	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Crail	56.26076	-2.62661	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Cupar	56.319431	-3.01181	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Dubbieside Leven	56.19052	-3.00288	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Fruechie	56.24793	-3.15598	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Pitlessie	56.27426	-3.07475	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Douglas	54.15433	-4.48006	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Dumfries	55.070858	-3.60512	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Lochmaben	55.128281	-3.44063	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Moffat	55.333511	-3.44493	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Sanquhar	55.36796	-3.92461	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Thornhill	54.46618	-3.52604	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Newtyle	56.558491	-3.14736	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Dunfermline	56.071739	-3.452151	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Kinross	56.20493	-3.42347	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Limekilns, Dundermline	56.071739	-3.452151	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Milnathort	56.22678	-3.41995	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Muckhart	56.18201	-3.61049	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Dalkeith	55.8955	-3.06821	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Dunbar	55.999691	-2.51436	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Edinburgh	55.953251	-3.188267	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Haddington	55.955391	-2.78385	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Leith	55.97979	-3.17367	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-North Berwick	55.77042	-2.00527	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Tranent	55.944511	-2.954526	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Elgin	57.646381	-3.31535	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Forres	57.611271	-3.61072	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Inverness	57.477772	-4.224721	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Keith	57.54311	-2.94949	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Airdrie	55.866501	-3.97369	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Drymen	56.065487	-4.44996	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Dumbarton	55.949348	-4.55098	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Glasgow	55.864239	-4.251806	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Kirkintilloch	55.939812	-4.1547	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Newarthill	55.81878	-3.93292	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Pollockshaws	55.825202	-4.293025	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Glasgow	55.864239	-4.251806	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Strathaven	55.67823	-4.0655	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Ayr	55.46357	-4.63319	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Beith	55.75071	-4.6325	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Catrine Mauchline	55.50389	-4.32819	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Cumnock	55.45345	-4.26435	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Girvan	55.243252	-4.85519	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Irvine	55.615631	-4.66488	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Kilmarnock	55.614719	-4.498792	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Maybole	55.35458	-4.68605	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Muikirk	55.5254	-4.06685	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Newills	54.55223	-6.7397	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Saltcoats	55.637653	-4.78349	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Stewarton	55.68031	-4.51543	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Tarbolton	55.5133	-4.48675	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Troon	55.54378	-4.66401	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-West Kilbride	55.6948	-4.85732	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Largs	55.79445	-4.86978	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Kirkaldy	56.116825	-3.158137	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Leslie	56.201261	-3.215616	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Lochgelly	56.12939	-3.30976	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Biggar	55.62416	-3.5241	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Carnwath	55.7005	-3.62503	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Douglas	54.15433	-4.48006	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Bellingham	55.144901	-2.25372	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Greenock	55.94804	-4.76033	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Johnstone	55.83453	-4.50063	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Largs	55.79445	-4.86978	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Paisley	55.845421	-4.42359	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Abernethy	56.33416	-3.31296	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Auchtergaven	56.532797	-3.547293	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Balbeggie	56.44954	-3.34908	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Cupar	56.319431	-3.01181	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Crieff	56.37348	-3.84306	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Dunning	56.312119	-3.58656	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Errol	56.39234	-3.21223	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Kinclaven	54.963589	-1.77364	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Leslie	56.201261	-3.215616	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Lethendy	56.5605	-3.41833	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Perth	56.39534	-3.43466	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Newburgh	53.58619	-2.78237	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Perth	56.39534	-3.43466	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Earlston	55.63862	-2.67462	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Galashiels	55.61648	-2.80504	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Hawick	55.422569	-2.78688	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Jedburgh	55.47982	-2.55149	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Lilliesleaf	55.518711	-2.73603	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Melrose	55.59962	-2.72647	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Selkirk	55.54828	-2.83895	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Aberchirder	57.5624	-2.62157	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Bauff	57.66265	-2.52336	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Craigdam	57.36238	-2.26146	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Ellon	57.365059	-2.07062	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-New Deer	57.51203	-2.19283	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Peterhead	57.508121	-1.784066	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Airth	56.06918	-3.77175	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Aiva	56.15306	-3.80056	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Bathgate	55.90239	-3.64177	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Bucklyvie	56.11507	-4.29377	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Falkirk	56.00067	-3.78436	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Balfron	56.06857	-4.33239	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Kincardine	56.0676	-3.71869	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Linlithgow	55.978371	-3.59423	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Stirling	56.119419	-3.93588	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Tillicoultry	56.15303	-3.73942	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Creetown	54.89892	-4.3792	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Glenluce	54.88009	-4.80759	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Kirkcowan	54.91561	-4.61081	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Newton Stewart	54.95887	-4.48549	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Stranraer	54.90192	-5.02309	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Whithorn	54.73399	-4.41489	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Ceres	56.29242	-2.97043	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Colinsburgh	56.22062	-2.8463	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Dysart	56.12735	-3.1232	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Largo	56.21276	-2.93643	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Leven	56.19489	-2.99427	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Pittenweem	56.21419	-2.72853	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Bathgate	55.90239	-3.64177	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Berwick on Tweed	55.77042	-2.00527	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Biggar	55.62416	-3.5241	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Blairlogie	56.14893	-3.8877	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Dalkeith	55.8955	-3.06821	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Dunfermline	56.071739	-3.452151	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Earlston	55.63862	-2.67462	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Falkirk	56.00067	-3.78436	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Leith	55.97979	-3.17367	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Balfron	56.06857	-4.33239	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Bonhill	55.9816	-4.56544	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Campsie	55.98516	-4.22885	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Coatbridge	55.86224	-4.019337	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Dumbarton	55.949348	-4.55098	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Kilmarnock	55.614719	-4.498792	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Kilsyth	55.978409	-4.058	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Carluke	55.733742	-3.8343	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Kilbride	53.46524	-6.41357	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Lanark	55.67391	-3.78193	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Roberton	55.54081	-3.67148	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Downpatrick	54.324581	-5.70253	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Newcastle	54.978252	-1.61778	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Primitive Methodist	yellow
-Burslem	53.045731	-2.196701	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Primitive Methodist	yellow
-St. Ives	50.208385	-5.490886	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Primitive Methodist	yellow
-Wadebridge	50.51625	-4.83629	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Primitive Methodist	yellow
-Old Meldrum	57.33763	-2.31645	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Stonehaven	56.96373	-2.20819	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Annan	54.987438	-3.26134	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Ecclefechan	55.05828	-3.26678	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Wigton	54.824841	-3.16123	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		United Secession/Relief Church	yellow
-Redruth	50.23464	-5.22319	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Wesleyan Methodist	yellow
-Bodmin	50.471298	-4.71761	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Wesleyan Methodist	yellow
-Wednesbury	52.552887	-2.02208	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Wesleyan Methodist	yellow
-Hayle	50.188099	-5.42057	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Wesleyan Methodist	yellow
-Stilton	52.48913	-0.29241	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Wesleyan Methodist	yellow
-St. Agnes	50.31263	-5.20348	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		New Connexion	yellow
-Henley	51.53753	-0.90464	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Wesleyan Methodist	yellow
-Nottingham	52.954784	-1.158109	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Wesleyan Methodist	yellow
-Sheffield	53.38113	-1.470085	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Wesleyan Methodist	yellow
-Woldingham	51.28508	-0.03754	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Wesleyan Methodist	yellow
-Launceston	50.63698	-4.36007	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Wesleyan Methodist	yellow
-Hexham	54.970219	-2.09792	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Wesleyan Methodist	yellow
-Stratton	51.73151	-1.98197	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Wesleyan Methodist	yellow
-Lincoln	53.230686	-0.540579	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Wesleyan Methodist	yellow
-Tewkesbury	51.992264	-2.15796	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
-Worcester	52.192039	-2.22353	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
-Stoke on Trent	53.016436	-2.182614	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
-Holsworthy	50.81041	-4.35377	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
-Chulmleigh	50.91281	-3.86919	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
-Winkleigh	50.85515	-3.94198	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
-Kilkhampton	50.87539	-4.48412	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
-Chagford	50.67295	-3.8407	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
-Newport	50.699478	-1.29319	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
-Newbridge	55.93924	-3.40789	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
-Chale	50.59551	-1.31829	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
-Rookley	50.65486	-1.28326	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
+Kirkby	54.47148	-2.3484	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bath	51.381065	-2.359017	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bourton	52.56341	-2.59898	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bristol	51.454514	-2.58791	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Barrowbridge	51.06723	-2.91767	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Burton	52.80688	-1.64303	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Chard	50.87271	-2.96588	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Creech	51.02281	-3.03709	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Crewkerne	50.8831	-2.79582	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Frome	51.22883	-2.32283	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Highbridge	51.21952	-2.97542	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Isle Abbotts	50.98407	-2.9242	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Montacute	50.9486	-2.71517	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+North Curry	51.02139	-2.97296	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Yeovil	50.94376	-2.62975	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Burton on Trent	52.80688	-1.64303	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Otley	53.90575	-1.69372	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Rattlesden	52.193508	0.89345	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Somersham	52.09551	1.04995	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stradbroke	52.31671	1.27123	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stowmarket	52.18843	0.99341	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Southwold	52.32618	1.67914	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Sutton	51.360451	-0.19178	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Waldringfield	52.052448	1.3296	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wattisham	52.125301	0.93864	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wetherden	52.22728	0.93967	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Battle	50.91731	0.48389	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Brighton	50.819519	-0.13642	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Hailsbam	50.86183	0.25772	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Downton	50.99283	-1.74164	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Knoyle	51.07161	-2.1688	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Semley	51.04149	-2.15583	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ludgershall	51.85339	-1.04281	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Malmsbury	51.584808	-2.0996	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Melksham	51.37355	-2.1379	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Netheravon	51.23573	-1.79265	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+North Bradley	52.76024	-2.17888	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Sherston	51.57379	-2.21131	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Trowbridge	51.32011	-2.20805	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Warminster	51.204922	-2.18122	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tenbury	52.30935	-2.59586	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Salendine Nook	53.65788	-1.83775	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Scarborough	54.283112	-0.399752	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Shipley	53.8321	-1.77676	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Sutton	51.360451	-0.19178	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Nantwich	53.067184	-2.524102	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bodedern	53.29486	-4.50297	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Brynsiencyn	53.179169	-4.27333	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Capel Gwyn	53.24416	-4.466321	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Capel Newydd	52.85468	-4.55408	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Hoyt Head	53.608345	-1.881783	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanfachreth	52.78552	-3.84965	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanfaethlu	53.35251	-4.53388	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanfair	53.22312	-4.20628	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llangefni	53.25668	-4.31238	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llannerchymedd	53.33048	-4.37706	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Brecon	51.94729	-3.39056	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Brynmawr	51.79914	-3.17247	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Builth	52.14984	-3.40562	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Crickadarn	52.07093	-3.32908	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Crickhowell	51.863689	-3.13719	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dyvnock	51.93947	-3.56402	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanelly	51.818962	-3.120658	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llandyssil	52.54958	-3.18597	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llandilo	51.91036	-4.75651	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanelly	51.818962	-3.120658	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llandybie	51.8199	-4.00728	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llangadog	51.93836	-3.88309	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llandyfan	51.83559	-3.97323	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanfynydd	51.92794	-4.09791	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llangennech	51.69586	-4.08354	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llansteffan	51.771271	-4.39224	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Login	51.878101	-4.66643	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Meidrim	51.85973	-4.48525	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newcastle 	54.978252	-1.61778	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Penrhiwgoch	51.67976	-4.16315	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Penybont Llandysul	52.54958	-3.18597	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Rhydargaean	51.899959	-4.272762	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Rhydwilym	51.86113	-4.72987	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Talog	51.90129	-4.42747	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bangor	54.65369	-5.67438	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cemaes	53.41289	-4.45078	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanaelhaearn	52.97668	-4.40464	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanberis	53.119091	-4.13031	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llandudno	53.32654	-3.83446	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llangian	52.83055	-4.53207	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tattenhall	53.12166	-2.76705	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Woodside	54.963589	-1.77364	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+St. Agnes	50.31263	-5.20348	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bodmin	50.471298	-4.71761	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Grampound	50.29845	-4.89991	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Lanceston	50.63698	-4.36007	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Penrith	54.664097	-2.752708	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Whitehaven	54.549698	-3.589233	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wigton	54.824841	-3.16123	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Workington	54.64357	-3.542752	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Heanor	53.01333	-1.35147	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Marple Bridge	53.40567	-2.04257	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+New Mills	52.600739	-3.33177	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Repton	52.838161	-1.5531	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wirksworth	53.082691	-1.5736	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Hartland	50.99205	-4.47935	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+South Molton	51.01791	-3.83378	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Torrington	50.95357	-4.14093	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Chivenor	51.09305	-4.13671	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dartmouth	50.3518	-3.57838	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Devonport	50.37593	-4.17992	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Axminster	50.78149	-3.00012	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Beer	50.69818	-3.09264	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Collumpton	50.85686	-3.39283	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Crediton	50.78912	-3.65224	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Sidbury	50.71962	-3.22028	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Sidmouth	50.678959	-3.23883	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tiverton	50.90205	-3.491207	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Shaftesbury	51.00584	-2.19755	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Sherborne	50.95034	-2.5204	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stalbridge	50.95892	-2.37798	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Sturminster	50.92613	-2.30518	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Swanage	50.60922	-1.96255	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Verwood	50.88124	-1.87635	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wareham	50.68597	-2.10991	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Weymouth	50.60879	-2.45415	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+West Lulworth	50.62623	-2.24636	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wimborne	50.79911	-1.98723	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Durham	54.77869	-1.55961	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Felling	54.95143	-1.57043	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Hartlepool	54.682491	-1.2167	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Richmond	54.40516	-1.73659	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Alnwick	55.412601	-1.70896	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Amble	55.331539	-1.58712	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Embleton	55.49542	-1.63551	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Haydon Bridge	54.97508	-2.24844	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Morpeth	55.169418	-1.69143	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Billericay	51.63007	0.42116	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Braintree	51.880089	0.550927	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Brentwood	51.62141	0.30575	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Brightlingsea	51.810791	1.02618	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bumpstead	52.04241	0.44821	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Castle Hedingham	51.98978	0.59927	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Chishall	52.03428	0.10612	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Clavering	51.96496	0.1418	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Coggeshall	51.87089	0.68547	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Colchester	51.895927	0.891874	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dunmow	51.871404	0.365799	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Epping	51.697971	0.11022	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Finchingfield	51.96745	0.44999	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Fordham	52.31133	0.39061	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Halstead	51.94519	0.63909	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Harwich	51.937641	1.28162	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wivenhoe	51.867164	0.962572	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stockbridge	51.113819	-1.48961	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tadley	51.35019	-1.12874	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Whitchurch	51.22984	-1.33893	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Emsworth	50.848133	-0.937928	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Gosport	50.794659	-1.12907	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Petersfield	51.00463	-0.93394	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Portsmouth	50.798908	-1.09116	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tichfield	50.84907	-1.23437	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Rowland's Castle	50.89095	-0.95807	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Alresford	51.09977	-1.16176	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Botley	50.91434	-1.2699	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Romsey	50.9889	-1.49887	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Winchester	51.059772	-1.310142	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Christchurch	50.73381	-1.77602	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Fordingbridge	50.925835	-1.792526	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Lymington	50.757751	-1.54895	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ringwood	50.850101	-1.7808	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ross	51.91418	-2.58352	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Hemel Hempstead	51.75366	-0.4749	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bushey	51.64299	-0.36046	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Chesham	51.703651	-0.61395	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Hatfield	51.762718	-0.22471	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Hertford	51.795971	-0.07888	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Hitchin	51.94836	-0.28224	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ware  	51.810081	-0.02911	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bromley	51.405682	0.01435	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dartford	51.443909	0.21973	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Chatham	51.380951	0.52213	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Gravesend	51.441883	0.370759	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Maidstone	51.27034	0.52384	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cranbrook	51.09669	0.53574	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Canterbury	51.280231	1.078909	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Deal	51.221809	1.40273	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dover	51.129711	1.31114	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Faversham	51.31558	0.891	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Liverpool	53.408371	-2.991573	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Orrell	53.54	-2.7044	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Prescott	51.96775	-2.028725	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Rainford	53.50259	-2.78377	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Southport	53.647301	-3.00733	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Warrington	53.390045	-2.59695	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wigan	53.54427	-2.63106	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wigan	53.54427	-2.63106	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Woodside	54.963589	-1.77364	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Lancaster	54.046574	-2.80074	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Lancaster	54.046574	-2.80074	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Milnthorpe	54.226791	-2.77317	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kendal	54.328007	-2.74629	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Blackburn	53.7501	-2.48471	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Harpurhey	53.50857	-2.20976	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Heywood	53.59351	-2.21745	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Hyde	53.44945	-2.07676	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Horwich	53.60091	-2.54778	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Manchester	53.480759	-2.242631	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Clitheroe	53.872822	-2.39072	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kibworth	52.53689	-0.99654	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Loughborough	52.770771	-1.20435	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Lincoln	53.230686	-0.540579	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Lonth	53.36708	-0.00793	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Spilsby	53.1737	0.09434	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Long Sutton	52.78573	0.12157	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Pinchbeck	52.81326	-0.15979	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Sleaford	52.99924	-0.41091	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stamford	52.651321	-0.48007	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Pontypool	51.70045	-3.0388	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Burnham	51.535658	-0.656925	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Walsingham	52.894428	0.87384	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dereham	52.682201	0.94045	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Diss	52.377628	1.10638	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Heacham	52.909199	0.49477	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Buckby	52.303	-1.08069	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Daventry	52.257473	-1.164947	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kilsby	52.33377	-1.17577	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Byfield	52.17554	-1.24569	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Brigstock	52.45842	-0.60863	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Crick 	51.608459	-2.7392	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Nottingham Castle Gate	52.954784	-1.158109	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Oswestry	52.85992	-3.05368	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wellington	50.978565	-3.224499	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wem	52.85611	-2.72278	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Petherton	50.94958	-2.80971	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Chard	50.87271	-2.96588	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ilminster	50.928493	-2.911062	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bruton	51.111858	-2.4523	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Milbourne Port	50.96629	-2.46059	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Castle Cray	51.0883	-2.51523	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newcastle 	54.978252	-1.61778	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Oldbury	52.50391	-2.0162	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Smethwick	52.492401	-1.965207	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stafford	52.806694	-2.12066	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stone	52.902721	-2.14635	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tean	52.94398	-1.97549	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Walsall	52.585949	-1.98229	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+West Bromwich	52.51929	-1.99987	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Lowstoft	52.47475	1.75364	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Nayland	51.97324	0.87395	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Sudbury	52.04176	0.72823	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wickham Market	52.15167	1.36328	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Woodbridge	52.09425	1.31313	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dorking	51.23291	-0.32975	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Farnham	51.21414	-0.7957	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Godalming	51.18443	-0.61753	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Guildford	51.23642	-0.57029	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ham	50.98841	-3.20264	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Oxtead	51.25713	-0.00632	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Billinghurst	51.01937	-0.45398	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Brighton	50.819519	-0.13642	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Petworth	50.98757	-0.6093	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Rye	50.952541	0.73395	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wivilsfield	50.96907	-0.09063	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Henley in Arden	52.29306	-1.7798	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kenilworth	52.34996	-1.58113	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Leamington	52.291988	-1.53578	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Southam	52.25222	-1.38847	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stratford on Avon	52.19157	-1.70699	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tamworth	52.634289	-1.69071	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Warwick	52.282314	-1.584927	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Swindon	51.558418	-1.78204	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tisbury	51.06322	-2.08101	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Westbury	51.260281	-2.18551	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bulford	51.18907	-1.76011	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Frome	51.22883	-2.32283	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Hindon	51.09514	-2.12961	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Broadway	52.03617	-1.85602	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dudley	52.508671	-2.08734	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Leeds	53.800755	-1.549077	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Batley	53.71702	-1.63489	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cleckheaton	53.72305	-1.71354	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Gomersal	53.73621	-1.68823	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Heckmondwike	53.70803	-1.67006	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newton in Bowland	53.949621	-2.46415	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Otley	53.90575	-1.69372	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Settle	54.07222	-2.28159	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Skipton	53.96098	-2.01194	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wibsey	53.76676	-1.7718	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wilsden	53.82171	-1.85956	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Addingham	53.94399	-1.88266	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Northowram	53.74024	-1.83143	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stainland	53.6705	-1.88558	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Todmorden	53.71357	-2.09774	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wike	53.87333	-1.49164	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Hopton	52.372971	0.92722	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kirkheaton	55.091511	-1.9704	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Delph	53.567699	-2.02364	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cowick	53.68494	-0.99664	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Goole	53.702942	-0.876381	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Knottingley	53.708321	-1.25721	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Selby	53.78156	-1.07243	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Barnsley	53.55293	-1.48127	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tickhill	53.432259	-1.10923	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Rotherham	53.432602	-1.363501	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Sheffield	53.38113	-1.470085	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Barton	52.18234	0.0556	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Beverley	53.841965	-0.435093	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Driffield	54.005711	-0.4401	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Gainsborough	53.402199	-0.77611	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Hull	53.74567	-0.336741	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Frodlingham	53.96266	-0.3301	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Long Riston	53.864109	-0.2882	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Brandesburton	53.91191	-0.3014	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Leven	56.194889	-2.99427	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ayton	55.8423	-2.12289	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Appleton Wisk	54.43604	-1.39952	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Fasingwold	54.11951	-1.19333	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Egton	54.44723	-0.75624	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Guisborough	54.53463	-1.05588	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Leyburn	54.309738	-1.82857	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Lofthouse	54.155891	-1.84572	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Malton	54.13484	-0.79633	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Middlesborough	54.573009	-1.23791	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanberis	53.119091	-4.13031	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llansannan	53.17858	-3.60115	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Rhosllanaerchrugog	53.00883	-3.05674	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Rhydlydan	53.04505	-3.65331	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ruthin	53.114948	-3.30921	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wern	52.77736	-3.10246	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wrexham	53.046909	-2.99167	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bagillt	53.26843	-3.16894	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Flint	53.24832	-3.13656	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Buckley Mountain	53.18027	-3.07672	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Foel	52.69196	-3.49388	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Holywell	53.2747	-3.22333	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Mold	53.16769	-3.14232	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bala	52.912399	-3.59521	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Barmouth	52.72282	-4.05541	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Brithdir	51.70921	-3.24018	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cynwyd 	52.95353	-3.41195	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Corwen	52.98058	-3.3731	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dinas	51.43443	-3.21924	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dolgellau	52.74368	-3.88544	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ffestiniog	52.988441	-3.92747	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Penegos	52.59256	-3.80807	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanbrynmair	52.612011	-3.62747	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanfair	53.22312	-4.20628	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanfyllin	52.76549	-3.27153	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanidloes	52.448929	-3.54017	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llansantffraid	52.7745	-3.15438	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cwmclais	51.925214	-3.53269	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ystradgynlais	51.77759	-3.75763	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Abergwesyn	52.16108	-3.67566	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Beulah	52.08718	-4.49797	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Builth	52.14984	-3.40562	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Gwenddwr	52.07977	-3.36441	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Aberaeron	52.24225	-4.2592	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanbadarn	52.40769	-4.0589	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Talybont	51.89642	-3.29088	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Troed y rhiw	51.71226	-3.34769	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Aberystwith	52.416119	-4.0838	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Pen y Cae	51.53095	-3.58116	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cardigan	52.08331	-4.65863	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+St. Clears	51.81931	-4.49874	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Landovery	51.99406	-3.79335	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Forfar	56.644058	-2.88898	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Johnshaven	56.794579	-2.3368	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Montrose	56.70927	-2.4674	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Belford	55.59858	-1.82896	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Berwick	55.77042	-2.00527	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Chirnside Ayton	55.8423	-2.12289	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Coldstream	55.65299	-2.24905	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Eyemouth	55.86955	-2.09053	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Greenlaw	55.70683	-2.46158	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kelson	55.59949	-2.43393	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+North Sunderland	54.906868	-1.383801	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stockbridge	51.113819	-1.48961	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cockburnspath	55.93295	-2.36018	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wooler	55.54561	-2.01452	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Anstuther	56.22341	-2.7027	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Auchtermuchty	56.29205	-3.23297	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ceres	56.29242	-2.97043	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Crail	56.26076	-2.62661	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cupar	56.319431	-3.01181	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dubbieside Leven	56.19052	-3.00288	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Fruechie	56.24793	-3.15598	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Pitlessie	56.27426	-3.07475	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Douglas	54.15433	-4.48006	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dumfries	55.070858	-3.60512	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Lochmaben	55.128281	-3.44063	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Moffat	55.333511	-3.44493	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Sanquhar	55.36796	-3.92461	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Thornhill	54.46618	-3.52604	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newtyle	56.558491	-3.14736	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dunfermline	56.071739	-3.452151	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kinross	56.20493	-3.42347	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Limekilns, Dundermline	56.071739	-3.452151	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Milnathort	56.22678	-3.41995	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Muckhart	56.18201	-3.61049	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dalkeith	55.8955	-3.06821	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dunbar	55.999691	-2.51436	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Edinburgh	55.953251	-3.188267	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Haddington	55.955391	-2.78385	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Leith	55.97979	-3.17367	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+North Berwick	55.77042	-2.00527	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tranent	55.944511	-2.954526	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Elgin	57.646381	-3.31535	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Forres	57.611271	-3.61072	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Inverness	57.477772	-4.224721	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Keith	57.54311	-2.94949	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Airdrie	55.866501	-3.97369	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Drymen	56.065487	-4.44996	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dumbarton	55.949348	-4.55098	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Glasgow	55.864239	-4.251806	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kirkintilloch	55.939812	-4.1547	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newarthill	55.81878	-3.93292	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Pollockshaws	55.825202	-4.293025	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Glasgow	55.864239	-4.251806	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Strathaven	55.67823	-4.0655	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ayr	55.46357	-4.63319	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Beith	55.75071	-4.6325	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Catrine Mauchline	55.50389	-4.32819	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cumnock	55.45345	-4.26435	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Girvan	55.243252	-4.85519	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Irvine	55.615631	-4.66488	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kilmarnock	55.614719	-4.498792	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Maybole	55.35458	-4.68605	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Muikirk	55.5254	-4.06685	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newills	54.55223	-6.7397	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Saltcoats	55.637653	-4.78349	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stewarton	55.68031	-4.51543	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tarbolton	55.5133	-4.48675	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Troon	55.54378	-4.66401	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+West Kilbride	55.6948	-4.85732	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Largs	55.79445	-4.86978	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kirkaldy	56.116825	-3.158137	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Leslie	56.201261	-3.215616	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Lochgelly	56.12939	-3.30976	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Biggar	55.62416	-3.5241	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Carnwath	55.7005	-3.62503	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Douglas	54.15433	-4.48006	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bellingham	55.144901	-2.25372	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Greenock	55.94804	-4.76033	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Johnstone	55.83453	-4.50063	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Largs	55.79445	-4.86978	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Paisley	55.845421	-4.42359	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Abernethy	56.33416	-3.31296	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Auchtergaven	56.532797	-3.547293	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Balbeggie	56.44954	-3.34908	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cupar	56.319431	-3.01181	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Crieff	56.37348	-3.84306	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dunning	56.312119	-3.58656	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Errol	56.39234	-3.21223	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kinclaven	54.963589	-1.77364	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Leslie	56.201261	-3.215616	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Lethendy	56.5605	-3.41833	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Perth	56.39534	-3.43466	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newburgh	53.58619	-2.78237	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Perth	56.39534	-3.43466	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Earlston	55.63862	-2.67462	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Galashiels	55.61648	-2.80504	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Hawick	55.422569	-2.78688	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Jedburgh	55.47982	-2.55149	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Lilliesleaf	55.518711	-2.73603	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Melrose	55.59962	-2.72647	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Selkirk	55.54828	-2.83895	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Aberchirder	57.5624	-2.62157	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bauff	57.66265	-2.52336	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Craigdam	57.36238	-2.26146	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ellon	57.365059	-2.07062	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+New Deer	57.51203	-2.19283	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Peterhead	57.508121	-1.784066	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Airth	56.06918	-3.77175	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Aiva	56.15306	-3.80056	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bathgate	55.90239	-3.64177	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bucklyvie	56.11507	-4.29377	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Falkirk	56.00067	-3.78436	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Balfron	56.06857	-4.33239	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kincardine	56.0676	-3.71869	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Linlithgow	55.978371	-3.59423	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stirling	56.119419	-3.93588	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tillicoultry	56.15303	-3.73942	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Creetown	54.89892	-4.3792	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Glenluce	54.88009	-4.80759	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kirkcowan	54.91561	-4.61081	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newton Stewart	54.95887	-4.48549	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stranraer	54.90192	-5.02309	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Whithorn	54.73399	-4.41489	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ceres	56.29242	-2.97043	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Colinsburgh	56.22062	-2.8463	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dysart	56.12735	-3.1232	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Largo	56.21276	-2.93643	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Leven	56.19489	-2.99427	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Pittenweem	56.21419	-2.72853	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bathgate	55.90239	-3.64177	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Berwick on Tweed	55.77042	-2.00527	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Biggar	55.62416	-3.5241	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Blairlogie	56.14893	-3.8877	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dalkeith	55.8955	-3.06821	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dunfermline	56.071739	-3.452151	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Earlston	55.63862	-2.67462	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Falkirk	56.00067	-3.78436	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Leith	55.97979	-3.17367	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Balfron	56.06857	-4.33239	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bonhill	55.9816	-4.56544	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Campsie	55.98516	-4.22885	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Coatbridge	55.86224	-4.019337	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dumbarton	55.949348	-4.55098	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kilmarnock	55.614719	-4.498792	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kilsyth	55.978409	-4.058	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Carluke	55.733742	-3.8343	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kilbride	53.46524	-6.41357	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Lanark	55.67391	-3.78193	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Roberton	55.54081	-3.67148	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Downpatrick	54.324581	-5.70253	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newcastle	54.978252	-1.61778	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Burslem	53.045731	-2.196701	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+St. Ives	50.208385	-5.490886	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wadebridge	50.51625	-4.83629	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Old Meldrum	57.33763	-2.31645	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stonehaven	56.96373	-2.20819	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Annan	54.987438	-3.26134	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ecclefechan	55.05828	-3.26678	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wigton	54.824841	-3.16123	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Redruth	50.23464	-5.22319	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bodmin	50.471298	-4.71761	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wednesbury	52.552887	-2.02208	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Hayle	50.188099	-5.42057	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stilton	52.48913	-0.29241	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+St. Agnes	50.31263	-5.20348	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Henley	51.53753	-0.90464	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Nottingham	52.954784	-1.158109	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Sheffield	53.38113	-1.470085	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Woldingham	51.28508	-0.03754	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Launceston	50.63698	-4.36007	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Hexham	54.970219	-2.09792	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stratton	51.73151	-1.98197	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Lincoln	53.230686	-0.540579	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tewkesbury	51.992264	-2.15796	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Worcester	52.192039	-2.22353	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stoke on Trent	53.016436	-2.182614	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Holsworthy	50.81041	-4.35377	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Chulmleigh	50.91281	-3.86919	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Winkleigh	50.85515	-3.94198	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kilkhampton	50.87539	-4.48412	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Chagford	50.67295	-3.8407	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newport	50.699478	-1.29319	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newbridge	55.93924	-3.40789	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Chale	50.59551	-1.31829	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Rookley	50.65486	-1.28326	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Ventnor	50.59498	-1.20589	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
-Whitwell	51.87666	-0.28302	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
-Wroxall	50.616001	-1.22277	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
+Whitwell	51.87666	-0.28302	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wroxall	50.616001	-1.22277	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Shanklin	50.62599	-1.17852	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)	yellow
-Sandown	50.6518	-1.161	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
-London	51.507351	-0.127758	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
-Darlington	54.528728	-1.55305	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
-Norwich	52.630886	1.297355	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
-Bristol	51.454514	-2.58791	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
-Bath 	51.381065	-2.359017	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
-Bridgwater	51.12756	-3.00403	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
-Wellington	50.978565	-3.224499	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
-Ayton	55.8423	-2.12289	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
-North Taunton	51.014648	-3.10345	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
-Stoke on Trent	53.016436	-2.182614	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
-Gloucester	51.866741	-2.24867	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
-Whitley	55.041859	-1.44729	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Friends/Quakers 	yellow
-Shebbear	50.861752	-4.21968	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Bible Christians	yellow
-Blaenavon	51.772301	-3.08571	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Abersychan	51.72401	-3.05874	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Pontypool	51.70045	-3.0388	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Cwmbran	51.648251	-3.02562	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Penywaen	51.73023	-3.48618	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Pen y groes	51.80035	-4.05074	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Newport	50.699478	-1.29319	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Treffgarne	51.87431	-4.96969	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-St. Just	50.1249	-5.6803	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Ventnor	50.59498	-1.20589	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Harleston	52.40106	1.29799	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Porthleaven	50.08534	-5.3179	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Leedstown	50.16079	-5.35554	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Marazion	50.123428	-5.47414	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Bethel	53.2075	-4.40092	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Camborne	50.21365	-5.30078	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Lanner	50.21558	-5.2022	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-St. Just	50.1249	-5.6803	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Harleston	52.40106	1.29799	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Porthleaven	50.08534	-5.3179	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Leedstown	50.16079	-5.35554	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llanllynfni	53.04434	-4.28193	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Pontycymer	51.61169	-3.58429	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Pwllheli	52.88737	-4.42559	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Salem	51.91828	-4.00359	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llantrisant	51.54213	-3.37314	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Mertheyr	51.747509	-3.37805	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Mertheyr	51.747509	-3.37805	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Newbridge	55.93924	-3.40789	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Rhymney	51.75953	-3.28531	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Swansea	51.621578	-3.94337	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Mount Pleasant	51.61552	-3.42116	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Trefforest	51.58902	-3.32512	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Cynwyd	52.95919	-3.40579	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llansantffraid	52.7745	-3.15438	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Dolgelly	52.74368	-3.88544	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llanidloes	52.448929	-3.54017	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Newtown	52.51315	-3.31412	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Newtown	52.51315	-3.31412	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Rhydfellen	52.38992	-4.07049	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Welshpool	52.65961	-3.14722	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Bethleham	51.90982	-3.91332	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Beulah	52.08718	-4.49797	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Brynmawr	51.79914	-3.17247	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Caerleon	51.61517	-2.95924	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Chepstow	51.63946	-2.67806	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Cwmbran	51.64825	-3.02562	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llanelly	51.818962	-3.120658	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Llanwenarth	51.83408	-3.046427	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Magor	51.58041	-2.83299	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Natyglo	51.78985	-3.17369	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Nash	52.25542	-3.01442	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Newport	50.699478	-1.29319	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Newport	50.699478	-1.29319	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Penrhos	52.880009	-4.452756	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Penycae	53.001149	-3.077678	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Penygarn	51.70777	-3.03348	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Rhymney	51.75953	-3.28531	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Rhymney	51.75953	-3.28531	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-St. Brides	51.74873	-5.17965	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-St. Melons	51.52145	-3.10652	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Sirhowy	51.78346	-3.23742	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Talywain	51.732397	-3.073376	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Tredegar	51.771709	-3.24754	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Tredegar	51.771709	-3.24754	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Usk	51.70359	-2.9033	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Victoria	51.74726	-3.19583	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Baptist Church	yellow
-Bedford	52.135712	-0.46804	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Harrold	52.20128	-0.61058	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Luton	51.87965	-0.41756	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Beaconsfield	51.610191	-0.64484	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Farrington	51.29905	-2.53376	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Maidenhead	51.522751	-0.72021	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Newbury	51.400459	-1.32185	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Rending	51.45504	-0.96909	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Staines	51.43148	-0.515525	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Uxbridge	51.545151	-0.48163	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Wallingford	51.600121	-1.12481	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Berkley	51.23559	-2.297642	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
+Sandown	50.6518	-1.161	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+London	51.507351	-0.127758	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Darlington	54.528728	-1.55305	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Norwich	52.630886	1.297355	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bristol	51.454514	-2.58791	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List			yellow
+Bath 	51.381065	-2.359017	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bridgwater	51.12756	-3.00403	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wellington	50.978565	-3.224499	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ayton	55.8423	-2.12289	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+North Taunton	51.014648	-3.10345	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stoke on Trent	53.016436	-2.182614	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Gloucester	51.866741	-2.24867	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Whitley	55.041859	-1.44729	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Shebbear	50.861752	-4.21968	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Blaenavon	51.772301	-3.08571	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Abersychan	51.72401	-3.05874	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Pontypool	51.70045	-3.0388	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cwmbran	51.648251	-3.02562	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Penywaen	51.73023	-3.48618	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Pen y groes	51.80035	-4.05074	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newport	50.699478	-1.29319	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Treffgarne	51.87431	-4.96969	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+St. Just	50.1249	-5.6803	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Ventnor	50.59498	-1.20589	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Harleston	52.40106	1.29799	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Porthleaven	50.08534	-5.3179	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Leedstown	50.16079	-5.35554	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Marazion	50.123428	-5.47414	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bethel	53.2075	-4.40092	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Camborne	50.21365	-5.30078	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Lanner	50.21558	-5.2022	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+St. Just	50.1249	-5.6803	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Harleston	52.40106	1.29799	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Porthleaven	50.08534	-5.3179	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Leedstown	50.16079	-5.35554	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanllynfni	53.04434	-4.28193	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Pontycymer	51.61169	-3.58429	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Pwllheli	52.88737	-4.42559	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Salem	51.91828	-4.00359	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llantrisant	51.54213	-3.37314	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Mertheyr	51.747509	-3.37805	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Mertheyr	51.747509	-3.37805	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newbridge	55.93924	-3.40789	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Rhymney	51.75953	-3.28531	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Swansea	51.621578	-3.94337	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Mount Pleasant	51.61552	-3.42116	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Trefforest	51.58902	-3.32512	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cynwyd	52.95919	-3.40579	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llansantffraid	52.7745	-3.15438	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dolgelly	52.74368	-3.88544	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanidloes	52.448929	-3.54017	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newtown	52.51315	-3.31412	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newtown	52.51315	-3.31412	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Rhydfellen	52.38992	-4.07049	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Welshpool	52.65961	-3.14722	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bethleham	51.90982	-3.91332	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Beulah	52.08718	-4.49797	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Brynmawr	51.79914	-3.17247	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Caerleon	51.61517	-2.95924	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Chepstow	51.63946	-2.67806	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cwmbran	51.64825	-3.02562	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanelly	51.818962	-3.120658	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanwenarth	51.83408	-3.046427	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Magor	51.58041	-2.83299	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Natyglo	51.78985	-3.17369	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Nash	52.25542	-3.01442	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newport	50.699478	-1.29319	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newport	50.699478	-1.29319	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Penrhos	52.880009	-4.452756	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Penycae	53.001149	-3.077678	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Penygarn	51.70777	-3.03348	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Rhymney	51.75953	-3.28531	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Rhymney	51.75953	-3.28531	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+St. Brides	51.74873	-5.17965	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+St. Melons	51.52145	-3.10652	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Sirhowy	51.78346	-3.23742	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Talywain	51.732397	-3.073376	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tredegar	51.771709	-3.24754	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tredegar	51.771709	-3.24754	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Usk	51.70359	-2.9033	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Victoria	51.74726	-3.19583	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bedford	52.135712	-0.46804	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Harrold	52.20128	-0.61058	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Luton	51.87965	-0.41756	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Beaconsfield	51.610191	-0.64484	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Farrington	51.29905	-2.53376	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Maidenhead	51.522751	-0.72021	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newbury	51.400459	-1.32185	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Rending	51.45504	-0.96909	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Staines	51.43148	-0.515525	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Uxbridge	51.545151	-0.48163	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Wallingford	51.600121	-1.12481	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Berkley	51.23559	-2.297642	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Cheltenham	51.899387	-2.078253	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		yellow
-Cirencester	51.71412	-1.96654	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Dursley	51.681789	-2.3543	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Frampton on Severn	51.76668	-2.36801	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Frampton Cottenrell	51.53569	-2.48136	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Kingswood	51.624359	-2.36788	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Newport Pagnell	52.08683	-0.72228	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Stony Stratford	52.056808	-0.85264	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Towcester	52.13199	-0.98842	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Winslow	51.94285	-0.88142	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Fulfourn	52.18293	0.22222	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Royston	52.048168	-0.02388	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Newmarket	52.245209	0.40336	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Sohom	52.3341	0.33713	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Chester	53.19146	-2.89501	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Stockport	53.408489	-2.14929	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Tintwhistle	53.47232	-1.97213	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Northwich	53.258678	-2.518132	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Knutsford	53.30069	-2.37254	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Middlewich	53.192566	-2.443833	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Nantwich	53.06427	-2.52001	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llangadog	51.93836	-3.88309	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Libanus	51.92017	-3.46424	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Caerphilly	51.578602	-3.21806	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Cardiff	51.481583	-3.17909	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Dinas	51.43443	-3.21924	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llantrisant	51.54213	-3.37314	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Cymmar	51.65239	-3.64815	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Llanharen	51.53836	-3.43939	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
-Bridgend	51.507259	-3.58104	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)		Independent Church	yellow
+Cirencester	51.71412	-1.96654	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dursley	51.681789	-2.3543	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Frampton on Severn	51.76668	-2.36801	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Frampton Cottenrell	51.53569	-2.48136	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Kingswood	51.624359	-2.36788	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newport Pagnell	52.08683	-0.72228	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stony Stratford	52.056808	-0.85264	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Towcester	52.13199	-0.98842	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Winslow	51.94285	-0.88142	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Fulfourn	52.18293	0.22222	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Royston	52.048168	-0.02388	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Newmarket	52.245209	0.40336	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Sohom	52.3341	0.33713	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Chester	53.19146	-2.89501	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Stockport	53.408489	-2.14929	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Tintwhistle	53.47232	-1.97213	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Northwich	53.258678	-2.518132	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Knutsford	53.30069	-2.37254	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Middlewich	53.192566	-2.443833	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Nantwich	53.06427	-2.52001	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llangadog	51.93836	-3.88309	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Libanus	51.92017	-3.46424	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Caerphilly	51.578602	-3.21806	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cardiff	51.481583	-3.17909	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Dinas	51.43443	-3.21924	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llantrisant	51.54213	-3.37314	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Cymmar	51.65239	-3.64815	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Llanharen	51.53836	-3.43939	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
+Bridgend	51.507259	-3.58104	Moses Roper	Roper	Between 1836-1848 (Narrative 1848 List)			yellow
 Grimsby	53.567471	-0.080784	James Charles Salfey		Late September 1882		Town Hall	white
 Coggeshall	51.87089	0.68547	Richard Sayers		3 May 1871		Mechanic's Institute, Church Street	white
 Wyvenhoe	51.867164	0.962572	Richard Sayers		16 May 1871		Swedenburgian Chapel	white

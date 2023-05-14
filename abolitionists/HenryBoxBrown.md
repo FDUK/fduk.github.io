@@ -10,7 +10,7 @@ Henry Brown organised perhaps the most unusual and famous escape from American s
 >Henry “Box” Brown, the celebrated American fugitive slave, begs most respectfully to inform the nobility, gentry and inhabitants of Exeter, and surrounding neighbourhood, that he will exhibit his original grand panorama of American slavery.
 > <footer><cite>Exeter and Plymouth Gazette, Saturday 9 June 1855, p.4.</cite></footer>
 
-Henry “Box” Brown (c.1815-1889?) was born enslaved in Virginia. After watching his wife and three children be sold to a plantation in North Carolina, he resolved to escape. With the help of a friend, he crammed himself into a box and mailed himself to Philadelphia, a trip that lasted 27 hours. Brown’s Narrative described how the box was turned upside down for several hours, and he thought he would pass out from the crushing weight on his head. Thankfully, abolitionists were waiting in Philadelphia to release him.
+Henry “Box” Brown (c.1815-1897) was born enslaved in Virginia. After watching his wife and three children be sold to a plantation in North Carolina, he resolved to escape. With the help of a friend, he crammed himself into a box and mailed himself to Philadelphia, a trip that lasted 27 hours. Brown’s Narrative described how the box was turned upside down for several hours, and he thought he would pass out from the crushing weight on his head. Thankfully, abolitionists were waiting in Philadelphia to release him.
 
 ![Picture of Henry "Box" Brown](/img/BoxBrown.jpg)
 <span class="caption text-muted">Henry "Box" Brown (Wikipedia)</span>

@@ -31,7 +31,7 @@ Limerick	52.66386	-8.62677	21 November 1845	Philosophical Rooms, Glentworth Stre
 Belfast	54.597286	-5.93012	5 December 1845	Independent Church, Donegall Street	Red
 Belfast	54.597286	-5.93012	9 December 1845	Wesleyan Methodist Church	Red
 Belfast	54.597286	-5.93012	11 December 1845	Presbyterian Meeting House, Donegall Street	Red
-Belfast	54.597286	-5.93012	12 December 1845	Presbyterian Church, Rosemary Street	Red
+Belfast	54.597286	-5.93012	12 December 1845	Second Presbyterian Church, Rosemary Street	Red
 Birmingham	52.486244	-1.890401	16 December 1845	Town Hall	Red
 Belfast	54.597286	-5.93012	23 December 1845	Independent Meeting House, Donegall Street	Red
 Belfast	54.597286	-5.93012	26 December 1845	Presbyterian Meeting House, Donegall Street	Red

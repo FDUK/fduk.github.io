@@ -846,7 +846,7 @@ Nairn	57.583679	-3.87514	William Craft	Craft	Mid August 1861		U.P. Church	light 
 Aberdeen	57.149715	-2.094278	William Craft	Craft	1 August 1861		Gilcomston Free Church	light blue
 Wigton	54.824841	-3.16123	William Craft	Craft	3 February 1862		Congregational Chapel	light blue
 Carlisle	54.892471	-2.932931	William Craft	Craft	Early February 1862		Mechanics' Hall	light blue
-Bromley	51.405682	0.01435	William Craft	Craft	Late March 1882		Lecture Hall, Three Mills Lane	light blue
+Bromley by Bow	51.527031	-0.009054	William Craft	Craft	Late March 1882		Lecture Hall, Three Mills Lane	light blue
 Bristol	51.454514	-2.58791	William Craft	Craft	16 April 1862		Broadmead Rooms	light blue
 Northampton	52.23484	-0.89732	William Craft	Craft	Late April 1862		Independent Chapel	light blue
 Newcastle	54.978252	-1.61778	William Craft	Craft	28 September 1863		British Association	light blue

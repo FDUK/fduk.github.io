@@ -20,7 +20,7 @@ I am absolutely indebted to Dr. Mike Gardner at the University of Nottingham, fo
 
 If you would like to learn more about the website, email me at: [hannahrose.murray78@gmail.com](mailto:hannahrose.murray78@gmail.com) 
 
-If you want to use the website in any form, please acknowledge the website as the source of the material. This is an educational, non-commercial project. I have referenced all scholarly work and the writings of Frederick Douglass, and copyright remains exclusively with them. The website and my own ideas are copyright: Hannah Murray 2022. All rights reserved.
+If you want to use the website in any form, please acknowledge the website as the source of the material. This is an educational, non-commercial project. I have referenced all scholarly work and the writings of Frederick Douglass, and copyright remains exclusively with them. The website and my own ideas are copyright: Hannah Murray 2026. All rights reserved.
 
 <img src="/img/Frederick_Douglass.jpg" alt="Frederick Douglass as a younger man"/>
 <span class="caption text-muted">Frederick Douglass as a younger man (Wikipedia)</span>
